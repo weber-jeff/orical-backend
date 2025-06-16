@@ -1,0 +1,1058 @@
+planet_meanings = {
+    "Sun": {
+        "name": "Sun",
+        "meaning": (
+            "The core essence of your identity and ego. The Sun represents your conscious self, "
+            "creative energy, vitality, and life purpose."
+        ),
+        "keywords": ["identity", "ego", "willpower", "creativity", "vitality"],
+        "strengths": [
+            "Strong leadership and confidence",
+            "Creative self-expression",
+            "Charisma and personal magnetism",
+            "Clear sense of purpose and individuality"
+        ],
+        "challenges": [
+            "Ego conflicts and pride",
+            "Overconfidence or arrogance",
+            "Tendency toward self-centeredness",
+            "Difficulty accepting limitations or criticism"
+        ],
+        "spiritual_lesson": (
+            "Learn to shine authentically while maintaining humility and respect for others."
+        ),
+        "relationship_effect": (
+            "Warm, generous, and radiant; needs to balance self-focus with empathy in relationships."
+        ),
+        "career_effect": (
+            "Excels in roles requiring leadership, creativity, and public visibility."
+        ),
+        "psychological_shadow": "Narcissism, pride, and craving for external validation.",
+        "archetype": "The King/Queen – sovereign self, the center of identity and authority.",
+        "elemental_association": "Fire",
+        "color": "Gold",
+        
+        "mythology": (
+            "In mythology, the Sun is often personified as a powerful deity symbolizing life, "
+            "strength, and illumination—like the Egyptian Ra or the Greek Helios."
+        ),
+        "ruler_info": (
+            "The Sun rules Leo, lending its qualities of vitality, creativity, and leadership "
+            "to this sign."
+        ),
+        "house_connections": (
+            "The Sun is naturally associated with the 5th House, which governs creativity, "
+            "self-expression, children, and romance."
+        ),
+        
+        "orb_angle_influence": {
+            "angular_position": (
+                "When the Sun is near key chart angles (Ascendant, IC, Descendant, Midheaven), "
+                "its energy is intensified and made more visible in the person's life."
+            ),
+            "effect": (
+                "This placement amplifies personal charisma, leadership qualities, and the "
+                "drive to express oneself confidently."
+            ),
+            "angular_details": {
+                "Ascendant (1st House)": (
+                    "The individual's identity shines brightly; they appear confident, warm, "
+                    "and self-assured."
+                ),
+                "IC (4th House)": (
+                    "Home and family life are vital to the person's sense of self and purpose."
+                ),
+                "Descendant (7th House)": (
+                    "Relationships become arenas for personal growth and self-expression."
+                ),
+                "Midheaven (10th House)": (
+                    "Career and public reputation are central to the individual's identity and life goals."
+                )
+            },
+            "suggested_orb_degrees": 8
+        }
+    },
+
+
+    "Moon": {
+        "name": "Moon",
+        "meaning": (
+            "Represents your emotional nature, instincts, and subconscious. The Moon governs feelings, "
+            "habits, and your inner world."
+        ),
+        "keywords": ["emotions", "intuition", "nurturing", "memory", "security"],
+        "strengths": [
+            "Strong emotional intelligence and empathy",
+            "Ability to nurture and care for others",
+            "Deep intuitive insight",
+            "Adaptive to changing emotional environments"
+        ],
+        "challenges": [
+            "Emotional sensitivity or moodiness",
+            "Tendency to cling to security or past patterns",
+            "Overly reactive to emotional triggers",
+            "Difficulty separating feelings from facts"
+        ],
+        "spiritual_lesson": (
+            "Learn to balance emotional needs with rational thinking; cultivate emotional resilience."
+        ),
+        "relationship_effect": (
+            "Creates a nurturing and supportive partner who values emotional connection and security."
+        ),
+        "career_effect": (
+            "Thrives in careers involving caregiving, counseling, psychology, or roles requiring empathy."
+        ),
+        "psychological_shadow": (
+            "Emotional insecurity, dependency, passive-aggressiveness, and mood swings."
+        ),
+        "archetype": "The Mother – protector of the inner emotional world and nurturer.",
+        "elemental_association": "Water",
+        "color": "Silver / Pale Blue",
+        
+        "mythology": (
+            "The Moon is often linked to goddesses of the night and fertility, such as the Greek Selene or "
+            "the Roman Luna, symbolizing cycles, intuition, and mystery."
+        ),
+        "ruler_info": (
+            "The Moon rules Cancer, influencing nurturing, protection, and emotional depth."
+        ),
+        "house_connections": (
+            "The Moon naturally relates to the 4th House, governing home, family, roots, and emotional foundations."
+        ),
+        
+        "orb_angle_influence": {
+            "angular_position": (
+                "When the Moon is near key chart angles (Ascendant, IC, Descendant, Midheaven), "
+                "emotional sensitivity and instincts become more pronounced."
+            ),
+            "effect": (
+                "This placement intensifies emotional responsiveness and influences how one experiences "
+                "security and relationships."
+            ),
+            "angular_details": {
+                "Ascendant (1st House)": (
+                    "Emotional nature is visible; the individual may appear nurturing, sensitive, or reactive."
+                ),
+                "IC (4th House)": (
+                    "Strong emotional attachment to home and family; home is a sanctuary."
+                ),
+                "Descendant (7th House)": (
+                    "Emotional needs deeply impact partnerships; seeks security and comfort in relationships."
+                ),
+                "Midheaven (10th House)": (
+                    "Public image and career may be influenced by emotional expression and reputation for caring."
+                )
+            },
+            "suggested_orb_degrees": 8
+        }
+    },
+    "mercury": {
+    "name": "Mercury",
+    "meaning": (
+        "The planet of communication, intellect, and reasoning. Mercury governs how you think, learn, "
+        "and express ideas."
+    ),
+    "keywords": ["communication", "intellect", "adaptability", "curiosity", "logic"],
+    "strengths": [
+        "Quick thinking and adaptability",
+        "Strong verbal and written communication skills",
+        "Analytical and detail-oriented",
+        "Curious and eager to learn"
+    ],
+    "challenges": [
+        "Restlessness or nervous energy",
+        "Difficulty focusing or indecision",
+        "Tendency to overthink or worry",
+        "Can be overly critical or skeptical"
+    ],
+    "spiritual_lesson": (
+        "Learn to balance logic with intuition; cultivate clarity without overanalyzing."
+    ),
+    "relationship_effect": (
+        "Engaging conversationalist who values mental connection and honesty."
+    ),
+    "career_effect": (
+        "Excels in careers involving writing, teaching, technology, sales, or any communication-based field."
+    ),
+    "psychological_shadow": (
+        "Anxiety, scattered thoughts, manipulation through words, and mental restlessness."
+    ),
+    "archetype": "The Messenger – swift, curious, and adaptable thinker.",
+    "elemental_association": "Air",
+    "color": "Yellow / Light Green",
+    
+    "mythology": (
+        "Named after the Roman messenger god Mercury (Greek Hermes), representing swiftness, cunning, and communication."
+    ),
+    "ruler_info": (
+        "Mercury rules Gemini and Virgo, emphasizing intellect, communication, and detailed analysis."
+    ),
+    "house_connections": (
+        "Mercury is linked with the 3rd House of communication, learning, siblings, and short journeys, "
+        "and the 6th House of work, health, and daily routines."
+    ),
+    
+    "orb_angle_influence": {
+        "angular_position": (
+            "When Mercury is near chart angles (Ascendant, IC, Descendant, Midheaven), "
+            "communication and thought processes become more prominent in personality and life."
+        ),
+        "effect": (
+            "This placement highlights intellectual agility and a strong need to express ideas in key life areas."
+        ),
+        "angular_details": {
+            "Ascendant (1st House)": (
+                "Quick-witted and communicative personality; ideas and words define self-expression."
+                ),
+                 "IC (4th House)": (
+                "Mental connection to home and family; learning and communication shape emotional roots."
+                ),
+                "Descendant (7th House)": (
+                "Partnerships often involve intellectual exchange; values mental rapport in relationships."
+                ),
+                "Midheaven (10th House)": (
+                "Career often revolves around communication, technology, or intellectual pursuits."
+              )
+            },
+            "suggested_orb_degrees": 8
+        }
+   },
+    "venus": {
+    "name": "Venus",
+    "meaning": (
+        "The planet of love, beauty, pleasure, and values. Venus governs your approach to relationships, "
+        "aesthetic preferences, and how you experience harmony and affection."
+    ),
+    "keywords": ["love", "beauty", "harmony", "values", "attraction"],
+    "strengths": [
+        "Natural charm and grace",
+        "Strong appreciation for beauty and aesthetics",
+        "Loyalty and devotion in relationships",
+        "Peacemaking and diplomatic tendencies"
+    ],
+    "challenges": [
+        "Avoidance of conflict or discomfort",
+        "Overindulgence or materialism",
+        "Dependency in relationships",
+        "Struggles with setting boundaries"
+    ],
+    "spiritual_lesson": (
+        "Learn to cultivate love from within, and balance outer beauty and connection with inner worth and integrity."
+    ),
+    "relationship_effect": (
+        "Seeks harmony and emotional fulfillment; romantic, affectionate, and attuned to a partner's needs."
+    ),
+    "career_effect": (
+        "Thrives in fields involving art, design, beauty, relationships, finance, or diplomacy."
+    ),
+    "psychological_shadow": (
+        "Vanity, superficiality, passive-aggressiveness, and over-attachment to comfort or validation through others."
+    ),
+    "archetype": "The Lover – sensual, magnetic, and relationally attuned.",
+    "elemental_association": "Earth (Taurus) and Air (Libra)",
+    "color": "Rose Pink / Emerald Green",
+    
+    "mythology": (
+        "Named after the Roman goddess of love and beauty (Greek Aphrodite), Venus represents desire, harmony, and the allure of pleasure."
+    ),
+    "ruler_info": (
+        "Venus rules both Taurus (grounded sensuality, material values) and Libra (social grace, partnership, balance)."
+    ),
+    "house_connections": (
+        "Venus is associated with the 2nd House (values, self-worth, possessions) and the 7th House (relationships, partnerships, balance)."
+    ),
+    
+    "orb_angle_influence": {
+        "angular_position": (
+            "When Venus is near a chart angle (Ascendant, IC, Descendant, Midheaven), it amplifies beauty, charm, and relational influence."
+        ),
+        "effect": (
+            "This enhances magnetism and artistic or romantic expression, making love and values central themes in key life areas."
+        ),
+        "angular_details": {
+            "Ascendant (1st House)": (
+                "Physically attractive or charming demeanor; leads with grace and likability."
+            ),
+            "IC (4th House)": (
+                "Seeks beauty, comfort, and peace at home; emotionally nurtured by aesthetics and love."
+            ),
+            "Descendant (7th House)": (
+                "Draws romantic and harmonious relationships; idealizes partnership and seeks balance."
+            ),
+            "Midheaven (10th House)": (
+                "Public image infused with grace or artistry; careers may involve art, beauty, diplomacy, or social charm."
+            )
+        },
+        "suggested_orb_degrees": 8
+    }
+},
+    "mars": {
+    "name": "Mars",
+    "meaning": (
+        "Mars represents drive, action, aggression, and physical energy. It governs how you assert yourself, pursue goals, "
+        "and handle conflict, anger, and sexual desire."
+    ),
+    "keywords": ["action", "assertiveness", "drive", "passion", "aggression"],
+    "strengths": [
+        "Strong willpower and determination",
+        "Courageous and bold when facing challenges",
+        "Initiative and leadership in action",
+        "Highly motivated and energetic"
+    ],
+    "challenges": [
+        "Impulsiveness and hot temper",
+        "Aggressiveness or dominance",
+        "Impatience with obstacles or delays",
+        "Difficulty expressing anger constructively"
+    ],
+    "spiritual_lesson": (
+        "Transform raw aggression into disciplined action; align personal drive with purposeful intent."
+    ),
+    "relationship_effect": (
+        "Passionate and direct; needs physical and emotional stimulation. May struggle with patience or compromise."
+    ),
+    "career_effect": (
+        "Excels in competitive, high-energy fields such as sports, leadership, engineering, military, or entrepreneurship."
+    ),
+    "psychological_shadow": (
+        "Unchecked anger, destructive competition, toxic masculinity, or a need to dominate and conquer."
+    ),
+    "archetype": "The Warrior – driven by instinct, courage, and conquest.",
+    "elemental_association": "Fire",
+    "color": "Scarlet / Blood Red",
+    
+    "mythology": (
+        "Named after the Roman god of war (Greek Ares), Mars embodies aggression, survival instinct, and the will to act."
+    ),
+    "ruler_info": (
+        "Mars rules Aries (initiative, direct action, independence) and traditionally also Scorpio (intensity, transformation, controlled power)."
+    ),
+    "house_connections": (
+        "Mars is associated with the 1st House (self, assertion, physical body) and the 8th House (power, transformation, sexuality)."
+    ),
+    
+    "orb_angle_influence": {
+        "angular_position": (
+            "When Mars is near a chart angle (Ascendant, IC, Descendant, Midheaven), it intensifies action, assertiveness, and drive in that life area."
+        ),
+        "effect": (
+            "It makes the individual more dynamic, bold, and confrontational—either a leader or a fighter depending on expression."
+        ),
+        "angular_details": {
+            "Ascendant (1st House)": (
+                "Highly energetic, direct, and physical presence. May come off as aggressive or competitive."
+            ),
+            "IC (4th House)": (
+                "Tension or assertiveness in the family dynamic; home may be a site of both strength and conflict."
+            ),
+            "Descendant (7th House)": (
+                "Relationships are passionate and sometimes combative. Seeks partners with fire and strength."
+            ),
+            "Midheaven (10th House)": (
+                "Career driven by ambition and bold action; excels in leadership or competitive professions."
+            )
+        },
+        "suggested_orb_degrees": 8
+    }
+},
+    "Jupiter": {
+    "name": "Jupiter",
+    "meaning": (
+        "Jupiter symbolizes expansion, wisdom, optimism, and growth. It governs higher learning, travel, philosophy, justice, "
+        "and the broader search for meaning. Often seen as the planet of luck and abundance."
+    ),
+    "keywords": ["expansion", "wisdom", "abundance", "optimism", "faith"],
+    "strengths": [
+        "Visionary thinking and philosophical insight",
+        "Generosity and open-mindedness",
+        "Inspires hope, faith, and moral values",
+        "Good fortune and ability to attract opportunities"
+    ],
+    "challenges": [
+        "Overindulgence or extravagance",
+        "Dogmatism or moral superiority",
+        "Restlessness or overextension",
+        "Naivety or unrealistic expectations"
+    ],
+    "spiritual_lesson": (
+        "Balance growth and expansion with humility and grounded wisdom; use blessings to uplift others."
+    ),
+    "relationship_effect": (
+        "Brings optimism, generosity, and a desire for shared growth; may seek partners who expand horizons intellectually or spiritually."
+    ),
+    "career_effect": (
+        "Excels in education, law, travel, publishing, philosophy, or any field involving inspiration, ethics, or exploration."
+    ),
+    "psychological_shadow": (
+        "Tendency to overestimate oneself or rely too much on luck; avoidance of limits or responsibilities."
+    ),
+    "archetype": "The Sage – seeker of truth, meaning, and expansion.",
+    "elemental_association": "Fire",
+    "color": "Royal Blue / Purple",
+
+    "mythology": (
+        "Named after the Roman king of the gods (Greek Zeus), Jupiter represents divine order, cosmic justice, and the expansive will of heaven."
+    ),
+    "ruler_info": (
+        "Jupiter rules Sagittarius (exploration, philosophy, freedom) and traditionally Pisces (spirituality, compassion, imagination)."
+    ),
+    "house_connections": (
+        "Jupiter is associated with the 9th House (philosophy, long-distance travel, belief systems) and has resonance with the 12th House (spiritual growth and transcendence)."
+    ),
+
+    "orb_angle_influence": {
+        "angular_position": (
+            "When Jupiter is near chart angles (Ascendant, IC, Descendant, Midheaven), it amplifies vision, confidence, and opportunity in those areas."
+        ),
+        "effect": (
+            "Jupiter near an angle blesses that area with enthusiasm, growth, and often a positive public perception or inner moral compass."
+        ),
+        "angular_details": {
+            "Ascendant (1st House)": (
+                "Optimistic and expansive personality; seen as wise, jovial, or larger-than-life."
+            ),
+            "IC (4th House)": (
+                "A fortunate or morally guided family life; home as a source of inspiration and philosophy."
+            ),
+            "Descendant (7th House)": (
+                "Attracts generous, philosophical partners; relationships as a source of learning and adventure."
+            ),
+            "Midheaven (10th House)": (
+                "Public role includes teaching, leading, or inspiring others; often a successful or well-regarded career path."
+            )
+        },
+        "suggested_orb_degrees": 8
+    }
+},
+    "Saturn": {
+    "name": "Saturn",
+    "meaning": (
+        "Saturn represents structure, discipline, responsibility, and limitation. It governs time, mastery, karma, authority, "
+        "and the process of maturation through challenge and persistence. Often seen as the 'teacher' or 'taskmaster' planet."
+    ),
+    "keywords": ["discipline", "structure", "responsibility", "karma", "boundaries"],
+    "strengths": [
+        "Strong sense of duty and perseverance",
+        "Realistic outlook and long-term planning ability",
+        "Self-control and inner strength",
+        "Ability to achieve mastery through hard work"
+    ],
+    "challenges": [
+        "Fear of failure or inadequacy",
+        "Pessimism or excessive caution",
+        "Emotional repression or rigidity",
+        "Authoritarian tendencies"
+    ],
+    "spiritual_lesson": (
+        "Learn to turn obstacles into stepping stones; embrace responsibility as a path to empowerment."
+    ),
+    "relationship_effect": (
+        "Loyal and committed, but may struggle with emotional expression; values long-term security and stability."
+    ),
+    "career_effect": (
+        "Thrives in structured environments; suited for leadership, government, engineering, architecture, or any role requiring discipline and authority."
+    ),
+    "psychological_shadow": (
+        "Self-imposed limitations, guilt, rigidity, and harsh inner critic."
+    ),
+    "archetype": "The Elder / Judge – wise, authoritative, and often austere mentor or lawgiver.",
+    "elemental_association": "Earth",
+    "color": "Charcoal Gray / Black",
+
+    "mythology": (
+        "Named after the Roman god of time and order (Greek Kronos), Saturn symbolizes inevitability, cycles, and karmic lessons."
+    ),
+    "ruler_info": (
+        "Saturn rules Capricorn (discipline, ambition, systems) and traditionally Aquarius (before Uranus’ discovery – associated with order and vision)."
+    ),
+    "house_connections": (
+        "Saturn is associated with the 10th House (career, status, authority) and the 11th House (goals, institutions, collective responsibility)."
+    ),
+
+    "orb_angle_influence": {
+        "angular_position": (
+            "When Saturn is near chart angles (Ascendant, IC, Descendant, Midheaven), its energy brings focus, responsibility, and tests to those life areas."
+        ),
+        "effect": (
+            "Saturn on an angle brings gravitas and challenges, but also deep potential for growth, authority, and mastery through effort."
+        ),
+        "angular_details": {
+            "Ascendant (1st House)": (
+                "Serious, disciplined, and mature outward demeanor; may appear reserved or authoritative."
+            ),
+            "IC (4th House)": (
+                "Strict upbringing or emotionally reserved home environment; may carry deep responsibilities from early life."
+            ),
+            "Descendant (7th House)": (
+                "Relationships require commitment and patience; may attract older or more responsible partners."
+            ),
+            "Midheaven (10th House)": (
+                "Career built slowly with effort; known for integrity, leadership, or legacy. Often tested in the public eye."
+            )
+        },
+        "suggested_orb_degrees": 6
+    }
+},
+
+    "Uranus": {
+    "name": "Uranus",
+    "meaning": (
+        "Uranus symbolizes innovation, sudden change, rebellion, and liberation. It governs breakthroughs, originality, awakening, "
+        "and the urge to break free from convention. Often considered the cosmic 'revolutionary' or 'awakener.'"
+    ),
+    "keywords": ["innovation", "freedom", "rebellion", "awakening", "eccentricity"],
+    "strengths": [
+        "Original thinking and visionary insight",
+        "Strong drive for freedom and authenticity",
+        "Willingness to challenge outdated norms",
+        "Inventive and future-oriented"
+    ],
+    "challenges": [
+        "Erratic behavior and unpredictability",
+        "Rebelliousness for its own sake",
+        "Detachment or emotional aloofness",
+        "Difficulty with routine and authority"
+    ],
+    "spiritual_lesson": (
+        "Awaken to higher consciousness by embracing your uniqueness and disrupting patterns that limit evolution."
+    ),
+    "relationship_effect": (
+        "Needs personal freedom and intellectual stimulation in partnerships; may avoid conventional or emotionally intense bonds."
+    ),
+    "career_effect": (
+        "Excels in tech, science, innovation, activism, or unconventional paths; drawn to careers that break molds or spark change."
+    ),
+    "psychological_shadow": (
+        "Alienation, shock-driven decisions, resistance to grounding, and a chaotic personal rhythm."
+    ),
+    "archetype": "The Rebel / The Genius – one who disrupts for evolution and progress.",
+    "elemental_association": "Air",
+    "color": "Electric Blue / Silver",
+
+    "mythology": (
+        "Named after the Greek sky god Uranus, who fathered the Titans. Uranus represents cosmic intelligence, the heavens, and creative disruption."
+    ),
+    "ruler_info": (
+        "Uranus is the modern ruler of Aquarius, replacing Saturn. It governs radical change, collective progress, and visionary ideas."
+    ),
+    "house_connections": (
+        "Primarily associated with the 11th House (groups, innovation, collective ideals, future-thinking)."
+    ),
+
+    "orb_angle_influence": {
+        "angular_position": (
+            "When Uranus is near chart angles (Ascendant, IC, Descendant, Midheaven), its energy brings shock, originality, and rapid evolution to those life areas."
+        ),
+        "effect": (
+            "Expect breakthroughs, disruptions, or awakenings in your identity, home, partnerships, or public image. Uranus pushes boundaries to spark growth."
+        ),
+        "angular_details": {
+            "Ascendant (1st House)": (
+                "Highly individualistic and unconventional appearance or persona; others may see you as eccentric or futuristic."
+            ),
+            "IC (4th House)": (
+                "Unusual or unstable early home life; emotional roots tied to freedom or alienation."
+            ),
+            "Descendant (7th House)": (
+                "Attracts unconventional partners; needs space and novelty in relationships; may experience sudden relationship shifts."
+            ),
+            "Midheaven (10th House)": (
+                "Career may be unexpected, ahead of its time, or involve innovation and reform. Public life marked by sudden changes."
+            )
+        },
+        "suggested_orb_degrees": 5
+    }
+},
+
+    "Neptune": {    
+    "name": "Neptune",
+    "meaning": (
+        "Neptune symbolizes dreams, intuition, illusions, and spiritual transcendence. It represents the mystical, idealistic, and sometimes confusing forces "
+        "that blur boundaries and invite surrender to the unknown. Neptune dissolves the material to reveal the divine."
+    ),
+    "keywords": ["dreams", "intuition", "illusion", "spirituality", "compassion"],
+    "strengths": [
+        "Deep spiritual insight and empathy",
+        "Rich imagination and artistic sensitivity",
+        "Ability to inspire and uplift others",
+        "Transcendental thinking and connection to the unseen"
+    ],
+    "challenges": [
+        "Escapism and denial of reality",
+        "Addiction or confusion",
+        "Lack of clarity or boundaries",
+        "Over-idealism or martyrdom"
+    ],
+    "spiritual_lesson": (
+        "Learn to discern spiritual truth from illusion; embrace compassion while staying grounded in reality."
+    ),
+    "relationship_effect": (
+        "Loving and romantic, but may idealize others or avoid facing difficult truths; needs spiritual or emotional connection."
+    ),
+    "career_effect": (
+        "Thrives in the arts, healing, spiritual vocations, or any field where imagination and compassion are key."
+    ),
+    "psychological_shadow": (
+        "Delusion, victimization, escapism, emotional fog, and codependence."
+    ),
+    "archetype": "The Mystic / The Dreamer – a seeker of the divine who dissolves the veil between worlds.",
+    "elemental_association": "Water",
+    "color": "Seafoam Green / Indigo",
+
+    "mythology": (
+        "Named after Neptune, the Roman god of the sea (Greek: Poseidon), Neptune governs the vast, emotional, and mysterious ocean of the psyche."
+    ),
+    "ruler_info": (
+        "Neptune is the modern ruler of Pisces. It governs dreams, mysticism, and the longing for unity with the divine."
+    ),
+    "house_connections": (
+        "Primarily associated with the 12th House (spirituality, hidden realms, sacrifice, dreams, and subconscious)."
+    ),
+
+    "orb_angle_influence": {
+        "angular_position": (
+            "When Neptune is near chart angles (Ascendant, IC, Descendant, Midheaven), it brings spiritual sensitivity, creativity, and potential confusion or deception."
+        ),
+        "effect": (
+            "These placements amplify compassion, psychic receptivity, and dreamlike tendencies, but may cloud practical judgment or personal boundaries."
+        ),
+        "angular_details": {
+            "Ascendant (1st House)": (
+                "Mystical or ethereal persona; may appear elusive or otherworldly to others."
+            ),
+            "IC (4th House)": (
+                "Home life tied to spirituality or secrecy; emotional foundations may be unclear or shifting."
+            ),
+            "Descendant (7th House)": (
+                "Attracts sensitive or spiritual partners; may struggle with illusion or emotional projection in relationships."
+            ),
+            "Midheaven (10th House)": (
+                "Career may involve the arts, healing, or spirituality; public image could be unclear or glamorized."
+            )
+        },
+        "suggested_orb_degrees": 5
+    }
+},
+
+    "Pluto": {
+    "name": "Pluto",
+    "meaning": (
+        "Pluto symbolizes transformation, power, destruction, and rebirth. It governs the deep unconscious, the cycle of death and renewal, and the hidden "
+        "forces that drive psychological and collective evolution. Pluto represents intensity, control, and metamorphosis."
+    ),
+    "keywords": ["transformation", "power", "rebirth", "intensity", "control"],
+    "strengths": [
+        "Profound capacity for regeneration",
+        "Emotional resilience and strength",
+        "Depth of insight and truth-seeking",
+        "Ability to evolve through crisis and uncover hidden truths"
+    ],
+    "challenges": [
+        "Control issues",
+        "Obsession or compulsion",
+        "Fear of letting go",
+        "Power struggles and emotional extremes"
+    ],
+    "spiritual_lesson": (
+        "Learn to surrender to transformation; embrace the cycles of death and rebirth to uncover true empowerment."
+    ),
+    "relationship_effect": (
+        "Creates intense emotional bonds, often transformative; can lead to power dynamics or deeply karmic relationships."
+    ),
+    "career_effect": (
+        "Thrives in fields involving psychology, research, investigation, healing, finance, or anything transformative or strategic."
+    ),
+    "psychological_shadow": (
+        "Manipulation, fear of vulnerability, repression, obsession with control or secrecy."
+    ),
+    "archetype": "The Alchemist / The Phoenix – the force of death and rebirth that purifies and empowers.",
+    "elemental_association": "Fire (via Scorpio)",
+    "color": "Black / Deep Burgundy",
+
+    "mythology": (
+        "Named after Pluto, Roman god of the underworld (Greek: Hades), ruler of the hidden realm of the dead and the riches beneath the Earth."
+    ),
+    "ruler_info": (
+        "Pluto is the modern ruler of Scorpio. It governs transformation, the unconscious, sexuality, power, and regeneration."
+    ),
+    "house_connections": (
+        "Strongly linked with the 8th House (death, sex, transformation, shared resources, and hidden matters)."
+    ),
+
+    "orb_angle_influence": {
+        "angular_position": (
+            "When Pluto is near chart angles (Ascendant, IC, Descendant, Midheaven), its influence becomes deeply transformative and intense, driving evolution or upheaval."
+        ),
+        "effect": (
+            "These placements add psychological intensity, power struggles, and a need for deep personal or societal change. Often felt as fated or karmic."
+        ),
+        "angular_details": {
+            "Ascendant (1st House)": (
+                "Commanding presence with intense personal magnetism; others may perceive power, mystery, or intimidation."
+            ),
+            "IC (4th House)": (
+                "Profound psychological roots in family dynamics; home life may be controlling, transformative, or secretive."
+            ),
+            "Descendant (7th House)": (
+                "Attracts transformative and intense partners; relationships may be deeply karmic or involve control themes."
+            ),
+            "Midheaven (10th House)": (
+                "Powerful public image or career role; often a transformational figure, either feared or respected."
+            )
+        },
+        "suggested_orb_degrees": 3
+    }
+},
+
+    "Chiron": {
+    "name": "Chiron",
+    "meaning": (
+        "Chiron represents the Wounded Healer archetype. It symbolizes our deepest wounds—often emotional or psychological—and our ability to transform them "
+        "into sources of wisdom, empathy, and healing for others. Chiron bridges the personal and transpersonal realms of experience."
+    ),
+    "keywords": ["wound", "healing", "empathy", "wisdom", "transcendence"],
+    "strengths": [
+        "Deep emotional intelligence",
+        "Empathy and compassion from lived experience",
+        "Ability to heal others through presence and insight",
+        "Wisdom through adversity"
+    ],
+    "challenges": [
+        "Chronic emotional wounds",
+        "Fear of vulnerability",
+        "Difficulty trusting healing processes",
+        "Self-sabotage due to unresolved pain"
+    ],
+    "spiritual_lesson": (
+        "True healing comes from acknowledging your pain and embracing it as a teacher—not a prison. By healing yourself, you help heal the collective."
+    ),
+    "relationship_effect": (
+        "May attract wounded individuals or have healing dynamics in love; intimacy can reveal both pain and potential for deep healing."
+    ),
+    "career_effect": (
+        "Drawn to roles in healing, counseling, teaching, art, or advocacy—especially where vulnerability is turned into strength."
+    ),
+    "psychological_shadow": (
+        "Unhealed wounds that manifest as cynicism, martyrdom, or fear of being seen."
+    ),
+    "archetype": "The Wounded Healer – who teaches and heals through pain transformed into wisdom.",
+    "elemental_association": "Varies by sign (Chiron acts as a bridge between personal and transpersonal elements)",
+    "color": "Turquoise or Soft Violet",
+
+    "mythology": (
+        "Named after Chiron, the wise centaur of Greek mythology who, though immortal, suffered a wound that could not heal. He became a master teacher, healer, and mentor to heroes."
+    ),
+    "ruler_info": (
+        "Chiron is not traditionally a ruler, but it resonates with Virgo (healing, refinement) and Sagittarius (wisdom, teaching)."
+    ),
+    "house_connections": (
+        "Wherever Chiron sits by house indicates the area of life where you carry core wounds and potential for deep healing and service."
+    ),
+
+    "orb_angle_influence": {
+        "angular_position": (
+            "When Chiron is near an angle (Ascendant, IC, Descendant, Midheaven), its healing themes become visible and central to identity, relationships, family, or career."
+        ),
+        "effect": (
+            "The wound becomes public or personal, yet also the key to your most meaningful work. These people often become healers, guides, or advocates."
+        ),
+        "angular_details": {
+            "Ascendant (1st House)": (
+                "The wound is part of identity. A visible sensitivity that may become a source of resilience, inspiration, or mentorship."
+            ),
+            "IC (4th House)": (
+                "Early family wounds may shape emotional foundations. Healing the inner child becomes crucial for wholeness."
+            ),
+            "Descendant (7th House)": (
+                "Relationships reflect the wound. Can attract wounded partners or become a healer in love. Growth comes from emotional truth."
+            ),
+            "Midheaven (10th House)": (
+                "A public role as a guide, healer, or teacher. May experience vulnerability in career before rising as a compassionate authority."
+            )
+        },
+        "suggested_orb_degrees": 3
+    }
+},
+
+     
+    "North Node": {
+    "name": "North Node",
+    "meaning": (
+        "The North Node represents your soul's evolutionary direction—where you are headed in this lifetime. "
+        "It is not a planet but a powerful point in your chart that indicates the qualities, experiences, and path that lead to spiritual growth and fulfillment. "
+        "It often feels unfamiliar but deeply meaningful when embraced."
+    ),
+    "keywords": ["destiny", "growth", "soul mission", "evolution", "karmic path"],
+    "strengths": [
+        "A strong inner compass when aligned with life purpose",
+        "Courage to step into growth",
+        "Openness to unfamiliar but meaningful paths",
+        "Ability to evolve through intentional choices"
+    ],
+    "challenges": [
+        "Fear of the unknown",
+        "Resistance to growth",
+        "Over-attachment to past habits (South Node)",
+        "Feeling lost or out of place early in life"
+    ],
+    "spiritual_lesson": (
+        "Embrace discomfort as part of growth. You are here to become something new—not to repeat old karmic loops."
+    ),
+    "relationship_effect": (
+        "Partnerships may either support or challenge your growth. Aligning with people who share or encourage your soul path is key."
+    ),
+    "career_effect": (
+        "Best suited for careers that push you out of your comfort zone and align with your higher purpose. "
+        "Often the most fulfilling work is not what feels easy, but what feels right."
+    ),
+    "psychological_shadow": (
+        "Avoidance of responsibility for soul growth; clinging to comfort and security of the known (South Node)."
+    ),
+    "archetype": "The Seeker of Destiny – called to walk the road less traveled toward purpose.",
+    "elemental_association": "Varies by sign of the North Node",
+    "color": "White or Indigo (symbolizing spiritual path and awakening)",
+
+    "mythology": (
+        "In Vedic astrology, the North Node is known as Rahu—a shadow planet representing material ambition and the pursuit of new experiences. "
+        "Its Western interpretation focuses more on soul growth and karmic destiny."
+    ),
+    "ruler_info": (
+        "Takes on traits of the ruling planet of the sign it is in. For example, North Node in Leo is influenced by the Sun."
+    ),
+    "house_connections": (
+        "The house where your North Node falls reveals the life area where growth, purpose, and evolution unfold. "
+        "It shows where you're meant to develop new skills and step into destiny."
+    ),
+
+    "orb_angle_influence": {
+        "angular_position": (
+            "When the North Node is near a chart angle (Ascendant, IC, Descendant, Midheaven), the soul's mission becomes especially prominent and active."
+        ),
+        "effect": (
+            "You are called to live your purpose publicly (MC), through relationships (DSC), emotional roots (IC), or personal identity (ASC). "
+            "These individuals often feel a strong sense of fate or mission."
+        ),
+        "angular_details": {
+            "Ascendant (1st House)": (
+                "Destiny is tied to forming a strong, authentic identity. Life urges personal courage and initiation."
+            ),
+            "IC (4th House)": (
+                "Soul growth comes through emotional maturity, healing ancestral roots, and building inner security."
+            ),
+            "Descendant (7th House)": (
+                "Relationships are central to spiritual evolution. Growth occurs through learning compromise, empathy, and partnership."
+            ),
+            "Midheaven (10th House)": (
+                "Public roles, career, and legacy are tied to destiny. There may be a calling to lead, serve, or inspire others through life’s work."
+            )
+        },
+        "suggested_orb_degrees": 4
+    }
+},
+
+    "South Node": {
+    "name": "South Node",
+    "meaning": (
+        "The South Node represents your karmic past—innate talents, habits, and emotional patterns carried over from previous lifetimes. "
+        "It shows where you feel most comfortable and skilled, but also where you risk stagnation if you cling too tightly. "
+        "It balances the North Node, offering a foundation but warning against over-dependence."
+    ),
+    "keywords": ["karma", "past lives", "comfort zone", "habits", "innate talent"],
+    "strengths": [
+        "Natural abilities and refined skills",
+        "Strong instinctual wisdom",
+        "Familiarity and emotional security",
+        "Deep-rooted talents from past experiences"
+    ],
+    "challenges": [
+        "Complacency",
+        "Avoidance of growth",
+        "Living on autopilot",
+        "Over-attachment to what's known"
+    ],
+    "spiritual_lesson": (
+        "Honor your past without being ruled by it. Use its strengths as a base—but walk forward toward your soul’s evolution."
+    ),
+    "relationship_effect": (
+        "Can draw you into familiar relationship dynamics that feel safe but may inhibit growth. Ideal when past comfort supports future evolution."
+    ),
+    "career_effect": (
+        "Talents may lead to early career success, but real fulfillment comes from stretching into your North Node path."
+    ),
+    "psychological_shadow": (
+        "Fear of change; resistance to risk or discomfort; clinging to outdated roles or identities that no longer serve evolution."
+    ),
+    "archetype": "The Past-Life Master – skilled but called to evolve beyond comfort.",
+    "elemental_association": "Varies by sign of the South Node",
+    "color": "Gray or Brown (symbolizing grounding and memory)",
+
+    "mythology": (
+        "In Vedic astrology, the South Node is known as Ketu—a headless body representing detachment, spiritual insight, and past karmas. "
+        "Western astrology sees it as the point of instinctual fallback—the road you've already walked."
+    ),
+    "ruler_info": (
+        "Takes on the qualities of the planetary ruler of the South Node’s sign. For example, South Node in Capricorn draws from Saturn’s influence."
+    ),
+    "house_connections": (
+        "The house of the South Node reveals the area of life where you have past-life familiarity or comfort, but also where too much focus may hold you back."
+    ),
+
+    "orb_angle_influence": {
+        "angular_position": (
+            "When the South Node is near chart angles (Ascendant, IC, Descendant, Midheaven), the past plays a prominent role in identity, family, career, or relationships."
+        ),
+        "effect": (
+            "These individuals often feel pulled between the past and future. The South Node at an angle can show early-life strength or karma that must be consciously evolved beyond."
+        ),
+        "angular_details": {
+            "Ascendant (1st House)": (
+                "Strong personality habits formed from past lives. You may default to instinctive behavior and struggle with asserting new identity."
+            ),
+            "IC (4th House)": (
+                "Emotional security is rooted in the past or family lineage. There may be ancestral karma or early home attachments to overcome."
+            ),
+            "Descendant (7th House)": (
+                "Comfort in relationship roles from past lives. Growth comes from creating new dynamics rather than repeating familiar ones."
+            ),
+            "Midheaven (10th House)": (
+                "Career success may come easily early in life, but true growth demands pursuing a new form of contribution or visibility."
+            )
+        },
+        "suggested_orb_degrees": 4
+    }
+},
+
+    "Lilith": {
+    "name": "Lilith (Black Moon)",
+    "meaning": (
+        "Lilith represents the dark, untamed, and primal feminine energy within the psyche. "
+        "She embodies independence, raw sexuality, rebellion against oppression, and the shadow aspects of the self. "
+        "Lilith challenges societal norms and exposes where you refuse to be controlled or silenced."
+    ),
+    "keywords": ["independence", "rebellion", "sexuality", "shadow self", "empowerment"],
+    "strengths": [
+        "Strong will and fierce independence",
+        "Courage to confront taboo subjects",
+        "Deep connection to primal instincts and desires",
+        "Ability to embrace and transform shadow aspects"
+    ],
+    "challenges": [
+        "Feelings of alienation or rejection",
+        "Struggles with control and power dynamics",
+        "Fear of vulnerability masked by defensiveness",
+        "Potential for destructive rebelliousness if unbalanced"
+    ],
+    "spiritual_lesson": (
+        "Learn to own your power without alienating others; integrate your shadow to find authentic self-expression."
+    ),
+    "relationship_effect": (
+        "Attracts intense, transformative relationships that challenge traditional roles and encourage personal growth."
+    ),
+    "career_effect": (
+        "Thrives in roles that require boldness, creativity, and challenging the status quo, such as activism, arts, or leadership."
+    ),
+    "psychological_shadow": (
+        "Suppressed anger, fear of abandonment, and the impulse to rebel destructively."
+    ),
+    "archetype": "The Rebel Goddess – wild, unapologetic, and fiercely autonomous.",
+    "elemental_association": "Water and Fire (passion and depth)",
+    "color": "Deep Black / Dark Purple",
+
+    "mythology": (
+        "Lilith originates from ancient Mesopotamian myth and Jewish folklore as a first wife of Adam who refused to submit and left Eden. "
+        "She symbolizes feminine autonomy and the power of the unconscious shadow."
+    ),
+    "ruler_info": (
+        "Lilith is not a planet but a mathematical point; it acts as a powerful symbol of inner wildness rather than a ruling planet."
+    ),
+    "house_connections": (
+        "The house placement of Lilith reveals the area of life where you experience issues of power, taboo, and personal freedom."
+    ),
+
+    "orb_angle_influence": {
+        "angular_position": (
+            "When Lilith is near key angles (Ascendant, IC, Descendant, Midheaven), the native’s identity and life areas are marked by intense themes of independence and shadow work."
+        ),
+        "effect": (
+            "This placement can amplify magnetic allure and deep emotional undercurrents, often stirring both attraction and fear in others."
+        ),
+        "angular_details": {
+            "Ascendant (1st House)": (
+                "Project a powerful, enigmatic persona; unapologetically authentic but possibly intimidating."
+            ),
+            "IC (4th House)": (
+                "Deep, transformative family or emotional roots; a need to heal ancestral wounds related to repression."
+            ),
+            "Descendant (7th House)": (
+                "Relationships often intense, transformative, and may challenge social norms or expectations."
+            ),
+            "Midheaven (10th House)": (
+                "Career path may involve breaking barriers, pioneering new ideas, or confronting cultural taboos."
+            )
+        },
+        "suggested_orb_degrees": 5
+    }
+}
+}
+
+def get_planet_report(planet_name: str) -> str:
+    """Generate a detailed planet report string based on planet_meanings dictionary."""
+    data = planet_meanings.get(planet_name)
+    if not data:
+        return f"Error: Planet '{planet_name}' not found."
+
+    report = "=" * 60 + "\n"
+    report += f"🌌 Planet: {data.get('name', planet_name)}\n"
+    report += "=" * 60 + "\n"
+
+    # Core Info
+    report += f"📖 Meaning:\n{data.get('meaning', 'No meaning available.')}\n\n"
+    report += f"🔑 Keywords: {', '.join(data.get('keywords', []))}\n\n"
+
+    # Strengths & Challenges
+    report += "💪 Strengths:\n"
+    for s in data.get('strengths', []):
+        report += f"  - {s}\n"
+    report += "\n⚠️ Challenges:\n"
+    for c in data.get('challenges', []):
+        report += f"  - {c}\n"
+    report += "\n"
+
+    # Spiritual Lesson
+    report += f"🧘 Spiritual Lesson:\n{data.get('spiritual_lesson', 'N/A')}\n\n"
+
+    # Relationship & Career Effects (optional)
+    if 'relationship_effect' in data:
+        report += f"❤️ Relationship Effect:\n{data['relationship_effect']}\n\n"
+    if 'career_effect' in data:
+        report += f"💼 Career Effect:\n{data['career_effect']}\n\n"
+
+    # Psychological Shadow
+    report += f"👤 Psychological Shadow:\n{data.get('psychological_shadow', 'N/A')}\n\n"
+
+    # Archetype, Element, Color
+    report += f"🧙 Archetype:\n{data.get('archetype', 'N/A')}\n"
+    report += f"🌿 Elemental Association: {data.get('elemental_association', 'N/A')}\n"
+    report += f"🎨 Color: {data.get('color', 'N/A')}\n\n"
+
+    # Mythology, Ruler Info, House Connections (optional)
+    if 'mythology' in data:
+        report += f"📜 Mythology:\n{data['mythology']}\n\n"
+    if 'ruler_info' in data:
+        report += f"👑 Rulership Info:\n{data['ruler_info']}\n\n"
+    if 'house_connections' in data:
+        report += f"🏠 House Connections:\n{data['house_connections']}\n\n"
+
+    # Orb/Angle Influence (optional and detailed)
+    orb = data.get('orb_angle_influence')
+    if orb:
+        report += "🔭 Orb/Angle Influence:\n"
+        report += f"  Angular Position:\n    {orb.get('angular_position', '')}\n"
+        report += f"  Effect:\n    {orb.get('effect', '')}\n"
+        report += "  Angular Details:\n"
+        for angle, desc in orb.get('angular_details', {}).items():
+            report += f"    - {angle}: {desc}\n"
+        report += f"  Suggested Orb Degrees: {orb.get('suggested_orb_degrees', 'N/A')}\n"
+
+    report += "=" * 60 + "\n"
+    return report

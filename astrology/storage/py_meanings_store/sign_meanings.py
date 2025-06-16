@@ -1,0 +1,832 @@
+
+sign_meanings = {
+
+    "Aries": {
+        "name": "Aries",
+        "symbol": "♈",
+        "elemental_association": "Fire",
+        "color": "Red",
+        "meaning": (
+            "Aries is the pioneering fire sign known for courage, initiative, and boundless energy. "
+            "People born under Aries are natural leaders, fiercely independent, and quick to act on their passions."
+        ),
+        "keywords": ["courage", "initiative", "passion", "leadership", "impulsiveness"],
+        "strengths": [
+            "Energetic and enthusiastic",
+            "Natural leadership qualities",
+            "Honest and direct",
+            "Courageous in the face of challenges",
+            "Independent and self-driven"
+        ],
+        "challenges": [
+            "Impatience and impulsivity",
+            "Can be confrontational",
+            "Tendency to rush into things without planning",
+            "Sometimes selfish or aggressive",
+            "Struggles with authority and rules"
+        ],
+        "spiritual_lesson": (
+            "Learning patience, self-control, and to balance assertiveness with empathy."
+        ),
+        "relationship_effect": (
+            "Brings excitement and passion to relationships but must manage impulsiveness and temper."
+        ),
+        "career_effect": (
+            "Thrives in leadership roles, entrepreneurship, sports, and dynamic, fast-paced environments."
+        ),
+        "psychological_shadow": (
+            "Inner conflict with anger and a fragile ego requiring recognition."
+        ),
+        "archetype": "The Warrior / The Pioneer",
+        "mythology": (
+            "Linked to the Ram of Greek mythology, symbolizing bravery and sacrifice."
+        ),
+        "ruler_info": (
+            "Mars, the red planet of war and drive, fuels Aries’ fiery spirit and competitive nature."
+        ),
+        "house_connections": (
+            "Rules the 1st house, influencing personal identity, self-expression, and outward behavior."
+        ),
+        "orb_angle_influence": {
+            "angular_position": (
+                "When Aries is near key angles, its energy intensifies, enhancing leadership qualities."
+            ),
+            "effect": (
+                "Increases dynamism, courage, and boldness in personality and actions."
+            ),
+            "angular_details": {
+                "Ascendant (1st House)": (
+                    "Strong, assertive personal presence and natural leadership aura."
+                ),
+                "Midheaven (10th House)": (
+                    "Career is often marked by ambition, competition, and achievement."
+                )
+            },
+            "suggested_orb_degrees": 5
+        }
+    },
+
+    "Taurus": {
+        "name": "Taurus",
+        "symbol": "♉",
+        "elemental_association": "Earth",
+        "color": "Green",
+        "meaning": (
+            "Taurus is the grounded earth sign, representing stability, patience, and sensuality. "
+            "Those born under Taurus value comfort, beauty, and security, often exhibiting a calm and determined nature."
+        ),
+        "keywords": ["stability", "patience", "sensuality", "reliability", "persistence"],
+        "strengths": [
+            "Dependable and loyal",
+            "Strong work ethic",
+            "Appreciation for beauty and comfort",
+            "Persistent and determined",
+            "Calm and patient"
+        ],
+        "challenges": [
+            "Resistance to change",
+            "Stubbornness and possessiveness",
+            "Can be materialistic",
+            "Slow to adapt",
+            "Sometimes indulgent"
+        ],
+        "spiritual_lesson": (
+            "Embracing flexibility and emotional growth beyond material security."
+        ),
+        "relationship_effect": (
+            "Offers loyalty and stability but can struggle with jealousy and possessiveness."
+        ),
+        "career_effect": (
+            "Suits careers in finance, art, food, and anything requiring patience and persistence."
+        ),
+        "psychological_shadow": (
+            "Fear of loss and change, leading to clinginess or rigidity."
+        ),
+        "archetype": "The Builder / The Earth Guardian",
+        "mythology": (
+            "Associated with the sacred bull, symbolizing strength, fertility, and endurance."
+        ),
+        "ruler_info": (
+            "Venus brings a love of beauty, harmony, and sensual pleasures to Taurus."
+        ),
+        "house_connections": (
+            "Rules the 2nd house of possessions, values, and personal resources."
+        ),
+        "orb_angle_influence": {
+            "angular_position": (
+                "When Taurus is near key angles, it strengthens determination and groundedness."
+            ),
+            "effect": (
+                "Enhances reliability, patience, and appreciation for physical comfort."
+            ),
+            "angular_details": {
+                "Ascendant (1st House)": (
+                    "Projects a calm, steady, and sensual demeanor."
+                ),
+                "Midheaven (10th House)": (
+                    "Career often built on persistence and practical skills."
+                )
+            },
+            "suggested_orb_degrees": 5
+        }
+    },
+
+    "Gemini": {
+        "name": "Gemini",
+        "symbol": "♊",
+        "elemental_association": "Air",
+        "color": "Yellow",
+        "meaning": (
+            "Gemini is the mutable air sign ruled by Mercury, characterized by curiosity, communication, and adaptability. "
+            "Gemini Suns are lively thinkers, social connectors, and lovers of variety."
+        ),
+        "keywords": ["curiosity", "communication", "versatility", "intellect", "adaptability"],
+        "strengths": [
+            "Excellent communication",
+            "Quick learners",
+            "Adaptable and versatile",
+            "Social and charming",
+            "Multitasking skills"
+        ],
+        "challenges": [
+            "Restlessness and inconsistency",
+            "Superficiality",
+            "Indecisiveness",
+            "Tendency to gossip",
+            "Difficulty with emotional depth"
+        ],
+        "spiritual_lesson": (
+            "Learning to focus deeply and balance intellect with emotional understanding."
+        ),
+        "relationship_effect": (
+            "Brings liveliness and fun, needing partners who appreciate mental stimulation."
+        ),
+        "career_effect": (
+            "Excels in writing, teaching, sales, media, and any communication-focused careers."
+        ),
+        "psychological_shadow": (
+            "Fear of boredom and commitment, causing scattered energy."
+        ),
+        "archetype": "The Messenger / The Trickster",
+        "mythology": (
+            "Represents the twins Castor and Pollux, symbolizing duality and companionship."
+        ),
+        "ruler_info": (
+            "Mercury imparts quick thinking, communication skills, and versatility."
+        ),
+        "house_connections": (
+            "Rules the 3rd house of communication, learning, and immediate environment."
+        ),
+        "orb_angle_influence": {
+            "angular_position": (
+                "When Gemini is near key angles, communication and mental agility are heightened."
+            ),
+            "effect": (
+                "Enhances sociability, curiosity, and adaptability."
+            ),
+            "angular_details": {
+                "Ascendant (1st House)": (
+                    "Projects a lively, curious, and talkative persona."
+                ),
+                "Midheaven (10th House)": (
+                    "Career often involves communication, teaching, or media."
+                )
+            },
+            "suggested_orb_degrees": 5
+        }
+    },
+
+
+ 
+
+    "Cancer": {
+        "name": "Cancer",
+        "symbol": "♋",
+        "elemental_association": "Water",
+        "color": "Silver / White",
+        "meaning": (
+            "Cancer is the nurturing water sign, deeply intuitive and emotionally sensitive. "
+            "People born under Cancer often have strong ties to family and home, and they are protective and empathetic."
+        ),
+        "keywords": ["nurturing", "intuitive", "emotional", "protective", "loyal"],
+        "strengths": [
+            "Deeply caring and compassionate",
+            "Strong intuition and emotional awareness",
+            "Loyal and protective of loved ones",
+            "Imaginative and creative",
+            "Sensitive to the needs of others"
+        ],
+        "challenges": [
+            "Can be moody and withdrawn",
+            "Tendency to cling or be overly protective",
+            "Difficulty letting go of the past",
+            "May take things personally",
+            "Can be overly cautious or fearful"
+        ],
+        "spiritual_lesson": (
+            "Learning emotional resilience and healthy boundaries."
+        ),
+        "relationship_effect": (
+            "Offers deep emotional connection and loyalty but may need reassurance."
+        ),
+        "career_effect": (
+            "Thrives in caregiving, counseling, art, and any nurturing roles."
+        ),
+        "psychological_shadow": (
+            "Fear of abandonment and vulnerability leading to defensive behavior."
+        ),
+        "archetype": "The Nurturer / The Protector",
+        "mythology": (
+            "Linked to the crab and lunar cycles, symbolizing protection and cyclical change."
+        ),
+        "ruler_info": (
+            "The Moon governs emotions, intuition, and the subconscious mind."
+        ),
+        "house_connections": (
+            "Rules the 4th house of home, family, roots, and emotional foundation."
+        ),
+        "orb_angle_influence": {
+            "angular_position": (
+                "When Cancer is near key angles, emotional sensitivity and nurturing qualities increase."
+            ),
+            "effect": (
+                "Strengthens intuition and protective instincts."
+            ),
+            "angular_details": {
+                "Ascendant (1st House)": (
+                    "Projects a caring, gentle, and sometimes reserved personality."
+                ),
+                "Midheaven (10th House)": (
+                    "Career often involves care, family-related work, or emotional support."
+                )
+            },
+            "suggested_orb_degrees": 5
+        }
+    },
+
+    "Leo": {
+        "name": "Leo",
+        "symbol": "♌",
+        "elemental_association": "Fire",
+        "color": "Gold / Orange",
+        "meaning": (
+            "Leo is the radiant fire sign ruled by the Sun, symbolizing creativity, confidence, and leadership. "
+            "Leos are charismatic, warm-hearted, and naturally draw attention with their vibrant presence."
+        ),
+        "keywords": ["confidence", "creativity", "leadership", "generosity", "dramatic"],
+        "strengths": [
+            "Charismatic and confident",
+            "Creative and expressive",
+            "Loyal and generous",
+            "Natural leaders",
+            "Optimistic and enthusiastic"
+        ],
+        "challenges": [
+            "Can be prideful or arrogant",
+            "Sometimes overly dramatic",
+            "Needs attention and validation",
+            "Can be stubborn or inflexible",
+            "Tendency to dominate conversations"
+        ],
+        "spiritual_lesson": (
+            "Balancing self-expression with humility and genuine empathy."
+        ),
+        "relationship_effect": (
+            "Brings warmth and passion but must avoid being overly demanding."
+        ),
+        "career_effect": (
+            "Thrives in creative fields, leadership roles, entertainment, and public speaking."
+        ),
+        "psychological_shadow": (
+            "Fear of being ignored or undervalued leading to attention-seeking behavior."
+        ),
+        "archetype": "The King/Queen / The Performer",
+        "mythology": (
+            "Associated with the lion, symbolizing courage, nobility, and strength."
+        ),
+        "ruler_info": (
+            "The Sun governs identity, vitality, and creative energy."
+        ),
+        "house_connections": (
+            "Rules the 5th house of creativity, romance, and self-expression."
+        ),
+        "orb_angle_influence": {
+            "angular_position": (
+                "When Leo is near key angles, charisma and leadership qualities shine brightly."
+            ),
+            "effect": (
+                "Amplifies confidence, creativity, and presence."
+            ),
+            "angular_details": {
+                "Ascendant (1st House)": (
+                    "Projects a bold, radiant, and magnetic persona."
+                ),
+                "Midheaven (10th House)": (
+                    "Career often involves leadership, creativity, or public recognition."
+                )
+            },
+            "suggested_orb_degrees": 5
+        }
+    },
+
+    "Virgo": {
+        "name": "Virgo",
+        "symbol": "♍",
+        "elemental_association": "Earth",
+        "color": "Navy Blue / Grey",
+        "meaning": (
+            "Virgo is the analytical earth sign known for precision, practicality, and a keen attention to detail. "
+            "Virgos are methodical, hardworking, and deeply service-oriented."
+        ),
+        "keywords": ["analytical", "practical", "detail-oriented", "reliable", "modest"],
+        "strengths": [
+            "Highly organized and efficient",
+            "Strong analytical and problem-solving skills",
+            "Reliable and hardworking",
+            "Modest and humble",
+            "Service-minded and helpful"
+        ],
+        "challenges": [
+            "Can be overly critical or perfectionistic",
+            "Tends to worry or be anxious",
+            "May struggle with indecision",
+            "Sometimes overly reserved or shy",
+            "Can be skeptical or judgmental"
+        ],
+        "spiritual_lesson": (
+            "Learning to accept imperfection and trust intuition alongside logic."
+        ),
+        "relationship_effect": (
+            "Provides practical support and loyalty but may need to soften critical tendencies."
+        ),
+        "career_effect": (
+            "Excels in healthcare, research, administration, and detail-focused professions."
+        ),
+        "psychological_shadow": (
+            "Fear of failure or imperfection leading to self-doubt."
+        ),
+        "archetype": "The Analyst / The Healer",
+        "mythology": (
+            "Linked to the maiden, symbolizing purity, service, and wisdom."
+        ),
+        "ruler_info": (
+            "Mercury rules Virgo, enhancing communication, intellect, and precision."
+        ),
+        "house_connections": (
+            "Rules the 6th house of work, health, and daily routines."
+        ),
+        "orb_angle_influence": {
+            "angular_position": (
+                "When Virgo is near key angles, focus and analytical ability intensify."
+            ),
+            "effect": (
+                "Enhances problem-solving skills and attention to detail."
+            ),
+            "angular_details": {
+                "Ascendant (1st House)": (
+                    "Projects a precise, thoughtful, and modest personality."
+                ),
+                "Midheaven (10th House)": (
+                    "Career often involves service, health, or organization."
+                )
+            },
+            "suggested_orb_degrees": 5
+        }
+    },
+
+
+
+    "Libra": {
+        "name": "Libra",
+        "symbol": "♎",
+        "elemental_association": "Air",
+        "color": "Light Blue / Pink",
+        "meaning": (
+            "Libra is the diplomatic air sign, focused on balance, harmony, and relationships. "
+            "People born under Libra seek fairness and beauty, often excelling at mediation and social connections."
+        ),
+        "keywords": ["diplomatic", "charming", "fair", "social", "idealistic"],
+        "strengths": [
+            "Excellent communicators and negotiators",
+            "Charming and gracious",
+            "Strong sense of justice and fairness",
+            "Ability to see multiple perspectives",
+            "Cooperative and peace-loving"
+        ],
+        "challenges": [
+            "Indecisive and avoidant of conflict",
+            "Can be people-pleasers",
+            "Sometimes superficial or overly concerned with appearances",
+            "May suppress own needs for harmony",
+            "Tendency to procrastinate"
+        ],
+        "spiritual_lesson": (
+            "Learning to balance self-interest with fairness to others and embrace authentic decision-making."
+        ),
+        "relationship_effect": (
+            "Seeks partnership and deep connection but needs to assert own needs."
+        ),
+        "career_effect": (
+            "Excels in law, diplomacy, arts, counseling, and any role involving negotiation."
+        ),
+        "psychological_shadow": (
+            "Fear of rejection and conflict, leading to passivity or indecision."
+        ),
+        "archetype": "The Diplomat / The Peacemaker",
+        "mythology": (
+            "Linked to the scales, symbolizing balance, justice, and equality."
+        ),
+        "ruler_info": (
+            "Venus rules Libra, influencing love, beauty, and social grace."
+        ),
+        "house_connections": (
+            "Rules the 7th house of partnerships, marriage, and one-to-one relationships."
+        ),
+        "orb_angle_influence": {
+            "angular_position": (
+                "When Libra is near key angles, the native's diplomatic and social skills are enhanced."
+            ),
+            "effect": (
+                "Promotes harmony and effective conflict resolution."
+            ),
+            "angular_details": {
+                "Ascendant (1st House)": (
+                    "Projects a charming, balanced, and sociable persona."
+                ),
+                "Midheaven (10th House)": (
+                    "Career often involves partnership, art, or social diplomacy."
+                )
+            },
+            "suggested_orb_degrees": 5
+        }
+    },
+
+    "Scorpio": {
+        "name": "Scorpio",
+        "symbol": "♏",
+        "elemental_association": "Water",
+        "color": "Deep Red / Black",
+        "meaning": (
+            "Scorpio is the intense water sign known for passion, transformation, and emotional depth. "
+            "Scorpios possess a magnetic presence and are driven by a need to uncover hidden truths."
+        ),
+        "keywords": ["intense", "passionate", "mysterious", "determined", "transformative"],
+        "strengths": [
+            "Emotionally powerful and resourceful",
+            "Highly intuitive and perceptive",
+            "Loyal and protective",
+            "Strong will and determination",
+            "Capable of deep transformation"
+        ],
+        "challenges": [
+            "Can be secretive or jealous",
+            "Prone to obsession and control issues",
+            "Tendency toward emotional extremes",
+            "May struggle with trust",
+            "Sometimes vengeful or resentful"
+        ],
+        "spiritual_lesson": (
+            "Learning to let go, forgive, and embrace vulnerability."
+        ),
+        "relationship_effect": (
+            "Forms deep, transformative bonds but requires trust and honesty."
+        ),
+        "career_effect": (
+            "Thrives in roles involving research, psychology, investigation, or healing."
+        ),
+        "psychological_shadow": (
+            "Fear of betrayal and loss, leading to guardedness and suspicion."
+        ),
+        "archetype": "The Detective / The Transformer",
+        "mythology": (
+            "Linked to the scorpion and phoenix, symbolizing death and rebirth."
+        ),
+        "ruler_info": (
+            "Pluto and Mars co-rule Scorpio, representing power, transformation, and drive."
+        ),
+        "house_connections": (
+            "Rules the 8th house of transformation, shared resources, and the unconscious."
+        ),
+        "orb_angle_influence": {
+            "angular_position": (
+                "When Scorpio is near key angles, intensity and emotional depth are heightened."
+            ),
+            "effect": (
+                "Deepens psychological insight and transformative power."
+            ),
+            "angular_details": {
+                "Ascendant (1st House)": (
+                    "Projects a mysterious, powerful, and magnetic presence."
+                ),
+                "Midheaven (10th House)": (
+                    "Career often involves power, transformation, or crisis management."
+                )
+            },
+            "suggested_orb_degrees": 5
+        }
+    },
+
+    "Sagittarius": {
+        "name": "Sagittarius",
+        "symbol": "♐",
+        "elemental_association": "Fire",
+        "color": "Purple / Royal Blue",
+        "meaning": (
+            "Sagittarius is the adventurous fire sign associated with freedom, optimism, and exploration. "
+            "Sagittarians are seekers of knowledge, truth, and new experiences."
+        ),
+        "keywords": ["adventurous", "optimistic", "independent", "philosophical", "honest"],
+        "strengths": [
+            "Enthusiastic and energetic",
+            "Open-minded and curious",
+            "Honest and straightforward",
+            "Independent and freedom-loving",
+            "Philosophical and visionary"
+        ],
+        "challenges": [
+            "Can be reckless or tactless",
+            "Tendency to overpromise or overcommit",
+            "May struggle with impatience or restlessness",
+            "Sometimes blunt or insensitive",
+            "Avoids emotional depth"
+        ],
+        "spiritual_lesson": (
+            "Learning to balance freedom with responsibility and deepen emotional connections."
+        ),
+        "relationship_effect": (
+            "Attracts partners who value honesty and adventure but needs to cultivate emotional intimacy."
+        ),
+        "career_effect": (
+            "Excels in travel, education, publishing, philosophy, and roles involving exploration."
+        ),
+        "psychological_shadow": (
+            "Fear of confinement or limitation leading to avoidance of commitment."
+        ),
+        "archetype": "The Explorer / The Philosopher",
+        "mythology": (
+            "Linked to the centaur archer, symbolizing questing and higher knowledge."
+        ),
+        "ruler_info": (
+            "Jupiter rules Sagittarius, representing expansion, luck, and wisdom."
+        ),
+        "house_connections": (
+            "Rules the 9th house of travel, higher education, and philosophy."
+        ),
+        "orb_angle_influence": {
+            "angular_position": (
+                "When Sagittarius is near key angles, optimism and adventurous spirit increase."
+            ),
+            "effect": (
+                "Encourages risk-taking, exploration, and expansive thinking."
+            ),
+            "angular_details": {
+                "Ascendant (1st House)": (
+                    "Projects an open, energetic, and optimistic personality."
+                ),
+                "Midheaven (10th House)": (
+                    "Career often involves travel, education, or philosophy."
+                )
+            },
+            "suggested_orb_degrees": 5
+        }
+    },
+
+ 
+
+    "Capricorn": {
+        "name": "Capricorn",
+        "symbol": "♑",
+        "elemental_association": "Earth",
+        "color": "Brown / Dark Green",
+        "meaning": (
+            "Capricorn is the ambitious earth sign known for discipline, responsibility, and practicality. "
+            "Capricorns are determined achievers, focused on long-term goals and building a stable foundation."
+        ),
+        "keywords": ["disciplined", "responsible", "practical", "ambitious", "patient"],
+        "strengths": [
+            "Highly disciplined and hardworking",
+            "Excellent planners and strategists",
+            "Responsible and reliable",
+            "Patient and persistent",
+            "Strong sense of duty and tradition"
+        ],
+        "challenges": [
+            "Can be overly serious or pessimistic",
+            "Tendency to be rigid or stubborn",
+            "May struggle with work-life balance",
+            "Sometimes emotionally reserved",
+            "Fear of failure or vulnerability"
+        ],
+        "spiritual_lesson": (
+            "Learning to balance ambition with compassion and embrace vulnerability."
+        ),
+        "relationship_effect": (
+            "Seeks stable, committed relationships but can struggle with emotional expression."
+        ),
+        "career_effect": (
+            "Excels in leadership, management, finance, and any role requiring persistence."
+        ),
+        "psychological_shadow": (
+            "Fear of inadequacy and rejection, leading to perfectionism and emotional guardedness."
+        ),
+        "archetype": "The Executive / The Builder",
+        "mythology": (
+            "Linked to the sea-goat, symbolizing perseverance through challenges."
+        ),
+        "ruler_info": (
+            "Saturn rules Capricorn, representing structure, discipline, and time."
+        ),
+        "house_connections": (
+            "Rules the 10th house of career, reputation, and public life."
+        ),
+        "orb_angle_influence": {
+            "angular_position": (
+                "When Capricorn is near key angles, ambition and practicality are emphasized."
+            ),
+            "effect": (
+                "Enhances focus on achievement and long-term goals."
+            ),
+            "angular_details": {
+                "Ascendant (1st House)": (
+                    "Projects a serious, responsible, and disciplined persona."
+                ),
+                "Midheaven (10th House)": (
+                    "Career focus is strong, often linked to leadership and authority."
+                )
+            },
+            "suggested_orb_degrees": 5
+        }
+    },
+
+    "Aquarius": {
+        "name": "Aquarius",
+        "symbol": "♒",
+        "elemental_association": "Air",
+        "color": "Electric Blue / Silver",
+        "meaning": (
+            "Aquarius is the innovative air sign associated with originality, independence, and humanitarianism. "
+            "Aquarians think outside the box and are often ahead of their time."
+        ),
+        "keywords": ["innovative", "independent", "humanitarian", "eccentric", "intellectual"],
+        "strengths": [
+            "Highly inventive and original",
+            "Strong sense of social justice",
+            "Independent thinker",
+            "Open-minded and progressive",
+            "Excellent at networking and collaboration"
+        ],
+        "challenges": [
+            "Can be emotionally detached",
+            "Sometimes unpredictable or rebellious",
+            "May struggle with conformity",
+            "Can appear aloof or distant",
+            "Tendency to be stubborn about ideas"
+        ],
+        "spiritual_lesson": (
+            "Learning to balance individuality with connection and empathy."
+        ),
+        "relationship_effect": (
+            "Values freedom and friendship in relationships but needs emotional openness."
+        ),
+        "career_effect": (
+            "Excels in technology, science, activism, and any field pushing boundaries."
+        ),
+        "psychological_shadow": (
+            "Fear of losing uniqueness, leading to isolation or emotional withdrawal."
+        ),
+        "archetype": "The Visionary / The Rebel",
+        "mythology": (
+            "Linked to the water bearer, symbolizing the flow of knowledge and innovation."
+        ),
+        "ruler_info": (
+            "Uranus rules Aquarius, representing sudden change, rebellion, and innovation."
+        ),
+        "house_connections": (
+            "Rules the 11th house of friendships, groups, and future hopes."
+        ),
+        "orb_angle_influence": {
+            "angular_position": (
+                "When Aquarius is near key angles, originality and progressive thinking are amplified."
+            ),
+            "effect": (
+                "Encourages innovative approaches and social reform."
+            ),
+            "angular_details": {
+                "Ascendant (1st House)": (
+                    "Projects an eccentric, independent, and intellectual persona."
+                ),
+                "Midheaven (10th House)": (
+                    "Career often involves technology, innovation, or humanitarian work."
+                )
+            },
+            "suggested_orb_degrees": 5
+        }
+    },
+
+    "Pisces": {
+        "name": "Pisces",
+        "symbol": "♓",
+        "elemental_association": "Water",
+        "color": "Sea Green / Lavender",
+        "meaning": (
+            "Pisces is the compassionate water sign associated with intuition, dreams, and spiritual connection. "
+            "Pisceans are deeply empathetic and often possess a rich inner world of imagination."
+        ),
+        "keywords": ["compassionate", "intuitive", "dreamy", "empathetic", "spiritual"],
+        "strengths": [
+            "Highly empathetic and sensitive",
+            "Creative and imaginative",
+            "Intuitive and spiritually attuned",
+            "Adaptable and gentle",
+            "Selfless and compassionate"
+        ],
+        "challenges": [
+            "Can be escapist or overly idealistic",
+            "Tendency to absorb others’ emotions",
+            "May struggle with boundaries",
+            "Sometimes lacks practical focus",
+            "Can be overly passive or avoidant"
+        ],
+        "spiritual_lesson": (
+            "Learning to balance compassion with self-care and maintain healthy boundaries."
+        ),
+        "relationship_effect": (
+            "Attracts partners who appreciate emotional depth, kindness, and spiritual connection."
+        ),
+        "career_effect": (
+            "Thrives in careers involving healing, art, spirituality, or counseling."
+        ),
+        "psychological_shadow": (
+            "Fear of harsh realities and rejection, often masked by withdrawal or idealization."
+        ),
+        "archetype": "The Mystic / The Healer",
+        "mythology": (
+            "Ruled by Neptune, representing dreams, illusions, and spirituality."
+        ),
+        "ruler_info": (
+            "Neptune’s influence blesses Pisces with imagination, compassion, and a mystical aura."
+        ),
+        "house_connections": (
+            "Rules the 12th house of the subconscious, dreams, and spiritual matters."
+        ),
+        "orb_angle_influence": {
+            "angular_position": (
+                "When Pisces is near key angles, sensitivity and intuition are heightened."
+            ),
+            "effect": (
+                "Deepens the native’s empathetic connection with the environment and others."
+            ),
+            "angular_details": {
+                "Ascendant (1st House)": (
+                    "Projects a gentle, dreamy, and compassionate persona."
+                ),
+                "Midheaven (10th House)": (
+                    "Career often linked to healing, creativity, or spiritual service."
+                )
+            },
+            "suggested_orb_degrees": 5
+        }
+    }
+}
+
+   
+
+def get_zodiac_report(sign_name: str) -> str:
+    """Generate a detailed zodiac sign report string with rich formatting."""
+    data = sign_meanings.get(sign_name)
+    if not data:
+        return f"Error: Zodiac sign '{sign_name}' not found."
+
+    report = "=" * 60 + "\n"
+    report += f"{data['symbol']} {data['name']} ({sign_name})\n"
+    report += "=" * 60 + "\n"
+    report += f"Element: {data['element']}\n"
+    report += f"Quality: {data['quality']}\n"
+    report += f"Ruling Planet: {data['ruling_planet']}\n"
+    report += f"Dates: {data['dates']}\n"
+    report += f"Body Part: {data.get('body_part', 'N/A')}\n"
+    report += f"Color: {data.get('color', 'N/A')}\n\n"
+
+    report += f"📖 Meaning:\n{data['meaning']}\n\n"
+
+    report += "🔑 Keywords:\n"
+    report += ", ".join(data['keywords']) + "\n\n"
+
+    report += "💪 Strengths:\n"
+    for item in data.get('strengths', []):
+        report += f"- {item}\n"
+    report += "\n"
+
+    report += "⚠️ Challenges:\n"
+    for item in data.get('challenges', []):
+        report += f"- {item}\n"
+    report += "\n"
+
+    report += f"🧘 Spiritual Lesson:\n{data.get('spiritual_lesson', 'N/A')}\n\n"
+    report += f"❤️ Relationship Effect:\n{data.get('relationship_effect', 'N/A')}\n\n"
+    report += f"💼 Career Effect:\n{data.get('career_effect', 'N/A')}\n\n"
+    report += f"👤 Psychological Shadow:\n{data.get('psychological_shadow', 'N/A')}\n\n"
+    report += f"🎭 Archetype:\n{data.get('archetype', 'N/A')}\n"
+    report += "=" * 60 + "\n"
+
+    return report

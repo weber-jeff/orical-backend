@@ -1,0 +1,156 @@
+{
+  "Sun": {
+    "1": "The Sun in the 1st House emphasizes personal identity, vitality, and self-expression. These individuals often possess strong leadership qualities and a commanding presence.",
+    "2": "With the Sun in the 2nd House, there is a focus on material security and personal values. These individuals may derive self-worth from possessions and financial stability.",
+    "3": "The Sun in the 3rd House highlights communication, learning, and local community involvement. These individuals are often curious, articulate, and enjoy sharing knowledge.",
+    "4": "In the 4th House, the Sun brings attention to home, family, and roots. These individuals may find their identity closely tied to their upbringing and domestic life.",
+    "5": "The Sun in the 5th House enhances creativity, romance, and self-expression. These individuals are often drawn to artistic pursuits and enjoy being in the spotlight.",
+    "6": "With the Sun in the 6th House, there is an emphasis on work, service, and health. These individuals take pride in their daily routines and strive for efficiency.",
+    "7": "The Sun in the 7th House focuses on partnerships and relationships. These individuals seek balance and may define themselves through their connections with others.",
+    "8": "In the 8th House, the Sun delves into transformation, shared resources, and deep psychological processes. These individuals are often drawn to exploring the mysteries of life.",
+    "9": "The Sun in the 9th House emphasizes philosophy, higher education, and travel. These individuals are seekers of truth and enjoy expanding their horizons.",
+    "10": "With the Sun in the 10th House, there is a strong focus on career, reputation, and public image. These individuals are ambitious and strive for recognition.",
+    "11": "The Sun in the 11th House highlights friendships, groups, and aspirations. These individuals often find fulfillment through community involvement and shared goals.",
+    "12": "In the 12th House, the Sun brings attention to the subconscious, spirituality, and solitude. These individuals may have a rich inner life and seek meaning beyond the material world."
+  }
+,
+
+  "Moon": {
+    "1": "The Moon in the 1st House indicates a sensitive and emotionally expressive personality. These individuals may have fluctuating moods and a nurturing demeanor.",
+    "2": "With the Moon in the 2nd House, emotional security is tied to material possessions and financial stability. These individuals may have a strong attachment to their belongings.",
+    "3": "The Moon in the 3rd House emphasizes emotional communication and a strong connection to siblings and the local community. These individuals are often intuitive learners.",
+    "4": "In the 4th House, the Moon brings a deep emotional connection to home and family. These individuals seek comfort and security in their domestic environment.",
+    "5": "The Moon in the 5th House enhances emotional creativity and a love for children and romance. These individuals express their feelings through artistic pursuits.",
+    "6": "With the Moon in the 6th House, there is a focus on emotional well-being through daily routines and service. These individuals may be sensitive to their work environment.",
+    "7": "The Moon in the 7th House indicates a need for emotional connection in partnerships. These individuals seek nurturing and supportive relationships.",
+    "8": "In the 8th House, the Moon delves into deep emotional transformations and shared resources. These individuals may experience intense emotional bonds.",
+    "9": "The Moon in the 9th House emphasizes emotional fulfillment through exploration, philosophy, and higher learning. These individuals are drawn to expanding their emotional horizons.",
+    "10": "With the Moon in the 10th House, there is a focus on public image and career-related emotional expression. These individuals may seek recognition for their nurturing qualities.",
+    "11": "The Moon in the 11th House highlights emotional connections within groups and friendships. These individuals find comfort in shared ideals and community involvement.",
+    "12": "In the 12th House, the Moon brings a deep emotional connection to the subconscious and spiritual realms. These individuals may have strong intuitive abilities and a need for solitude."
+  },
+  
+  "Mercury": {
+    "1": "Mercury in the 1st House indicates a communicative and intellectually curious personality. These individuals are quick thinkers and express themselves effectively.",
+    "2": "With Mercury in the 2nd House, there is a focus on practical thinking related to finances and personal values. These individuals may excel in financial planning.",
+    "3": "Mercury in the 3rd House enhances communication skills, learning, and adaptability. These individuals are often articulate and enjoy intellectual pursuits.",
+    "4": "In the 4th House, Mercury brings analytical thinking to home and family matters. These individuals may enjoy researching their ancestry or engaging in home-based learning.",
+    "5": "Mercury in the 5th House emphasizes creative communication and intellectual hobbies. These individuals may enjoy writing, teaching, or engaging in playful debates.",
+    "6": "With Mercury in the 6th House, there is a focus on detail-oriented work and health-related information. These individuals may excel in analytical professions.",
+    "7": "Mercury in the 7th House indicates a communicative approach to partnerships. These individuals value intellectual connections in relationships.",
+    "8": "In the 8th House, Mercury delves into deep research, psychology, and transformative communication. These individuals may be drawn to uncovering hidden truths.",
+    "9": "Mercury in the 9th House emphasizes philosophical thinking, teaching, and long-distance communication. These individuals are often interested in cultural studies.",
+    "10": "With Mercury in the 10th House, there is a focus on communication in career and public roles. These individuals may excel in professions requiring strong verbal skills.",
+    "11": "Mercury in the 11th House highlights intellectual involvement in groups and social causes. These individuals enjoy exchanging ideas within their communities.",
+    "12": "In the 12th House, Mercury brings a reflective and introspective communication style. These individuals may excel in solitary research or spiritual studies."
+  },
+
+  "Venus": {
+    "1": "Venus in the 1st House bestows charm, attractiveness, and a pleasant demeanor. These individuals often have a strong appreciation for beauty and harmony.",
+    "2": "With Venus in the 2nd House, there is a love for luxury and material comforts. These individuals may have a talent for attracting wealth and valuing aesthetics.",
+    "3": "Venus in the 3rd House enhances communication with grace and diplomacy. These individuals enjoy harmonious relationships with siblings and neighbors.",
+    "4": "In the 4th House, Venus brings a love for a beautiful and comfortable home environment. These individuals value family harmony and domestic pleasures.",
+    "5": "Venus in the 5th House emphasizes romantic expression, creativity, and enjoyment of the arts. These individuals are often affectionate and seek pleasurable experiences.",
+    "6": "With Venus in the 6th House, there is a focus on harmonious work relationships and a pleasant daily routine. These individuals may find joy in serving others.",
+    "7": "Venus in the 7th House indicates a strong desire for partnership and harmonious relationships. These individuals seek balance and beauty in their connections.",
+    "8": "In the 8th House, Venus brings a deep appreciation for intimacy and shared resources. These individuals may experience transformative relationships.",
+    "9": "Venus in the 9th House emphasizes a love for travel, culture, and philosophical pursuits. These individuals are drawn to beauty in diverse forms.",
+    "10": "With Venus in the 10th House, there is a focus on public image and career related to art, beauty, or diplomacy. These individuals may be well-liked in professional settings.",
+    "11": "Venus in the 11th House highlights harmonious friendships and a love for socializing. These individuals value connections with like-minded groups.",
+    "12": "In the 12th House, Venus brings a secretive or spiritual approach to love. These individuals may have hidden artistic talents or seek transcendent relationships."
+  },
+
+  "Mars": {
+    "1": "Mars in the 1st House indicates a dynamic and assertive personality. These individuals are energetic, competitive, and often take initiative.",
+    "2": "With Mars in the 2nd House, there is a drive to acquire wealth and possessions. These individuals may be assertive in financial matters.",
+    "3": "Mars in the 3rd House enhances mental energy and communication. These individuals may be quick-witted but should watch for argumentative tendencies.",
+    "4": "In the 4th House, Mars brings energy to home and family matters. These individuals may take an active role in domestic affairs but should manage potential conflicts.",
+    "5": "Mars in the 5th House emphasizes passionate self-expression and a competitive nature in creative pursuits. These individuals may enjoy sports or adventurous hobbies.",
+    "6": "With Mars in the 6th House, there is a strong work ethic and drive for efficiency. These individuals may excel in tasks requiring precision and stamina.",
+    "7": "Mars in the 7th House indicates assertiveness in partnerships. These individuals may seek dynamic relationships but should be mindful of potential conflicts.",
+    "8": "In the 8th House, Mars brings intensity to matters of transformation and shared resources. These individuals may be drawn to exploring deep psychological themes.",
+    "9": "Mars in the 9th House emphasizes a drive for exploration, adventure, and philosophical pursuits. These individuals may be passionate about learning and travel.",
+    "10": "With Mars in the 10th House, there is ambition and determination in career endeavors. These individuals are often seen as leaders and go-getters.",
+    "11": "Mars in the 11th House highlights active involvement in groups and social causes. These individuals may be driven to achieve collective goals.",
+    "12": "In the 12th House, Mars brings a"
+
+  },
+
+  "Jupiter": {
+    "1": "Jupiter in the 1st House brings optimism, generosity, and a strong sense of personal growth. These individuals often radiate confidence and attract good fortune.",
+    "2": "With Jupiter in the 2nd House, there is a potential for financial growth and abundance. These individuals value generosity and may find success in business or investing.",
+    "3": "Jupiter in the 3rd House expands the mind and enhances communication. These individuals are lifelong learners and may excel in writing, teaching, or speaking.",
+    "4": "In the 4th House, Jupiter brings blessings to the home and family life. These individuals often come from or create a generous and supportive domestic environment.",
+    "5": "Jupiter in the 5th House amplifies creativity, love, and joy. These individuals often enjoy romance, artistic pursuits, and are seen as lucky in speculative ventures.",
+    "6": "With Jupiter in the 6th House, there is a positive attitude toward work and service. These individuals may thrive in professions involving teaching, health, or improvement.",
+    "7": "Jupiter in the 7th House brings expansion through relationships and partnerships. These individuals attract wise or generous partners and benefit from collaboration.",
+    "8": "In the 8th House, Jupiter deepens wisdom regarding transformation, shared resources, and the mysteries of life. These individuals may experience financial luck through others.",
+    "9": "Jupiter in the 9th House is a classic placement for wisdom, higher education, and spiritual growth. These individuals are philosophers, travelers, and visionaries.",
+    "10": "With Jupiter in the 10th House, career and public life are often sources of growth and recognition. These individuals may become respected leaders or teachers.",
+    "11": "Jupiter in the 11th House brings abundance through friendships, networking, and group pursuits. These individuals often have a wide circle of supportive contacts.",
+    "12": "In the 12th House, Jupiter offers spiritual protection, introspective depth, and hidden blessings. These individuals may be drawn to healing, retreat, or service behind the scenes."
+  },
+
+  "Saturn": {
+    "1": "Saturn in the 1st House brings seriousness, discipline, and a mature outlook from an early age. These individuals may seem reserved but possess strong inner strength.",
+    "2": "With Saturn in the 2nd House, there is a need to work hard for material security. These individuals often develop strong financial discipline and long-term values.",
+    "3": "Saturn in the 3rd House indicates a thoughtful and structured communication style. These individuals may take time to learn but develop deep intellectual rigor.",
+    "4": "In the 4th House, Saturn can bring responsibility and duty within the family or early limitations in the home. These individuals often build lasting domestic foundations.",
+    "5": "Saturn in the 5th House may delay or restrict creative expression or romance early in life. Over time, these individuals develop serious artistic or parental responsibilities.",
+    "6": "With Saturn in the 6th House, work, service, and health are approached with discipline. These individuals may thrive in roles requiring precision and structure.",
+    "7": "Saturn in the 7th House brings karmic lessons in relationships. These individuals seek long-term, committed partnerships but may experience delays or challenges before success.",
+    "8": "In the 8th House, Saturn emphasizes responsibility in joint finances and emotional boundaries. These individuals may undergo transformative experiences that demand maturity.",
+    "9": "Saturn in the 9th House brings discipline to higher learning and philosophy. These individuals may be skeptical thinkers who seek truth through structured systems.",
+    "10": "With Saturn in the 10th House, career and reputation are taken very seriously. These individuals work diligently toward long-term goals and may gain respect later in life.",
+    "11": "Saturn in the 11th House indicates commitment to causes, group responsibilities, or structured social circles. These individuals may feel socially reserved but are loyal friends.",
+    "12": "In the 12th House, Saturn fosters deep inner work, karmic lessons, and hidden fears. These individuals may feel isolated at times but are capable of spiritual mastery through solitude."
+  },
+  
+  "Uranus": {
+    "1": "Uranus in the 1st House brings a rebellious, unconventional personality with a strong need for independence and originality. These individuals are often seen as innovators and trendsetters.",
+    "2": "With Uranus in the 2nd House, financial matters and personal values may be unpredictable. There is a strong desire for financial freedom and unconventional sources of income.",
+    "3": "Uranus in the 3rd House grants a quick and inventive mind, original communication style, and an affinity for new technologies and ideas. These individuals challenge traditional thought.",
+    "4": "In the 4th House, Uranus indicates an unconventional or unstable home environment. These individuals may experience sudden changes in family life or innovate in their domestic arrangements.",
+    "5": "Uranus in the 5th House brings originality and unpredictability to creativity, romance, and leisure activities. These individuals often express themselves uniquely and may pursue avant-garde hobbies.",
+    "6": "With Uranus in the 6th House, daily work and health routines are subject to sudden changes or innovation. These individuals may favor alternative health practices or unconventional job roles.",
+    "7": "Uranus in the 7th House indicates unconventional relationships and partnerships. These individuals value freedom and equality, often attracting partners who are eccentric or unique.",
+    "8": "In the 8th House, Uranus brings sudden insights and transformations regarding shared resources, intimacy, and psychological depth. There can be a fascination with the taboo or metaphysical.",
+    "9": "Uranus in the 9th House encourages progressive, unconventional beliefs and a quest for freedom in philosophy and higher learning. These individuals may be drawn to futuristic or radical ideologies.",
+    "10": "With Uranus in the 10th House, career paths tend to be unique and may involve technology, innovation, or sudden changes. These individuals often break traditional career molds.",
+    "11": "Uranus in the 11th House favors friendships with unconventional or forward-thinking people. These individuals often engage in social reform and are drawn to causes involving innovation.",
+    "12": "In the 12th House, Uranus fosters unconventional spiritual insights and sudden awakenings. These individuals may have a unique inner life and an affinity for mysticism or rebellion against unseen forces."
+  },
+
+  "Neptune": {
+    "1": "Neptune in the 1st House gives a dreamy, sensitive personality with a tendency toward idealism and sometimes confusion about self-identity. These individuals may appear elusive or mysterious.",
+    "2": "With Neptune in the 2nd House, values and finances may be influenced by intuition and imagination. There can be a challenge in dealing with material reality and a tendency to idealize possessions.",
+    "3": "Neptune in the 3rd House enhances creativity in communication but may cause misunderstandings or vagueness in expression. These individuals often have a poetic or mystical way of thinking.",
+    "4": "In the 4th House, Neptune suggests a deeply intuitive or spiritual home environment, but also possible illusions or confusion regarding family matters and roots.",
+    "5": "Neptune in the 5th House brings artistic inspiration and romantic idealism. There is a strong creative imagination, but also potential for escapism in love or hobbies.",
+    "6": "With Neptune in the 6th House, health and daily work may be affected by sensitivity or unclear boundaries. These individuals may be drawn to healing arts or struggle with psychosomatic issues.",
+    "7": "Neptune in the 7th House influences relationships with a sense of idealism or illusion. These individuals may attract elusive partners or face challenges in seeing others clearly.",
+    "8": "In the 8th House, Neptune heightens sensitivity to shared resources, transformation, and the unconscious. Mysticism and psychic experiences are common themes.",
+    "9": "Neptune in the 9th House inspires spiritual quest and compassion in philosophical or religious beliefs. There may be challenges in distinguishing truth from illusion.",
+    "10": "With Neptune in the 10th House, career paths may involve creativity, compassion, or spiritual service. Public image can be idealized or unclear.",
+    "11": "Neptune in the 11th House brings idealism to friendships and group affiliations. These individuals often dream of a better society but may be disappointed by reality.",
+    "12": "In the 12th House, Neptune fosters deep spiritual insight, compassion, and connection to the unconscious. These individuals may have a strong affinity for mysticism and hidden realms."
+  },
+
+  
+
+
+  "Pluto": {
+    "1": "Pluto in the 1st House gives an intense, magnetic presence and a powerful will. These individuals are natural transformers, often undergoing deep self-reinvention throughout life.",
+    "2": "With Pluto in the 2nd House, there is a deep connection to material resources and personal values. These individuals may experience dramatic shifts in income or possessive tendencies.",
+    "3": "Pluto in the 3rd House brings transformative thinking and persuasive communication. These individuals may challenge conventional ideas and have a penetrating intellect.",
+    "4": "In the 4th House, Pluto can indicate deep family karmas, power struggles at home, or hidden ancestral wounds. These individuals are often drawn to transforming their roots or living spaces.",
+    "5": "Pluto in the 5th House intensifies creative, romantic, and expressive energies. These individuals may have powerful love affairs or use art as a means of emotional regeneration.",
+    "6": "With Pluto in the 6th House, there is a drive to control and transform daily routines, health, and work. These individuals may be drawn to healing professions or develop obsessive work habits.",
+    "7": "Pluto in the 7th House brings depth and intensity to relationships. These individuals may attract powerful partners or experience transformative relationship dynamics.",
+    "8": "In the 8th House, Pluto is at home. It grants immense insight into psychology, sexuality, death, and rebirth. These individuals are natural shamans or therapists with access to hidden power.",
+    "9": "Pluto in the 9th House fuels transformative beliefs, radical philosophies, and a desire to uncover deeper truths. These individuals may be drawn to intense spiritual or occult studies.",
+    "10": "With Pluto in the 10th House, there is a powerful ambition and capacity for transformation in career and public roles. These individuals may rise to power or influence through sheer will.",
+    "11": "Pluto in the 11th House brings intense loyalty or control dynamics in friendships and groups. These individuals may become agents of transformation in collective or humanitarian causes.",
+    "12": "In the 12th House, Pluto operates from the unconscious. These individuals face deep inner transformations, karmic fears, and hidden power that must be integrated through solitude or spiritual work."
+  }
+}

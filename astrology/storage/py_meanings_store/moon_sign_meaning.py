@@ -1,0 +1,733 @@
+moon_sign_meanings = {
+    "Aries": {
+        "name": "Aries Moon",
+        "meaning": (
+            "A fiery, impulsive emotional nature. Moon in Aries drives you to act on feelings quickly, "
+            "with enthusiasm and courage."
+        ),
+        "keywords": ["impulsive", "passionate", "independent", "energetic", "assertive"],
+        "strengths": [
+            "Bold emotional expression",
+            "Quick to initiate and inspire",
+            "Resilient in face of setbacks",
+            "Energetic and enthusiastic"
+        ],
+        "challenges": [
+            "Impatience",
+            "Emotional volatility",
+            "Quick temper",
+            "Difficulty with emotional patience"
+        ],
+        "spiritual_lesson": (
+            "Learn to temper passion with patience; cultivate emotional awareness beyond impulse."
+        ),
+        "relationship_effect": (
+            "Exciting and passionate but sometimes impulsive; needs space to maintain independence."
+        ),
+        "career_effect": (
+            "Thrives in leadership, entrepreneurship, competitive fields, or anything requiring initiative."
+        ),
+        "psychological_shadow": "Impulsiveness, emotional explosiveness, frustration from delays.",
+        "archetype": "The Warrior – a brave emotional pioneer.",
+        "elemental_association": "Fire",
+        "color": "Red",
+        "orb_angle_influence": {
+            "angular_position": "When the Moon is near chart angles (Ascendant, IC, Descendant, Midheaven)",
+            "effect": (
+                "Aries Moon near an angle becomes even more assertive and emotionally dominant. "
+                "Feelings are acted on quickly and visibly, often without filter."
+            ),
+            "angular_details": {
+                "Ascendant (1st House)": (
+                    "Emotionally fearless and reactive. The individual wears feelings openly and leads with instinct."
+                ),
+                "IC (4th House)": (
+                    "Deep personal roots in independence. Family life may be intense or marked by sudden emotional shifts."
+                ),
+                "Descendant (7th House)": (
+                    "Strong need for emotionally dynamic relationships. May attract passionate or confrontational partners."
+                ),
+                "Midheaven (10th House)": (
+                    "Public identity fueled by passion. Often seen as a bold emotional leader or instigator in career."
+                )
+            },
+            "suggested_orb_degrees": 8
+        }
+    
+    },
+
+    "Taurus": {
+        "name": "Taurus Moon",
+        "meaning": (
+            "A stable, calm, and sensual emotional nature. Moon in Taurus seeks security, routine, and physical comfort, "
+            "often responding to life with emotional steadiness and practicality."
+        ),
+        "keywords": ["stable", "sensual", "grounded", "loyal", "resilient"],
+        "strengths": [
+            "Emotionally dependable",
+            "Strong internal resilience",
+            "Finds comfort in simplicity and routine",
+            "Loyal and nurturing presence"
+        ],
+        "challenges": [
+            "Stubbornness",
+            "Resistance to emotional change",
+            "Possessiveness",
+            "Tendency to emotionally shut down when overwhelmed"
+        ],
+        "spiritual_lesson": (
+            "Learn to embrace change and emotional flexibility while maintaining inner peace."
+        ),
+        "relationship_effect": (
+            "Provides deep loyalty and comfort in relationships but may struggle with letting go or adapting."
+        ),
+        "career_effect": (
+            "Thrives in careers requiring consistency, reliability, and an aesthetic or material focus—finance, design, gardening, culinary arts."
+        ),
+        "psychological_shadow": (
+            "Attachment to comfort at the expense of growth, emotional inertia, fear of change."
+        ),
+        "archetype": "The Earth Keeper – emotionally grounded and sensually attuned.",
+        "elemental_association": "Earth",
+        "color": "Emerald Green",
+        "orb_angle_influence": {
+            "angular_position": "When the Moon is near chart angles (Ascendant, IC, Descendant, Midheaven)",
+            "effect": (
+                "Taurus Moon on an angle amplifies emotional steadfastness. The native becomes a rock—calm, immovable, "
+                "but possibly resistant to necessary transformation."
+            ),
+            "angular_details": {
+                "Ascendant (1st House)": (
+                    "Emotionally serene exterior. Projects calm confidence but may appear stubborn or unyielding."
+                ),
+                "IC (4th House)": (
+                    "Deep-rooted need for a peaceful and secure home. Strong emotional attachment to family traditions."
+                ),
+                "Descendant (7th House)": (
+                    "Seeks emotionally stable, loyal partners. May resist change or confrontation in relationships."
+                ),
+                "Midheaven (10th House)": (
+                    "Public persona of reliability and grace. Career may revolve around beauty, finance, or land-based work."
+                )
+            },
+            "suggested_orb_degrees": 8
+        }
+    },
+  
+    "Gemini": {
+        "name": "Gemini Moon",
+        "meaning": (
+            "A curious, witty, and mentally active emotional nature. Moon in Gemini processes emotions through thought and communication, "
+            "often needing variety and stimulation to feel emotionally engaged."
+        ),
+        "keywords": ["curious", "expressive", "versatile", "restless", "communicative"],
+        "strengths": [
+            "Emotionally adaptable and quick-witted",
+            "Easily connects with others through words",
+            "Excellent emotional analyzers",
+            "Naturally humorous and uplifting"
+        ],
+        "challenges": [
+            "Emotional inconsistency",
+            "Tendency to intellectualize feelings",
+            "Restlessness or boredom in emotional routines",
+            "Avoidance of emotional depth"
+        ],
+        "spiritual_lesson": (
+            "Learn to quiet the mind and listen to the heart—true connection requires presence, not just words."
+        ),
+        "relationship_effect": (
+            "Charming, lively, and engaging in relationships, but may struggle with emotional consistency or depth."
+        ),
+        "career_effect": (
+            "Excels in communication-heavy fields—writing, journalism, teaching, marketing, media, or tech."
+        ),
+        "psychological_shadow": (
+            "Anxiety from emotional overload, emotional detachment masked by chatter, fear of vulnerability."
+        ),
+        "archetype": "The Messenger – emotionally expressive and mentally agile.",
+        "elemental_association": "Air",
+        "color": "Yellow",
+        "orb_angle_influence": {
+            "angular_position": "When the Moon is near chart angles (Ascendant, IC, Descendant, Midheaven)",
+            "effect": (
+                "Gemini Moon on an angle amplifies the need for emotional expression and mental engagement. "
+                "The native becomes a communicator of feelings—bright, talkative, but potentially scattered or hard to emotionally pin down."
+            ),
+            "angular_details": {
+                "Ascendant (1st House)": (
+                    "Expressive face and rapid speech. Emotions are visible and verbalized quickly. Can appear hyper or youthful."
+                ),
+                "IC (4th House)": (
+                    "Emotionally curious about roots. Needs stimulating home life. Often grew up in an environment of words and stories."
+                ),
+                "Descendant (7th House)": (
+                    "Seeks mentally stimulating partners. May avoid emotional confrontation through distraction or logic."
+                ),
+                "Midheaven (10th House)": (
+                    "Public image tied to communication. Emotionally engaged in work that involves speaking, writing, or multitasking."
+                )
+            },
+            "suggested_orb_degrees": 8
+        }
+    },
+ 
+    "Cancer": {
+        "name": "Cancer Moon",
+        "meaning": (
+            "A deeply nurturing and emotionally sensitive placement. Moon in Cancer is intuitive, empathetic, and strongly influenced "
+            "by memories, home life, and close emotional bonds."
+        ),
+        "keywords": ["nurturing", "intuitive", "protective", "sentimental", "emotional"],
+        "strengths": [
+            "Highly empathetic and emotionally intelligent",
+            "Natural caregiver and emotional anchor for others",
+            "Protective and loyal in close bonds",
+            "Strong connection to roots and family history"
+        ],
+        "challenges": [
+            "Moodiness or emotional withdrawal",
+            "Tendency to cling or become overprotective",
+            "Difficulty letting go of past wounds",
+            "Overly defensive when emotionally threatened"
+        ],
+        "spiritual_lesson": (
+            "Learn to nurture yourself as deeply as you do others; emotional safety comes from within, not just from caretaking."
+        ),
+        "relationship_effect": (
+            "Loving, devoted, and attentive in relationships, but may become overly attached or sensitive to rejection."
+        ),
+        "career_effect": (
+            "Excels in caregiving professions, psychology, hospitality, real estate, or work that involves emotional support or home."
+        ),
+        "psychological_shadow": (
+            "Fear of abandonment, emotional manipulation for security, or withdrawal when overwhelmed."
+        ),
+        "archetype": "The Caregiver – a soulful protector and emotional nurturer.",
+        "elemental_association": "Water",
+        "color": "Silver",
+        "orb_angle_influence": {
+            "angular_position": "When the Moon is near chart angles (Ascendant, IC, Descendant, Midheaven)",
+            "effect": (
+                "Cancer Moon on an angle intensifies emotional depth, protective instincts, and a need for emotional connection. "
+                "The native may be perceived as deeply intuitive, maternal/paternal, and sometimes guarded or sensitive."
+            ),
+            "angular_details": {
+                "Ascendant (1st House)": (
+                    "Strong emotional presence and expressive eyes. Comes across as nurturing and protective. Mood is visible on the face."
+                ),
+                "IC (4th House)": (
+                    "Rooted in emotional security and family ties. Early home life strongly shapes emotional responses."
+                ),
+                "Descendant (7th House)": (
+                    "Seeks emotionally safe, nurturing partnerships. May attract partners in need of healing or care."
+                ),
+                "Midheaven (10th House)": (
+                    "Public image is caring and supportive. Often seen as dependable and emotionally attuned in professional roles."
+                )
+            },
+            "suggested_orb_degrees": 10
+        }
+    },
+   "Leo": {
+    "name": "Leo Moon",
+    "meaning": (
+        "A warm, radiant emotional nature. Moon in Leo shines with confidence, creativity, and a strong need for recognition and appreciation."
+    ),
+    "keywords": ["dramatic", "generous", "loyal", "expressive", "proud"],
+    "strengths": [
+        "Heartfelt emotional expression and charisma",
+        "Loyalty and protective nature toward loved ones",
+        "Creative and passionate in pursuits",
+        "Natural leader with a sunny disposition"
+    ],
+    "challenges": [
+        "Need for validation and attention",
+        "Pride that can lead to stubbornness",
+        "Difficulty handling criticism or feeling overlooked",
+        "Tendency toward emotional dramatics"
+    ],
+    "spiritual_lesson": (
+        "Learn to give love unconditionally and embrace humility, recognizing that true worth comes from within, not just external praise."
+    ),
+    "relationship_effect": (
+        "Romantic, generous, and warm-hearted; desires admiration but is fiercely loyal and protective."
+    ),
+    "career_effect": (
+        "Thrives in roles requiring creativity, leadership, performance, or anything where they can inspire and lead others."
+    ),
+    "psychological_shadow": (
+        "Ego inflation, sensitivity to rejection, emotional pride that blocks vulnerability."
+    ),
+    "archetype": "The King/Queen – a regal emotional sovereign with a golden heart.",
+    "elemental_association": "Fire",
+    "color": "Gold",
+    "orb_angle_influence": {
+        "angular_position": "When the Leo Moon is near chart angles (Ascendant, IC, Descendant, Midheaven)",
+        "effect": (
+            "Leo Moon on angles amplifies charisma and emotional presence, making the native come across as vibrant, warm, and naturally commanding."
+        ),
+        "angular_details": {
+            "Ascendant (1st House)": (
+                "Strong, magnetic personality with expressive emotional energy visible to others."
+            ),
+            "IC (4th House)": (
+                "Emotional foundation rooted in pride of family, home, and personal legacy."
+            ),
+            "Descendant (7th House)": (
+                "Seeks relationships that provide admiration and creative connection; may attract dramatic partners."
+            ),
+            "Midheaven (10th House)": (
+                "Public image is that of a confident leader or performer, often in the spotlight."
+            )
+        },
+        "suggested_orb_degrees": 10
+    }
+},
+"Virgo": {
+    "name": "Virgo Moon",
+    "meaning": (
+        "An analytical, practical emotional nature. Moon in Virgo seeks order, precision, and service in emotional expression."
+    ),
+    "keywords": ["analytical", "modest", "helpful", "perfectionist", "practical"],
+    "strengths": [
+        "Detail-oriented emotional awareness",
+        "Reliable and supportive in relationships",
+        "Calm and composed under stress",
+        "Strong ability to improve and organize surroundings"
+    ],
+    "challenges": [
+        "Overthinking and worry",
+        "Tendency to be overly critical (self and others)",
+        "Difficulty expressing feelings openly",
+        "Perfectionism leading to emotional frustration"
+    ],
+    "spiritual_lesson": (
+        "Learn to embrace imperfection and develop compassion for yourself and others, releasing the need for total control."
+    ),
+    "relationship_effect": (
+        "Loyal and dependable but may struggle with emotional vulnerability; values practical support and clear communication."
+    ),
+    "career_effect": (
+        "Excels in careers requiring precision, service, analysis, healthcare, or detail management."
+    ),
+    "psychological_shadow": (
+        "Self-criticism, anxiety, emotional repression, fear of imperfection."
+    ),
+    "archetype": "The Healer – a meticulous nurturer striving for emotional order.",
+    "elemental_association": "Earth",
+    "color": "Gray",
+    "orb_angle_influence": {
+        "angular_position": "When Virgo Moon is near chart angles (Ascendant, IC, Descendant, Midheaven)",
+        "effect": (
+            "Virgo Moon on angles highlights practical emotional expression, emphasizing attention to detail and a grounded demeanor."
+        ),
+        "angular_details": {
+            "Ascendant (1st House)": (
+                "Appears calm, modest, and helpful; emotionally reserved but attentive to others' needs."
+            ),
+            "IC (4th House)": (
+                "Home life is orderly, with a strong focus on health and routine as emotional security."
+            ),
+            "Descendant (7th House)": (
+                "Seeks partners who are reliable, organized, and practical; values emotional clarity."
+            ),
+            "Midheaven (10th House)": (
+                "Career seen as service-oriented or detail-driven, with a reputation for dependability."
+            )
+        },
+        "suggested_orb_degrees": 10
+    }
+},
+"Libra": {
+    "name": "Libra Moon",
+    "meaning": (
+        "An emotionally harmonious and diplomatic nature. Moon in Libra seeks balance, fairness, and connection in feelings."
+    ),
+    "keywords": ["diplomatic", "charming", "peaceful", "social", "indecisive"],
+    "strengths": [
+        "Ability to see multiple sides of emotional issues",
+        "Graceful and tactful in relationships",
+        "Strong desire for fairness and harmony",
+        "Enjoys companionship and partnership"
+    ],
+    "challenges": [
+        "Difficulty making emotional decisions",
+        "Tendency to avoid conflict and suppress true feelings",
+        "Fear of loneliness or rejection",
+        "Can be overly dependent on others for emotional security"
+    ],
+    "spiritual_lesson": (
+        "Learn to stand firm in your emotional truth and embrace healthy boundaries while seeking harmony."
+    ),
+    "relationship_effect": (
+        "Warm and charming partner, but sometimes struggles to express deeper emotions or take a firm stand."
+    ),
+    "career_effect": (
+        "Thrives in careers involving diplomacy, art, law, mediation, and teamwork."
+    ),
+    "psychological_shadow": (
+        "Emotional indecisiveness, people-pleasing, superficial harmony, avoidance of conflict."
+    ),
+    "archetype": "The Peacemaker – a graceful diplomat in emotional matters.",
+    "elemental_association": "Air",
+    "color": "Light Blue",
+    "orb_angle_influence": {
+        "angular_position": "When Libra Moon is near chart angles (Ascendant, IC, Descendant, Midheaven)",
+        "effect": (
+            "Libra Moon on angles enhances social grace and diplomatic emotional expression, emphasizing balance in personal and public life."
+        ),
+        "angular_details": {
+            "Ascendant (1st House)": (
+                "Appears charming, approachable, and relationship-oriented; emotional warmth is expressed with tact."
+            ),
+            "IC (4th House)": (
+                "Home life seeks peace and beauty, with a strong need for emotional balance."
+            ),
+            "Descendant (7th House)": (
+                "Partners are often graceful, diplomatic, and socially engaging; emotional connection is key."
+            ),
+            "Midheaven (10th House)": (
+                "Career involves diplomacy, justice, or creative arts; emotional balance influences public reputation."
+            )
+        },
+        "suggested_orb_degrees": 10
+    }
+},
+"Scorpio": {
+    "name": "Scorpio Moon",
+    "meaning": (
+        "An intense, deeply emotional nature that feels things profoundly beneath the surface. "
+        "Moon in Scorpio drives a need for emotional truth, transformation, and deep connection."
+    ),
+    "keywords": ["intense", "passionate", "secretive", "resilient", "magnetic"],
+    "strengths": [
+        "Emotional depth and insight",
+        "Powerful resilience and ability to heal",
+        "Strong intuition and emotional intelligence",
+        "Loyalty and protective nature"
+    ],
+    "challenges": [
+        "Emotional jealousy or possessiveness",
+        "Tendency toward secrecy and suspicion",
+        "Difficulty trusting others",
+        "Intense emotional highs and lows"
+    ],
+    "spiritual_lesson": (
+        "Learn to release control and embrace vulnerability, allowing emotional healing and transformation."
+    ),
+    "relationship_effect": (
+        "Deeply loyal and passionate partner, but may struggle with trust and emotional openness."
+    ),
+    "career_effect": (
+        "Excels in careers involving psychology, investigation, healing arts, research, or crisis management."
+    ),
+    "psychological_shadow": (
+        "Emotional manipulation, obsessive tendencies, fear of betrayal, guardedness."
+    ),
+    "archetype": "The Phoenix – rising from emotional ashes transformed and renewed.",
+    "elemental_association": "Water",
+    "color": "Dark Red / Black",
+    "orb_angle_influence": {
+        "angular_position": "When Scorpio Moon is near key chart angles (Ascendant, IC, Descendant, Midheaven)",
+        "effect": (
+            "Scorpio Moon on angles magnifies emotional intensity and transformative energy, impacting how one expresses and manages feelings publicly and privately."
+        ),
+        "angular_details": {
+            "Ascendant (1st House)": (
+                "Projects a magnetic and intense emotional presence, often mysterious or private."
+            ),
+            "IC (4th House)": (
+                "Home is a place of deep emotional transformation and privacy."
+            ),
+            "Descendant (7th House)": (
+                "Partnerships are deeply emotional and transformative, sometimes intense or challenging."
+            ),
+            "Midheaven (10th House)": (
+                "Career involves powerful emotional influence, healing, or research; reputation tied to depth and resilience."
+            )
+        },
+        "suggested_orb_degrees": 8
+    }
+},
+
+  "Sagittarius": {
+    "name": "Sagittarius Moon",
+    "meaning": (
+        "An adventurous and optimistic emotional nature. Moon in Sagittarius seeks freedom, "
+        "truth, and expansion through experience and learning."
+    ),
+    "keywords": ["adventurous", "optimistic", "independent", "philosophical", "open-minded"],
+    "strengths": [
+        "Enthusiastic and inspiring emotional energy",
+        "Strong desire for growth and knowledge",
+        "Resilient in adversity with a positive outlook",
+        "Ability to uplift others with vision and humor"
+    ],
+    "challenges": [
+        "Restlessness and difficulty with routine",
+        "Tendency to avoid emotional depth or discomfort",
+        "Impatience with limitations or restrictions",
+        "Overconfidence leading to risk-taking"
+    ],
+    "spiritual_lesson": (
+        "Learn to balance freedom with responsibility; deepen emotional awareness beyond surface optimism."
+    ),
+    "relationship_effect": (
+        "Lively, fun-loving, and honest; needs space to explore and express ideals, but loyal to trusted partners."
+    ),
+    "career_effect": (
+        "Thrives in fields involving travel, education, philosophy, law, or anything that expands horizons."
+    ),
+    "psychological_shadow": (
+        "Avoidance of emotional vulnerability, restlessness, and overextension leading to burnout."
+    ),
+    "archetype": "The Explorer – a seeker of truth and new emotional landscapes.",
+    "elemental_association": "Fire",
+    "color": "Purple",
+    "orb_angle_influence": {
+        "angular_position": (
+            "When Sagittarius Moon is near key chart angles (Ascendant, IC, Descendant, Midheaven), "
+            "its adventurous and optimistic qualities are emphasized."
+        ),
+        "effect": (
+            "This enhances the individual’s emotional expression of freedom, enthusiasm, and quest for meaning "
+            "in public and private life."
+        ),
+        "angular_details": {
+            "Ascendant (1st House)": (
+                "Projects a vibrant, optimistic emotional presence with a love for exploration."
+            ),
+            "IC (4th House)": (
+                "Home is a place of learning, growth, and philosophical exploration."
+            ),
+            "Descendant (7th House)": (
+                "Relationships often involve shared adventures and intellectual growth."
+            ),
+            "Midheaven (10th House)": (
+                "Career paths may involve travel, teaching, law, or any field that broadens horizons."
+            )
+        },
+        "suggested_orb_degrees": 8
+    }
+},
+       "Capricorn": {
+    "name": "Capricorn Moon",
+    "meaning": (
+        "A disciplined, responsible emotional nature. Moon in Capricorn grounds feelings with practicality "
+        "and a strong need for structure, achievement, and security."
+    ),
+    "keywords": ["disciplined", "responsible", "practical", "ambitious", "reserved"],
+    "strengths": [
+        "Emotional self-control and maturity",
+        "Strong sense of duty and perseverance",
+        "Ability to manage emotions with logic",
+        "Goal-oriented and reliable"
+    ],
+    "challenges": [
+        "Tendency to suppress emotions",
+        "Difficulty expressing vulnerability",
+        "Can be overly serious or pessimistic",
+        "Fear of failure or rejection"
+    ],
+    "spiritual_lesson": (
+        "Learn to balance emotional discipline with warmth; embrace vulnerability as a strength."
+    ),
+    "relationship_effect": (
+        "Loyal and dependable partner, though may struggle to openly share emotions; values stability."
+    ),
+    "career_effect": (
+        "Excels in careers demanding responsibility, leadership, management, finance, or long-term planning."
+    ),
+    "psychological_shadow": (
+        "Emotional repression, fear of failure, excessive control, and difficulty trusting emotions."
+    ),
+    "archetype": "The Builder – steady, strategic, and emotionally resilient.",
+    "elemental_association": "Earth",
+    "color": "Brown / Dark Green",
+    "orb_angle_influence": {
+        "angular_position": (
+            "When Capricorn Moon is near key chart angles (Ascendant, IC, Descendant, Midheaven), "
+            "it enhances emotional restraint, ambition, and a serious demeanor."
+        ),
+        "effect": (
+            "This influence emphasizes emotional responsibility and a strong focus on public image and private stability."
+        ),
+        "angular_details": {
+            "Ascendant (1st House)": (
+                "Projects a calm, controlled emotional presence with a mature and responsible aura."
+            ),
+            "IC (4th House)": (
+                "Home is a structured and disciplined environment, emphasizing tradition and security."
+            ),
+            "Descendant (7th House)": (
+                "Partnerships tend to be serious, committed, and focused on mutual goals."
+            ),
+            "Midheaven (10th House)": (
+                "Career is marked by ambition, persistence, and a desire for tangible achievement and recognition."
+            )
+        },
+        "suggested_orb_degrees": 8
+    }
+},
+
+    "Aquarius": {
+    "name": "Aquarius Moon",
+    "meaning": (
+        "An emotionally detached, innovative, and unconventional nature. Moon in Aquarius drives a need "
+        "for emotional freedom, intellectual stimulation, and connection to community or ideals."
+    ),
+    "keywords": ["independent", "innovative", "detached", "progressive", "friendly"],
+    "strengths": [
+        "Strong intellectual and emotional independence",
+        "Ability to think outside the box",
+        "Emotionally resilient and objective",
+        "Open-minded and humanitarian"
+    ],
+    "challenges": [
+        "Tendency toward emotional detachment or aloofness",
+        "Difficulty expressing personal feelings",
+        "May seem unpredictable or rebellious",
+        "Can prioritize logic over emotional connection"
+    ],
+    "spiritual_lesson": (
+        "Learn to balance emotional detachment with genuine empathy and personal connection."
+    ),
+    "relationship_effect": (
+        "Values friendships and mental rapport; needs space and freedom within partnerships."
+    ),
+    "career_effect": (
+        "Thrives in fields related to technology, innovation, social causes, science, or unconventional roles."
+    ),
+    "psychological_shadow": (
+        "Emotional coldness, rebelliousness, unpredictability, and struggles with intimacy."
+    ),
+    "archetype": "The Visionary – emotionally free and ahead of their time.",
+    "elemental_association": "Air",
+    "color": "Electric Blue / Silver",
+    "orb_angle_influence": {
+        "angular_position": (
+            "When Aquarius Moon is near key chart angles (Ascendant, IC, Descendant, Midheaven), "
+            "it amplifies emotional independence, originality, and social awareness."
+        ),
+        "effect": (
+            "This position enhances a unique emotional expression and a strong drive toward innovation and social contribution."
+        ),
+        "angular_details": {
+            "Ascendant (1st House)": (
+                "Projects a friendly, unconventional emotional aura, often perceived as unique or quirky."
+            ),
+            "IC (4th House)": (
+                "Home environment encourages freedom, originality, and intellectual stimulation."
+            ),
+            "Descendant (7th House)": (
+                "Partnerships are often unconventional and based on shared ideals and intellectual connection."
+            ),
+            "Midheaven (10th House)": (
+                "Career often involves progressive or innovative fields; reputation tied to originality and social impact."
+            )
+        },
+        "suggested_orb_degrees": 8
+    }
+},
+"Pisces": {
+    "name": "Pisces Moon",
+    "meaning": (
+        "A deeply compassionate, intuitive, and dreamy emotional nature. Moon in Pisces creates a sensitive "
+        "and empathetic inner world, often connected to spiritual or artistic realms."
+    ),
+    "keywords": ["compassionate", "intuitive", "sensitive", "imaginative", "selfless"],
+    "strengths": [
+        "Heightened empathy and emotional intuition",
+        "Creative and spiritually aware",
+        "Able to connect deeply with others’ feelings",
+        "Flexible and adaptable emotionally"
+    ],
+    "challenges": [
+        "Tendency toward escapism or emotional overwhelm",
+        "Difficulty setting boundaries",
+        "Can be overly idealistic or impressionable",
+        "Susceptible to confusion or emotional vulnerability"
+    ],
+    "spiritual_lesson": (
+        "Learn to balance compassion with healthy boundaries; cultivate inner strength amid sensitivity."
+    ),
+    "relationship_effect": (
+        "Deeply caring and devoted partner who may need reassurance and clear emotional boundaries."
+    ),
+    "career_effect": (
+        "Thrives in creative, healing, or spiritual professions such as art, music, counseling, or social work."
+    ),
+    "psychological_shadow": (
+        "Emotional escapism, victim mentality, confusion, and blurred boundaries."
+    ),
+    "archetype": "The Mystic – emotionally connected to unseen realms and universal compassion.",
+    "elemental_association": "Water",
+    "color": "Sea Green / Lavender",
+    "orb_angle_influence": {
+        "angular_position": (
+            "When Pisces Moon is near key chart angles (Ascendant, IC, Descendant, Midheaven), "
+            "it intensifies sensitivity, emotional receptivity, and spiritual awareness."
+        ),
+        "effect": (
+            "This placement deepens emotional empathy and can amplify artistic or mystical expression in personal and public life."
+        ),
+        "angular_details": {
+            "Ascendant (1st House)": (
+                "Projects a gentle, compassionate emotional presence, often appearing dreamy or mystical."
+            ),
+            "IC (4th House)": (
+                "Home serves as a sanctuary for emotional and spiritual nourishment."
+            ),
+            "Descendant (7th House)": (
+                "Partnerships require emotional depth and mutual understanding, sometimes challenging due to sensitivity."
+            ),
+            "Midheaven (10th House)": (
+                "Career often involves healing, art, or spiritual work; reputation tied to empathy and creativity."
+            )
+        },
+        "suggested_orb_degrees": 8
+    }
+},
+}
+
+def get_moon_sign_report(sign_name: str) -> str:
+    """Generate a detailed report string for the specified Moon sign."""
+    data = moon_sign_meanings.get(sign_name)
+    if not data:
+        return f"Error: Moon sign '{sign_name}' not found."
+
+    report = "=" * 60 + "\n"
+    report += f"🌙 Moon Sign: {data['name']} 🌙\n"
+    report += "=" * 60 + "\n"
+    report += f"📖 Meaning: {data['meaning']}\n\n"
+    report += f"🔑 Keywords: {', '.join(data['keywords'])}\n\n"
+    report += "💪 Strengths:\n"
+    for strength in data['strengths']:
+        report += f"  - {strength}\n"
+    report += "\n⚠️ Challenges:\n"
+    for challenge in data['challenges']:
+        report += f"  - {challenge}\n"
+    report += f"\n🧘 Spiritual Lesson: {data['spiritual_lesson']}\n"
+    report += f"\n❤️ Relationship Effect: {data['relationship_effect']}\n"
+    report += f"\n💼 Career Effect: {data['career_effect']}\n"
+    report += f"\n👤 Psychological Shadow: {data['psychological_shadow']}\n"
+    report += f"\n🎭 Archetype: {data['archetype']}\n"
+    report += f"\n🔥 Elemental Association: {data['elemental_association']}\n"
+    report += f"🎨 Color: {data['color']}\n"
+
+    # Orb and Angle Influence, if available
+    if "orb_angle_influence" in data:
+        orb = data["orb_angle_influence"]
+        report += "\n🧭 Orb and Angular Influence:\n"
+        report += f"  - Angular Position: {orb.get('angular_position', 'N/A')}\n"
+        report += f"  - General Effect: {orb.get('effect', 'N/A')}\n"
+        angular_details = orb.get("angular_details", {})
+        if angular_details:
+            report += "  - Angular Details:\n"
+            for angle, desc in angular_details.items():
+                report += f"    * {angle}: {desc}\n"
+        report += f"  - Suggested Orb Degrees: {orb.get('suggested_orb_degrees', 'N/A')}\n"
+
+    report += "=" * 60 + "\n"
+    return report

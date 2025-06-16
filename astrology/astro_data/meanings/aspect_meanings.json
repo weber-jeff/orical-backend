@@ -1,0 +1,137 @@
+
+{
+
+    "Conjunction": {
+        "name": "Conjunction",
+        "symbol": "☌",
+        "angle": 0,
+        "orb": 8,
+        "type": "Major (Ptolemaic)",
+        "nature": "Neutral (highly dependent on planets involved)",
+        "elemental_effect": "Fire (Amplification and Ignition)",
+        "meaning": "A potent and dynamic fusion of planetary energies, where two or more celestial bodies align closely in the same zodiacal degree (or within an 8-degree orb). This alignment creates a powerful focal point, intensely amplifying the characteristics of the involved planets. It signifies a new beginning, a concentrated point of expression, and can manifest as either a powerful, focused drive towards a singular purpose or, if the energies are disparate, a source of significant internal tension, conflict, or confusion as the planets struggle to synthesize.",
+        "keywords": ["fusion", "amplification", "new beginnings", "power", "intense focus", "concentration", "identity", "synthesis", "initiation", "subjectivity", "potentiation"],
+        "strengths": [
+            "Single-minded determination and powerful resolve once a direction is chosen.",
+            "Unified vision and the ability to bring different energies together for a common purpose.",
+            "Potent creative ignition and the spark for new endeavors or expressions.",
+            "Deep, unwavering focus and the capacity for profound concentration on specific tasks or goals.",
+            "Enhanced personal power and a strong sense of self when planets are harmonious."
+        ],
+        "challenges": [
+            "Over-identification with the combined energies, leading to a lack of objectivity or a skewed perspective.",
+            "Significant blind spots or an inability to see alternative viewpoints due to the intensity of focus.",
+            "Potential for obsessiveness or fixation on the themes represented by the conjoined planets.",
+            "High risk of burnout due to the constant, intense energetic output or internal pressure.",
+            "Difficulty distinguishing individual planetary functions if they are too closely merged."
+        ],
+        "spiritual_lesson": "To achieve balance by consciously integrating the conjoined energies without losing individual awareness or becoming consumed by one aspect of the self. The lesson involves harnessing the amplified power responsibly, cultivating objectivity, and ensuring that the fusion serves holistic growth rather than narrow obsession. It's about merging forces while maintaining discernment.",
+        "relationship_effect": "In relationships, conjunctions can signify powerful, almost magnetic attraction and an intense, immediate bond. However, they can also lead to controlling dynamics, a merging of identities that can be either profoundly unifying or dangerously all-consuming, making it hard to maintain individual boundaries. The nature of the planets involved will heavily dictate the specific effect.",
+        "career_effect": "Highly suited for careers demanding deep, sustained focus, specialization, and intense dedication, such as surgery (precision), scientific research (deep investigation), invention (focused creation), executive leadership (singular vision), or any pioneering role where concentrated effort is paramount. Can indicate a career path that is central to one's identity.",
+        "psychological_shadow": "The potential loss of individual identity within the fused energy, leading to obsession with the conjunction's themes. Burnout from the sheer intensity, or an inability to detach. If the planets are challenging, it can manifest as profound internal conflict projected outwards or deep-seated compulsions.",
+        "archetype": "The Alchemist – Symbolizing the capacity to take distinct (planetary) forces, meld them together under intense conditions (the conjunction), and transform them into a new, potent form of power, substance, or understanding. This highlights the transformative and synthesizing power of the aspect.",
+        "ruling_planet": "Varies entirely based on the specific planets involved in the conjunction. The nature of the conjunction takes on the characteristics of the planets that form it.",
+        "body_part": "Varies, often associated with the body parts ruled by the specific planets in conjunction or the sign in which the conjunction occurs. For example, a Mars-Sun conjunction in Aries might strongly affect the head.",
+        "color": "Varies, often a blend of the colors associated with the planets involved, or a vibrant, intense hue reflecting the amplified energy. Some might associate it with pure white light (all colors combined) or deep black (absorption of all energy)."
+    },
+
+    "Opposition": {
+        "name": "Opposition",
+        "symbol": "☍",
+        "angle": 180,
+        "orb": 8,
+        "type": "Major (Ptolemaic)",
+        "nature": "Tense / Dynamic (Awareness through Polarity)",
+        "elemental_effect": "Air/Water (Reflective and Relational)",
+        "meaning": "An aspect of direct polarization, where planets are 180 degrees apart, creating a dynamic tension and a powerful awareness of duality. It often manifests as external conflicts, confrontations, or attractions that mirror unacknowledged internal imbalances or projections. This aspect strongly calls for the integration of seemingly irreconcilable opposites, fostering objectivity and a more holistic perspective through relationship and interaction.",
+        "keywords": ["duality", "awareness", "reflection", "projection", "balance", "partnership", "confrontation", "contrast", "polarity", "objectivity", "integration", "complementation"],
+        "strengths": [
+            "Heightened self-awareness gained through seeing oneself reflected in others or through challenging interactions.",
+            "Developed negotiation and mediation skills, learning to find common ground between opposing viewpoints.",
+            "Capacity for mature decision-making by considering all sides of an issue and understanding consequences.",
+            "Objective perspective and the ability to see both sides of any situation or argument with clarity.",
+            "Strong ability to form partnerships and understand relational dynamics."
+        ],
+        "challenges": [
+            "Tendency towards projection of one's own unowned qualities (both positive and negative) onto others, leading to blame or idealization.",
+            "Potential for codependency in relationships or a feeling of incompleteness without a partner.",
+            "Experiencing external chaos or crises that force confrontation with internal dichotomies.",
+            "Susceptibility to black-and-white thinking, vacillating between extremes, or struggling with indecision due to conflicting desires.",
+            "Feeling pulled in two different directions simultaneously, leading to exhaustion."
+        ],
+        "spiritual_lesson": "To achieve self-integration and wholeness by recognizing oneself in the 'other' and consciously balancing opposing forces within the psyche. The lesson involves withdrawing projections, owning all parts of oneself, and understanding that true balance comes from integrating, not eliminating, perceived opposites. It is about finding the middle path and the wisdom in polarity.",
+        "relationship_effect": "Often indicates 'mirroring' relationships where partners reflect back hidden or unintegrated aspects of the self, leading to vital but often intense and challenging lessons. Can signify karmic bonds, strong attractions to those who seem opposite, or relationships that force growth through confrontation and the need for compromise and balance.",
+        "career_effect": "Strongly suited for fields requiring diplomacy, objectivity, and the ability to balance competing interests, such as law (advocacy and justice), mediation, counseling or therapy (understanding relational dynamics), politics (negotiation), consulting, or public relations. Also roles that involve direct partnership or understanding opposing forces.",
+        "psychological_shadow": "Persistent blame of others for one's own problems, fear or outright rejection of qualities one doesn't like in oneself (which are then encountered in others), deep internal dissonance, and a feeling of being perpetually at odds with the world or significant individuals until integration is achieved.",
+        "archetype": "The Mirror (or The Diplomat/Judge) – Reflects hidden dualities, unowned parts of the self, and the necessity of confronting opposites for greater self-understanding, growth, and eventual balance. It highlights the aspect's role in fostering awareness through externalization.",
+        "ruling_planet": "Traditionally Venus (relationships, harmony) and Mars (conflict, assertion) due to their natural polarity, or Saturn (boundaries, confrontation with reality) often associated with the tension. The signs involved also heavily influence expression.",
+        "body_part": "Kidneys (balancing fluids), lower back (support, balance), adrenal glands (stress response). Also associated with the body's overall equilibrium and partnership organs.",
+        "color": "Green (traditional for Venus, balance), Blue (for Jupiter/Sagittarius if involved in bringing wider perspective), or contrasting colors like Black and White to emphasize polarity."
+    },
+    "Square": {
+        "name": "Square",
+        "symbol": "□",
+        "angle": 90,
+        "orb": 6,
+        "type": "Major (Ptolemaic)",
+        "nature": "Tense / Challenging (Dynamic Action-Oriented Friction)",
+        "elemental_effect": "Earth (Creating tangible crisis for restructuring)",
+        "meaning": "A highly tense and dynamic aspect representing significant friction, internal conflict, and external challenges between planetary energies that operate at cross-purposes. Growth is often forced through discomfort, overcoming resistance, and making decisive breakthroughs. Squares demand action, effort, and the development of strength to resolve the inherent stress and build new structures.",
+        "keywords": ["tension", "conflict", "crisis", "challenge", "action", "pressure", "growth", "frustration", "urgency", "drive", "construction through effort", "turning point"],
+        "strengths": [
+            "Builds profound resilience, inner strength, and remarkable endurance through overcoming adversity.",
+            "Sparks passionate drive, focused energy, and the motivation to take decisive action.",
+            "Develops exceptional problem-solving skills, especially when under pressure or in crisis situations.",
+            "Encourages perseverance, determination, and the courage to confront and master difficult circumstances.",
+            "Can lead to significant achievements born from overcoming major obstacles."
+        ],
+        "challenges": [
+            "Generates intense anger, frustration, irritability, and internal stress if energy is blocked or mismanaged.",
+            "High risk of burnout, exhaustion, or physical strain due to constant pressure and effort.",
+            "Can manifest as stubbornness, inflexibility, or a tendency to meet resistance with more force.",
+            "Feeling of being constantly overwhelmed by crises, obstacles, or a sense of being 'stuck'.",
+            "Internal battles that manifest as external conflicts or repeated difficult patterns."
+        ],
+        "spiritual_lesson": "To embrace discomfort, tension, and challenges as powerful catalysts for growth and self-mastery. The lesson involves learning to transform internal friction and external obstacles into strength, power, and constructive action through patience, inner resilience, strategic effort, and courage. It's about building character through adversity.",
+        "relationship_effect": "Often creates recurring cycles of tension, conflict, and power struggles that force growth by necessitating clear boundaries, assertive communication, and a willingness to address difficult issues directly. Can indicate relationships that challenge core insecurities and require significant effort to maintain harmony, but offer profound lessons in self-assertion and compromise.",
+        "career_effect": "Favors careers that thrive under pressure and demand decisive action, such as entrepreneurship (overcoming obstacles to build), crisis management, emergency services, athletics (requiring drive and overcoming limits), activism (fighting for a cause), surgery, or any role requiring dynamic problem-solving and resilience. Can indicate a career built through significant struggle and effort.",
+        "psychological_shadow": "Tendency towards self-sabotage due to internalized conflict, projection of blame onto others for internal frustrations, deeply internalized anger manifesting as resentment or passive-aggression, or a pattern of creating or attracting crises to feel alive or to prove one's strength.",
+        "archetype": "The Warrior (or The Pioneer/Builder under duress) – Represents one who grows stronger by confronting and overcoming significant resistance, obstacles, and internal or external battles. It highlights the aspect's role in forging strength and character through struggle and dynamic action.",
+        "ruling_planet": "Mars (action, conflict, drive) is traditionally strongly associated with the square. Saturn (obstacles, discipline required) can also resonate with the feeling of being tested.",
+        "body_part": "Muscles (tension, effort), bones and joints (structural stress), inflammatory responses. Often linked to areas of the body that experience strain or require forceful action.",
+        "color": "Red (Mars, action, conflict, energy), or stark, challenging colors like Grey or Black, representing the obstacles to be overcome or the pressure experienced."
+    },
+    "Trine": {
+        "name": "Trine",
+        "symbol": "△",
+        "angle": 120,
+        "orb": 6,
+        "type": "Major (Ptolemaic)",
+        "nature": "Harmonious / Flowing (Ease and Natural Talent)",
+        "elemental_effect": "Water (Flowing Grace and Emotional/Creative Harmony) - *User originally had Water. Traditionally, trines are same-element harmony (e.g., Fire to Fire). If 'Water' here implies a general sense of flow and ease, it fits. If it means trines between Water signs, that's more specific.*",
+        "meaning": "A highly flowing and supportive aspect indicating natural talent, inherent gifts, grace, and a sense of ease and alignment with one's purpose or environment. Planets in trine cooperate effortlessly, allowing their energies to blend constructively and creatively. Opportunities may arise easily, and there's often an innate understanding or skill in the areas governed by the planets and signs involved.",
+        "keywords": ["harmony", "talent", "luck", "flow", "ease", "alignment", "peace", "creativity", "natural gifts", "support", "blessings", "effortlessness", "serendipity"],
+        "strengths": [
+            "Innate self-confidence, emotional intelligence, and a generally optimistic disposition.",
+            "Natural creative genius, artistic talents, or an effortless ability to express oneself harmoniously.",
+            "Capacity for peaceful, balanced, and mutually supportive relationships that flow with ease.",
+            "Potential for inspirational leadership, healing abilities, or a natural charm that draws positive experiences.",
+            "Things often 'work out' or opportunities present themselves with little struggle."
+        ],
+        "challenges": [
+            "Risk of complacency or taking inherent gifts and easy circumstances for granted, leading to a lack of effort.",
+            "Potential for underachievement if not consciously motivated to develop or apply natural talents.",
+            "Occasional lack of motivation or drive because things come too easily, reducing the impetus for hard work.",
+            "May overlook the value of effort or struggle, or lack resilience when faced with unexpected, genuine difficulty.",
+            "Can sometimes indicate a path of least resistance that may not lead to the highest potential if not actively engaged."
+        ],
+        "spiritual_lesson": "To cultivate deep appreciation for and mindfully utilize one's inherent gifts and blessings without becoming passive or entitled. The lesson involves flowing with the supportive currents of life while remaining aware, humble, and actively engaged in expressing one's talents for personal fulfillment and the benefit of others. It is about conscious participation in grace.",
+        "relationship_effect": "Fosters loyal, balanced, comfortable, and emotionally supportive bonds where understanding and affection flow easily. Partners often share similar outlooks or complement each other harmoniously. While generally positive, there's a slight risk of taking the relationship or partner for granted due to the lack of friction.",
+        "career_effect": "Excellent for careers in the arts, design, entertainment, counseling, healing professions, teaching, diplomacy, or any leadership role requiring inspiration, vision, and a natural ability to create harmony and flow. Indicates areas where talents can be expressed with ease and success may come naturally, though sustained effort maximizes potential.",
+        "psychological_shadow": "Potential for entitlement, assuming good things will always come without effort. Risk of passivity, laziness, or stagnation if the easy flow is not consciously directed towards growth and contribution. May struggle to develop grit if everything has always been too easy.",
+        "archetype": "The Artist (or The Favored Child/The Natural) – Represents one who creates, relates, or achieves with an inherent beauty, grace, and seeming effortlessness. It highlights the aspect's connection to innate talents, divine favor, and the harmonious expression of planetary energies.",
+        "ruling_planet": "Jupiter (luck, abundance, ease, wisdom) is traditionally strongly associated with the trine. Venus (harmony, beauty, pleasure) also resonates with its flowing and agreeable nature.",
+        "body_part": "Liver (Jupiter's traditional rulership, associated with growth and well-being), thighs, overall sense of physical ease and good circulation. Often linked to bodily functions that operate smoothly and harmoniously.",
+        "color": "Blue (Jupiter, wisdom, expansion, peace), Light Green (Venus, harmony, growth), or other harmonious, flowing, and inspiring colors like Sky Blue or gentle pastels."
+    }
+}

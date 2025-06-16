@@ -1,0 +1,122 @@
+{
+  "Cardinal": {
+    "name": "Cardinal",
+    "meaning": "Cardinal signs are the initiators and leaders of the zodiac. They are dynamic, proactive, and constantly seeking new beginnings and ways to start projects. Their energy sparks action and sets things in motion.",
+    "keywords": [
+      "initiative",
+      "leadership",
+      "ambition",
+      "drive",
+      "innovation"
+    ],
+    "strengths": [
+      "Goal-oriented",
+      "Visionary",
+      "Energetic",
+      "Decisive"
+    ],
+    "challenges": [
+      "Impatience",
+      "Overbearing",
+      "Restlessness",
+      "Difficulty finishing what they start"
+    ],
+    "spiritual_lesson": "Learn to balance initiating new endeavors with patience and follow-through.",
+    "relationship_effect": "Cardinal individuals lead relationships with confidence but may need to be mindful of not dominating.",
+    "career_effect": "Excel in leadership roles, entrepreneurship, management, and any career requiring initiative.",
+    "psychological_shadow": "Can become controlling, impulsive, or easily frustrated by delays.",
+    "archetype": "The Initiator – the spark that lights the fire.",
+    "associated_signs": [
+      "Aries",
+      "Cancer",
+      "Libra",
+      "Capricorn"
+    ],
+    "elemental_association": {
+      "Aries": "Fire",
+      "Cancer": "Water",
+      "Libra": "Air",
+      "Capricorn": "Earth"
+    }
+  },
+  "Fixed": {
+    "name": "Fixed",
+    "meaning": "Fixed signs are the stabilizers and sustainers of the zodiac. They embody determination, persistence, and resistance to change, providing consistency and reliability.",
+    "keywords": [
+      "stability",
+      "determination",
+      "loyalty",
+      "persistence",
+      "endurance"
+    ],
+    "strengths": [
+      "Reliable",
+      "Focused",
+      "Patient",
+      "Tenacious"
+    ],
+    "challenges": [
+      "Stubbornness",
+      "Resistance to change",
+      "Possessiveness",
+      "Inflexibility"
+    ],
+    "spiritual_lesson": "Learn to be adaptable while holding onto your core values.",
+    "relationship_effect": "Fixed individuals provide steady, enduring love but may struggle with rigidity.",
+    "career_effect": "Thrive in careers requiring perseverance, routine, craftsmanship, and management.",
+    "psychological_shadow": "Can become inflexible, resistant to new ideas, or stuck in unhealthy patterns.",
+    "archetype": "The Stabilizer – the rock and foundation.",
+    "associated_signs": [
+      "Taurus",
+      "Leo",
+      "Scorpio",
+      "Aquarius"
+    ],
+    "elemental_association": {
+      "Taurus": "Earth",
+      "Leo": "Fire",
+      "Scorpio": "Water",
+      "Aquarius": "Air"
+    }
+  },
+  "Mutable": {
+    "name": "Mutable",
+    "meaning": "Mutable signs are the adapters and communicators of the zodiac. They are flexible, versatile, and skilled at navigating change, often acting as the connectors and translators in the zodiac wheel.",
+    "keywords": [
+      "adaptability",
+      "flexibility",
+      "communication",
+      "versatility",
+      "curiosity"
+    ],
+    "strengths": [
+      "Open-minded",
+      "Resourceful",
+      "Multitasker",
+      "Diplomatic"
+    ],
+    "challenges": [
+      "Indecisiveness",
+      "Inconsistency",
+      "Restlessness",
+      "Superficiality"
+    ],
+    "spiritual_lesson": "Balance your flexibility with commitment and depth.",
+    "relationship_effect": "Mutable individuals bring variety and change to relationships but may struggle with consistency.",
+    "career_effect": "Excel in careers requiring adaptability, communication, teaching, and travel.",
+    "psychological_shadow": "Can be scattered, unreliable, or emotionally detached.",
+    "archetype": "The Adapter – the versatile communicator.",
+    "associated_signs": [
+      "Gemini",
+      "Virgo",
+      "Sagittarius",
+      "Pisces"
+    ],
+    "elemental_association": {
+      "Gemini": "Air",
+      "Virgo": "Earth",
+      "Sagittarius": "Fire",
+      "Pisces": "Water"
+    }
+  }
+}

@@ -1,0 +1,3216 @@
+{
+  "1st House": {
+    "theme": "Self, identity, physical appearance, beginnings, approach to life",
+    "planets": {
+      "Sun": {
+        "keywords": [
+          "self-expression",
+          "confidence",
+          "vitality"
+        ],
+        "psychological_focus": [
+          "Developing a strong personal identity",
+          "Expressing your individuality",
+          "Seeking recognition and purpose"
+        ],
+        "challenges": [
+          "Ego struggles",
+          "Over-identification with image"
+        ],
+        "gifts": [
+          "Charisma",
+          "Leadership ability",
+          "Vitality"
+        ],
+        "spiritual_lesson": "To shine authentically and lead by example."
+      },
+      "Moon": {
+        "keywords": [
+          "emotions",
+          "inner self",
+          "nurturing"
+        ],
+        "psychological_focus": [
+          "Understanding emotional needs",
+          "Developing emotional self-awareness"
+        ],
+        "challenges": [
+          "Emotional vulnerability",
+          "Moodiness"
+        ],
+        "gifts": [
+          "Intuition",
+          "Empathy"
+        ],
+        "spiritual_lesson": "To nurture oneself emotionally and others with compassion."
+      },
+      "Mercury": {
+        "keywords": [
+          "communication",
+          "thought processes",
+          "learning style"
+        ],
+        "psychological_focus": [
+          "Forming ideas about self",
+          "Expressing identity verbally and mentally",
+          "Adapting to new situations through intellect"
+        ],
+        "challenges": [
+          "Overthinking self-image",
+          "Insecurity in communication"
+        ],
+        "gifts": [
+          "Quick wit",
+          "Articulate self-expression",
+          "Adaptability"
+        ],
+        "spiritual_lesson": "To communicate your true self with clarity and confidence."
+      },
+      "Venus": {
+        "keywords": [
+          "attraction",
+          "self-love",
+          "harmony"
+        ],
+        "psychological_focus": [
+          "Valuing oneself and cultivating charm",
+          "Desire for harmony in self-presentation"
+        ],
+        "challenges": [
+          "Overdependence on others’ approval",
+          "Superficial charm masking deeper insecurities"
+        ],
+        "gifts": [
+          "Natural grace",
+          "Magnetism",
+          "Ability to attract positive relationships"
+        ],
+        "spiritual_lesson": "To love yourself deeply beyond external appearance."
+      },
+      "Mars": {
+        "keywords": [
+          "assertion",
+          "energy",
+          "initiative"
+        ],
+        "psychological_focus": [
+          "Taking bold action in defining identity",
+          "Channeling physical energy constructively"
+        ],
+        "challenges": [
+          "Impulsiveness",
+          "Aggressive self-assertion"
+        ],
+        "gifts": [
+          "Courage",
+          "Drive",
+          "Passion"
+        ],
+        "spiritual_lesson": "To assert your will with integrity and controlled strength."
+      },
+      "Jupiter": {
+        "keywords": [
+          "expansion",
+          "optimism",
+          "growth"
+        ],
+        "psychological_focus": [
+          "Expanding horizons through self-confidence",
+          "Belief in personal potential"
+        ],
+        "challenges": [
+          "Overconfidence",
+          "Neglecting details in pursuit of growth"
+        ],
+        "gifts": [
+          "Generosity",
+          "Faith in oneself",
+          "Big-picture thinking"
+        ],
+        "spiritual_lesson": "To grow by embracing optimism balanced with humility."
+      },
+      "Saturn": {
+        "keywords": [
+          "discipline",
+          "responsibility",
+          "structure"
+        ],
+        "psychological_focus": [
+          "Building a disciplined self-identity",
+          "Facing fears around self-expression"
+        ],
+        "challenges": [
+          "Self-doubt",
+          "Fear of rejection"
+        ],
+        "gifts": [
+          "Resilience",
+          "Maturity",
+          "Strong personal boundaries"
+        ],
+        "spiritual_lesson": "To create a solid foundation for authentic self-expression."
+      },
+      "Uranus": {
+        "keywords": [
+          "innovation",
+          "freedom",
+          "uniqueness"
+        ],
+        "psychological_focus": [
+          "Breaking traditional identity molds",
+          "Embracing originality and unpredictability"
+        ],
+        "challenges": [
+          "Rebelliousness",
+          "Instability in self-image"
+        ],
+        "gifts": [
+          "Inventiveness",
+          "Progressive thinking",
+          "Magnetic individuality"
+        ],
+        "spiritual_lesson": "To express your unique self without fear or apology."
+      },
+      "Neptune": {
+        "keywords": [
+          "idealism",
+          "dreams",
+          "spiritual sensitivity"
+        ],
+        "psychological_focus": [
+          "Connecting to a transcendent sense of self",
+          "Embracing imagination and compassion"
+        ],
+        "challenges": [
+          "Confusion about identity",
+          "Escapism"
+        ],
+        "gifts": [
+          "Intuitive insight",
+          "Creativity",
+          "Empathy"
+        ],
+        "spiritual_lesson": "To dissolve ego boundaries and find unity with the greater whole."
+      },
+      "Pluto": {
+        "keywords": [
+          "transformation",
+          "power",
+          "rebirth"
+        ],
+        "psychological_focus": [
+          "Deep psychological renewal of self",
+          "Facing shadows and reclaiming personal power"
+        ],
+        "challenges": [
+          "Control issues",
+          "Fear of vulnerability"
+        ],
+        "gifts": [
+          "Emotional resilience",
+          "Empowerment",
+          "Capacity for profound change"
+        ],
+        "spiritual_lesson": "To transform and emerge stronger through self-awareness."
+      },
+      "Chiron": {
+        "keywords": [
+          "wounded identity",
+          "healing the self",
+          "early trauma"
+        ],
+        "psychological_focus": [
+          "Healing self-image and early identity wounds",
+          "Overcoming feelings of inadequacy or invisibility",
+          "Developing confidence through vulnerability"
+        ],
+        "challenges": [
+          "Low self-esteem rooted in early life",
+          "Fear of being seen or expressing identity",
+          "Over-identification with being 'wounded'"
+        ],
+        "gifts": [
+          "Healing presence to others",
+          "Authenticity and courage to be vulnerable",
+          "Empathy for those struggling with identity"
+        ],
+        "spiritual_lesson": "True power comes from healing and owning your unique identity."
+      },
+      "North Node": {
+        "keywords": [
+          "soul development",
+          "new self",
+          "karmic rebirth"
+        ],
+        "psychological_focus": [
+          "Stepping into a bold new sense of self",
+          "Letting go of past-life dependencies on others",
+          "Creating an independent, authentic identity"
+        ],
+        "challenges": [
+          "Fear of standing alone",
+          "Attachment to partnerships (South Node in 7th)",
+          "Uncertainty about self-direction"
+        ],
+        "gifts": [
+          "Strong personal leadership",
+          "Courage to walk a unique path",
+          "Magnetic independence"
+        ],
+        "spiritual_lesson": "Your destiny lies in fully embodying your true self, not relying on validation from others."
+      }
+    }
+  },
+  "2nd House": {
+    "theme": "Values, possessions, personal resources, self-worth, money, stability",
+    "planets": {
+      "Sun": {
+        "keywords": [
+          "self-worth",
+          "material security",
+          "personal values"
+        ],
+        "psychological_focus": [
+          "Building confidence through tangible achievements",
+          "Defining what you truly value in life",
+          "Seeking recognition via financial or material success"
+        ],
+        "challenges": [
+          "Over-identifying with possessions",
+          "Fear of lack or insecurity"
+        ],
+        "gifts": [
+          "Strong sense of personal value",
+          "Ability to attract resources",
+          "Stability and groundedness"
+        ],
+        "spiritual_lesson": "To develop self-worth beyond material possessions."
+      },
+      "Moon": {
+        "keywords": [
+          "emotional security",
+          "comfort",
+          "nurturing resources"
+        ],
+        "psychological_focus": [
+          "Seeking emotional comfort through stability",
+          "Understanding how values connect to feelings"
+        ],
+        "challenges": [
+          "Emotional dependence on material security",
+          "Mood fluctuations tied to financial situations"
+        ],
+        "gifts": [
+          "Intuitive money management",
+          "Creating a nurturing environment",
+          "Emotional resilience through groundedness"
+        ],
+        "spiritual_lesson": "To nurture inner security independent of external wealth."
+      },
+      "Mercury": {
+        "keywords": [
+          "practical thinking",
+          "financial decisions",
+          "value communication"
+        ],
+        "psychological_focus": [
+          "Analyzing resources and personal values",
+          "Communicating worth and negotiating needs"
+        ],
+        "challenges": [
+          "Overthinking financial security",
+          "Inconsistent money habits"
+        ],
+        "gifts": [
+          "Sharp financial insight",
+          "Clear communication of needs",
+          "Adaptability in managing resources"
+        ],
+        "spiritual_lesson": "To balance intellect and practicality in valuing oneself."
+      },
+      "Venus": {
+        "keywords": [
+          "love of beauty",
+          "financial luck",
+          "pleasure in possessions"
+        ],
+        "psychological_focus": [
+          "Desire for harmonious surroundings",
+          "Attraction to luxury and comfort"
+        ],
+        "challenges": [
+          "Overindulgence",
+          "Materialism masking deeper self-worth issues"
+        ],
+        "gifts": [
+          "Ability to attract abundance",
+          "Appreciation for beauty and comfort",
+          "Creating harmonious environments"
+        ],
+        "spiritual_lesson": "To find true value in love and beauty beyond possessions."
+      },
+      "Mars": {
+        "keywords": [
+          "drive to acquire",
+          "assertive with resources",
+          "financial initiative"
+        ],
+        "psychological_focus": [
+          "Taking action to secure possessions",
+          "Defending personal values"
+        ],
+        "challenges": [
+          "Impulsive spending",
+          "Aggression in financial matters"
+        ],
+        "gifts": [
+          "Energetic pursuit of goals",
+          "Strong resourcefulness",
+          "Ability to overcome financial challenges"
+        ],
+        "spiritual_lesson": "To channel ambition into lasting security."
+      },
+      "Jupiter": {
+        "keywords": [
+          "financial growth",
+          "optimism in values",
+          "expansion of resources"
+        ],
+        "psychological_focus": [
+          "Belief in abundance",
+          "Expanding material and personal values"
+        ],
+        "challenges": [
+          "Overconfidence leading to excess",
+          "Taking financial risks without caution"
+        ],
+        "gifts": [
+          "Generosity",
+          "Financial luck",
+          "Vision for long-term wealth"
+        ],
+        "spiritual_lesson": "To cultivate abundance with wisdom and generosity."
+      },
+      "Saturn": {
+        "keywords": [
+          "financial discipline",
+          "responsibility",
+          "practical value"
+        ],
+        "psychological_focus": [
+          "Building steady foundations",
+          "Facing fears about scarcity"
+        ],
+        "challenges": [
+          "Fear of loss",
+          "Rigidity in finances"
+        ],
+        "gifts": [
+          "Strong financial management",
+          "Patience in resource building",
+          "Practicality and reliability"
+        ],
+        "spiritual_lesson": "To create security through responsible effort."
+      },
+      "Uranus": {
+        "keywords": [
+          "unconventional values",
+          "financial independence",
+          "sudden change"
+        ],
+        "psychological_focus": [
+          "Breaking traditional money patterns",
+          "Valuing freedom over materialism"
+        ],
+        "challenges": [
+          "Financial instability",
+          "Impulsive spending or saving"
+        ],
+        "gifts": [
+          "Innovative resource management",
+          "Unique approach to possessions",
+          "Attracting unexpected opportunities"
+        ],
+        "spiritual_lesson": "To embrace change and freedom in how you value yourself."
+      },
+      "Neptune": {
+        "keywords": [
+          "idealistic values",
+          "spiritual wealth",
+          "creative resources"
+        ],
+        "psychological_focus": [
+          "Seeking deeper meaning beyond materialism",
+          "Valuing compassion and spiritual wealth"
+        ],
+        "challenges": [
+          "Confusion over financial reality",
+          "Escapism through material indulgence"
+        ],
+        "gifts": [
+          "Creative use of resources",
+          "Spiritual generosity",
+          "Visionary financial goals"
+        ],
+        "spiritual_lesson": "To transcend materialism and find value in the unseen."
+      },
+      "Pluto": {
+        "keywords": [
+          "transformative values",
+          "power over resources",
+          "financial rebirth"
+        ],
+        "psychological_focus": [
+          "Deep psychological changes in what you value",
+          "Reclaiming power in personal finances"
+        ],
+        "challenges": [
+          "Control issues",
+          "Fear of loss or powerlessness"
+        ],
+        "gifts": [
+          "Emotional strength through transformation",
+          "Financial regeneration",
+          "Insight into hidden value"
+        ],
+        "spiritual_lesson": "To transform attachments into empowered self-worth."
+      },
+      "Chiron": {
+        "keywords": [
+          "wounded self-worth",
+          "healing financial wounds",
+          "valuing the vulnerable self"
+        ],
+        "psychological_focus": [
+          "Healing feelings of inadequacy related to possessions",
+          "Overcoming fears around self-value"
+        ],
+        "challenges": [
+          "Low self-esteem tied to material lack",
+          "Feeling invisible or unworthy"
+        ],
+        "gifts": [
+          "Ability to heal others' insecurities",
+          "Authentic appreciation of true worth",
+          "Courage to confront vulnerability"
+        ],
+        "spiritual_lesson": "True value comes from inner worth, not external possessions."
+      },
+      "North Node": {
+        "keywords": [
+          "karmic growth in values",
+          "new approaches to security",
+          "developing self-worth"
+        ],
+        "psychological_focus": [
+          "Learning to build personal security authentically",
+          "Moving away from dependency on others' resources"
+        ],
+        "challenges": [
+          "Fear of financial independence",
+          "Attachment to old value systems"
+        ],
+        "gifts": [
+          "Confidence in self-sufficiency",
+          "New understanding of abundance",
+          "Balanced approach to material and spiritual wealth"
+        ],
+        "spiritual_lesson": "Your soul’s path is to develop genuine self-worth beyond material dependency."
+      }
+    }
+  },
+  "3rd House": {
+    "theme": "Communication, learning, siblings, local environment, mental activity, short journeys",
+    "planets": {
+      "Sun": {
+        "keywords": [
+          "self-expression through communication",
+          "mental vitality",
+          "curiosity"
+        ],
+        "psychological_focus": [
+          "Building confidence in sharing ideas",
+          "Seeking recognition through learning and expression",
+          "Developing mental agility"
+        ],
+        "challenges": [
+          "Restlessness",
+          "Overemphasis on intellectual approval"
+        ],
+        "gifts": [
+          "Quick thinking",
+          "Effective communication",
+          "Natural curiosity"
+        ],
+        "spiritual_lesson": "To shine through honest and clear communication."
+      },
+      "Moon": {
+        "keywords": [
+          "emotional communication",
+          "intuitive learning",
+          "nurturing local connections"
+        ],
+        "psychological_focus": [
+          "Expressing emotions through words",
+          "Understanding emotional undercurrents in communication",
+          "Building nurturing relationships with siblings and neighbors"
+        ],
+        "challenges": [
+          "Emotional fluctuations affecting communication",
+          "Sensitivity to criticism"
+        ],
+        "gifts": [
+          "Empathic listener",
+          "Intuitive understanding",
+          "Emotional warmth in communication"
+        ],
+        "spiritual_lesson": "To nurture others through heartfelt communication."
+      },
+      "Mercury": {
+        "keywords": [
+          "communication",
+          "intellect",
+          "curiosity",
+          "learning"
+        ],
+        "psychological_focus": [
+          "Developing mental clarity and focus",
+          "Adapting quickly to new information",
+          "Engaging actively with environment and community"
+        ],
+        "challenges": [
+          "Nervous energy",
+          "Scattered thoughts"
+        ],
+        "gifts": [
+          "Strong analytical skills",
+          "Versatility in communication",
+          "Lifelong learner"
+        ],
+        "spiritual_lesson": "To use intellect to connect and uplift others."
+      },
+      "Venus": {
+        "keywords": [
+          "harmony in communication",
+          "charming speech",
+          "loving local relationships"
+        ],
+        "psychological_focus": [
+          "Seeking pleasant and diplomatic exchanges",
+          "Building affectionate connections with siblings and neighbors"
+        ],
+        "challenges": [
+          "Avoidance of conflict",
+          "Superficial communication"
+        ],
+        "gifts": [
+          "Graceful communicator",
+          "Ability to create harmony",
+          "Social charm"
+        ],
+        "spiritual_lesson": "To cultivate love and beauty in all exchanges."
+      },
+      "Mars": {
+        "keywords": [
+          "assertive communication",
+          "mental energy",
+          "active learning"
+        ],
+        "psychological_focus": [
+          "Taking initiative in conversations",
+          "Defending ideas with passion",
+          "Engaging energetically with local community"
+        ],
+        "challenges": [
+          "Argumentativeness",
+          "Impulsiveness in speech"
+        ],
+        "gifts": [
+          "Courageous speaker",
+          "Energetic learner",
+          "Passionate engagement"
+        ],
+        "spiritual_lesson": "To channel mental energy into constructive communication."
+      },
+      "Jupiter": {
+        "keywords": [
+          "expansive thinking",
+          "optimistic communication",
+          "teaching"
+        ],
+        "psychological_focus": [
+          "Seeking meaning and truth through learning",
+          "Sharing knowledge generously",
+          "Exploring new ideas and philosophies"
+        ],
+        "challenges": [
+          "Overconfidence in opinions",
+          "Tendency to overextend mentally"
+        ],
+        "gifts": [
+          "Broad-minded thinker",
+          "Inspirational teacher",
+          "Optimistic communicator"
+        ],
+        "spiritual_lesson": "To expand horizons through open-hearted sharing of wisdom."
+      },
+      "Saturn": {
+        "keywords": [
+          "structured thinking",
+          "discipline in communication",
+          "responsible learning"
+        ],
+        "psychological_focus": [
+          "Building a solid foundation of knowledge",
+          "Overcoming fears of expressing ideas",
+          "Learning patience in communication"
+        ],
+        "challenges": [
+          "Self-doubt in intellectual abilities",
+          "Communication blocks"
+        ],
+        "gifts": [
+          "Disciplined thinker",
+          "Clear and effective communicator",
+          "Reliable learner"
+        ],
+        "spiritual_lesson": "To develop wisdom through disciplined mental effort."
+      },
+      "Uranus": {
+        "keywords": [
+          "innovative ideas",
+          "original communication",
+          "mental independence"
+        ],
+        "psychological_focus": [
+          "Thinking outside the box",
+          "Challenging conventional ideas",
+          "Seeking freedom in communication"
+        ],
+        "challenges": [
+          "Unpredictable thoughts",
+          "Difficulty focusing"
+        ],
+        "gifts": [
+          "Inventive thinker",
+          "Progressive communicator",
+          "Open-minded learner"
+        ],
+        "spiritual_lesson": "To embrace originality and freedom of thought."
+      },
+      "Neptune": {
+        "keywords": [
+          "imaginative thinking",
+          "dreamy communication",
+          "intuitive learning"
+        ],
+        "psychological_focus": [
+          "Connecting with deeper meanings",
+          "Expressing creativity in words",
+          "Navigating blurred mental boundaries"
+        ],
+        "challenges": [
+          "Confusion in communication",
+          "Escapism through mental fantasy"
+        ],
+        "gifts": [
+          "Creative storyteller",
+          "Empathic listener",
+          "Visionary thinker"
+        ],
+        "spiritual_lesson": "To communicate with compassion and imagination."
+      },
+      "Pluto": {
+        "keywords": [
+          "transformative ideas",
+          "intense communication",
+          "mental power"
+        ],
+        "psychological_focus": [
+          "Exploring deep truths",
+          "Powerful expression of ideas",
+          "Transforming mental patterns"
+        ],
+        "challenges": [
+          "Obsessive thinking",
+          "Power struggles in communication"
+        ],
+        "gifts": [
+          "Penetrating intellect",
+          "Transformational speaker",
+          "Mental resilience"
+        ],
+        "spiritual_lesson": "To harness mental power for profound transformation."
+      },
+      "Chiron": {
+        "keywords": [
+          "wounded communication",
+          "healing through expression",
+          "vulnerable truth"
+        ],
+        "psychological_focus": [
+          "Healing past wounds related to speaking and listening",
+          "Overcoming fear of expressing vulnerability",
+          "Finding voice through healing"
+        ],
+        "challenges": [
+          "Fear of rejection",
+          "Difficulty expressing inner truth"
+        ],
+        "gifts": [
+          "Healing communicator",
+          "Authentic voice",
+          "Empathy for others' pain"
+        ],
+        "spiritual_lesson": "True healing comes from courageous self-expression."
+      },
+      "North Node": {
+        "keywords": [
+          "karmic learning",
+          "growth through communication",
+          "new ways of thinking"
+        ],
+        "psychological_focus": [
+          "Embracing new ideas and perspectives",
+          "Developing authentic voice",
+          "Moving beyond old mental patterns"
+        ],
+        "challenges": [
+          "Resistance to change in thinking",
+          "Attachment to familiar ideas"
+        ],
+        "gifts": [
+          "Open-minded learner",
+          "Effective and authentic communicator",
+          "Willingness to grow mentally"
+        ],
+        "spiritual_lesson": "Your soul’s path is to express truth through evolving communication."
+      }
+    }
+  },
+  "4th House": {
+    "theme": "Home, family, roots, emotional foundation, inner security, private life",
+    "planets": {
+      "Sun": {
+        "keywords": [
+          "core identity in the home",
+          "emotional warmth",
+          "family leadership"
+        ],
+        "psychological_focus": [
+          "Building a strong sense of emotional security",
+          "Expressing individuality within the family",
+          "Seeking recognition as a nurturing presence"
+        ],
+        "challenges": [
+          "Ego tied to family roles",
+          "Struggles balancing independence and belonging"
+        ],
+        "gifts": [
+          "Natural protector of loved ones",
+          "Emotional resilience",
+          "Warmth and vitality at home"
+        ],
+        "spiritual_lesson": "To shine authentically by honoring your roots and family legacy."
+      },
+      "Moon": {
+        "keywords": [
+          "deep emotional needs",
+          "nurturing",
+          "family bonds",
+          "memory"
+        ],
+        "psychological_focus": [
+          "Understanding subconscious emotional patterns",
+          "Healing family wounds",
+          "Creating a safe, nurturing home environment"
+        ],
+        "challenges": [
+          "Emotional dependency",
+          "Mood swings influenced by family dynamics"
+        ],
+        "gifts": [
+          "Empathy for family and ancestral ties",
+          "Intuitive emotional intelligence",
+          "Ability to nurture self and others"
+        ],
+        "spiritual_lesson": "To cultivate emotional nourishment and inner peace through family connections."
+      },
+      "Mercury": {
+        "keywords": [
+          "communication within family",
+          "mental foundation",
+          "memory"
+        ],
+        "psychological_focus": [
+          "Understanding family dynamics intellectually",
+          "Processing emotional memories",
+          "Expressing thoughts about home and roots"
+        ],
+        "challenges": [
+          "Overthinking family issues",
+          "Difficulty communicating feelings"
+        ],
+        "gifts": [
+          "Clear communicator in intimate settings",
+          "Strong memory",
+          "Analytical approach to emotional security"
+        ],
+        "spiritual_lesson": "To use mental clarity to create emotional stability."
+      },
+      "Venus": {
+        "keywords": [
+          "harmony in home life",
+          "love for family",
+          "comfort and beauty"
+        ],
+        "psychological_focus": [
+          "Creating a beautiful, loving home",
+          "Seeking peace and comfort within family relationships",
+          "Expressing affection through nurturing acts"
+        ],
+        "challenges": [
+          "Avoidance of conflict in family",
+          "Over-dependence on family approval"
+        ],
+        "gifts": [
+          "Peacemaker at home",
+          "Strong sense of belonging",
+          "Ability to create warmth and comfort"
+        ],
+        "spiritual_lesson": "To cultivate love and beauty as a foundation for emotional security."
+      },
+      "Mars": {
+        "keywords": [
+          "assertiveness in home",
+          "family protector",
+          "emotional drive"
+        ],
+        "psychological_focus": [
+          "Defending family values and boundaries",
+          "Expressing passion in domestic life",
+          "Handling family conflicts with courage"
+        ],
+        "challenges": [
+          "Family arguments",
+          "Impulsiveness affecting home harmony"
+        ],
+        "gifts": [
+          "Energetic protector of loved ones",
+          "Passionate about home and roots",
+          "Courageous emotional expression"
+        ],
+        "spiritual_lesson": "To channel energy into protecting and strengthening your emotional foundation."
+      },
+      "Jupiter": {
+        "keywords": [
+          "expansion of emotional roots",
+          "family blessings",
+          "optimism in private life"
+        ],
+        "psychological_focus": [
+          "Seeking growth through family experiences",
+          "Finding meaning in heritage",
+          "Building a positive emotional foundation"
+        ],
+        "challenges": [
+          "Overindulgence in family matters",
+          "Unrealistic expectations from family"
+        ],
+        "gifts": [
+          "Generous family spirit",
+          "Optimistic emotional outlook",
+          "Broad, expansive home life"
+        ],
+        "spiritual_lesson": "To grow emotionally by embracing your roots and family blessings."
+      },
+      "Saturn": {
+        "keywords": [
+          "emotional discipline",
+          "family responsibility",
+          "inner strength"
+        ],
+        "psychological_focus": [
+          "Building emotional resilience",
+          "Facing family duties seriously",
+          "Overcoming emotional limitations"
+        ],
+        "challenges": [
+          "Emotional repression",
+          "Feeling burdened by family obligations"
+        ],
+        "gifts": [
+          "Reliable emotional foundation",
+          "Strong sense of duty",
+          "Mature approach to family challenges"
+        ],
+        "spiritual_lesson": "To develop inner security through responsibility and emotional maturity."
+      },
+      "Uranus": {
+        "keywords": [
+          "emotional freedom",
+          "unconventional home",
+          "sudden changes in family"
+        ],
+        "psychological_focus": [
+          "Seeking independence within family",
+          "Breaking emotional patterns",
+          "Embracing change in domestic life"
+        ],
+        "challenges": [
+          "Instability in home life",
+          "Emotional detachment"
+        ],
+        "gifts": [
+          "Innovative approach to family",
+          "Emotional liberation",
+          "Ability to adapt to change"
+        ],
+        "spiritual_lesson": "To embrace freedom and innovation in your emotional roots."
+      },
+      "Neptune": {
+        "keywords": [
+          "idealistic home",
+          "spiritual roots",
+          "emotional sensitivity"
+        ],
+        "psychological_focus": [
+          "Seeking spiritual meaning in family",
+          "Navigating emotional boundaries",
+          "Idealizing home life"
+        ],
+        "challenges": [
+          "Escaping into fantasy",
+          "Confusion about emotional needs"
+        ],
+        "gifts": [
+          "Compassionate family member",
+          "Spiritual connection to roots",
+          "Heightened emotional intuition"
+        ],
+        "spiritual_lesson": "To find spiritual peace through emotional openness and compassion."
+      },
+      "Pluto": {
+        "keywords": [
+          "transformative home life",
+          "deep family secrets",
+          "emotional rebirth"
+        ],
+        "psychological_focus": [
+          "Facing deep emotional transformations",
+          "Healing family traumas",
+          "Rebirth through confronting roots"
+        ],
+        "challenges": [
+          "Power struggles in family",
+          "Intense emotional upheaval"
+        ],
+        "gifts": [
+          "Emotional depth",
+          "Transformational healing",
+          "Strong resilience"
+        ],
+        "spiritual_lesson": "To transform your emotional foundation through courage and healing."
+      },
+      "Chiron": {
+        "keywords": [
+          "wounded family ties",
+          "healing ancestral wounds",
+          "emotional vulnerability"
+        ],
+        "psychological_focus": [
+          "Healing inherited family pain",
+          "Overcoming emotional wounds from childhood",
+          "Building emotional courage"
+        ],
+        "challenges": [
+          "Fear of emotional intimacy",
+          "Difficulty trusting family"
+        ],
+        "gifts": [
+          "Healing presence within family",
+          "Emotional authenticity",
+          "Empathy for generational pain"
+        ],
+        "spiritual_lesson": "Healing starts at home, with compassion for self and ancestors."
+      },
+      "North Node": {
+        "keywords": [
+          "karmic home lessons",
+          "emotional growth",
+          "building inner security"
+        ],
+        "psychological_focus": [
+          "Learning to create a safe emotional foundation",
+          "Developing independence from family conditioning",
+          "Embracing nurturing self-care"
+        ],
+        "challenges": [
+          "Attachment to past family roles",
+          "Fear of emotional vulnerability"
+        ],
+        "gifts": [
+          "Strong emotional resilience",
+          "Healthy boundaries in family",
+          "Growth through inner nurturing"
+        ],
+        "spiritual_lesson": "Your soul’s journey involves mastering emotional security and independence."
+      }
+    }
+  },
+  "5th House": {
+    "theme": "Creativity, self-expression, romance, pleasure, children, joy, playfulness, risk-taking",
+    "planets": {
+      "Sun": {
+        "keywords": [
+          "creative self-expression",
+          "joyful vitality",
+          "leadership in play"
+        ],
+        "psychological_focus": [
+          "Expressing individuality through creativity",
+          "Seeking recognition for personal talents",
+          "Embodying confidence and enthusiasm in leisure"
+        ],
+        "challenges": [
+          "Ego-driven creativity",
+          "Difficulty balancing fun and responsibility"
+        ],
+        "gifts": [
+          "Natural performer and creator",
+          "Inspiring enthusiasm and warmth",
+          "Strong sense of personal joy and vitality"
+        ],
+        "spiritual_lesson": "To shine authentically through joyful creativity and self-expression."
+      },
+      "Moon": {
+        "keywords": [
+          "emotional playfulness",
+          "romantic sensitivity",
+          "nurturing creativity"
+        ],
+        "psychological_focus": [
+          "Connecting emotionally through creative outlets",
+          "Seeking emotional fulfillment in romance and fun",
+          "Nurturing a childlike wonder and joy"
+        ],
+        "challenges": [
+          "Mood swings impacting relationships",
+          "Over-sensitivity in love and creative pursuits"
+        ],
+        "gifts": [
+          "Emotional intuition in creative expression",
+          "Deep capacity for affectionate romance",
+          "Ability to nurture joy in self and others"
+        ],
+        "spiritual_lesson": "To cultivate emotional openness through playful love and creativity."
+      },
+      "Mercury": {
+        "keywords": [
+          "creative communication",
+          "intellectual play",
+          "expressive ideas"
+        ],
+        "psychological_focus": [
+          "Articulating creative thoughts clearly",
+          "Using intellect in romantic and recreational activities",
+          "Playing with ideas and mental exploration"
+        ],
+        "challenges": [
+          "Overthinking creative projects",
+          "Difficulty expressing romantic feelings verbally"
+        ],
+        "gifts": [
+          "Witty and playful communicator",
+          "Inventive in creative self-expression",
+          "Sharp intellect applied to pleasure and play"
+        ],
+        "spiritual_lesson": "To express creativity and love with clarity and joy."
+      },
+      "Venus": {
+        "keywords": [
+          "romantic charm",
+          "love of pleasure",
+          "artistic beauty"
+        ],
+        "psychological_focus": [
+          "Seeking harmony in romantic relationships",
+          "Appreciating beauty in art and life",
+          "Expressing affection through creative acts"
+        ],
+        "challenges": [
+          "Avoidance of conflict in romance",
+          "Overindulgence in pleasures"
+        ],
+        "gifts": [
+          "Magnetic charm and grace",
+          "Talent in arts and aesthetics",
+          "Ability to attract love and joy"
+        ],
+        "spiritual_lesson": "To find balance through love, beauty, and joyful creation."
+      },
+      "Mars": {
+        "keywords": [
+          "passionate creativity",
+          "assertive romance",
+          "energetic play"
+        ],
+        "psychological_focus": [
+          "Channeling energy into creative projects",
+          "Taking initiative in love and leisure",
+          "Expressing assertiveness through playfulness"
+        ],
+        "challenges": [
+          "Impulsiveness in romance",
+          "Aggressive competitiveness in creative fields"
+        ],
+        "gifts": [
+          "Energetic and dynamic creator",
+          "Courageous lover and risk-taker",
+          "Strong drive for joyful expression"
+        ],
+        "spiritual_lesson": "To direct passionate energy into playful creation and authentic love."
+      },
+      "Jupiter": {
+        "keywords": [
+          "expansion of joy",
+          "optimism in love",
+          "creative growth"
+        ],
+        "psychological_focus": [
+          "Seeking growth through romantic and creative experiences",
+          "Finding meaning in pleasure and play",
+          "Broadening horizons through joyful exploration"
+        ],
+        "challenges": [
+          "Excessive indulgence",
+          "Overoptimism leading to risk-taking"
+        ],
+        "gifts": [
+          "Generous spirit in love and creativity",
+          "Optimistic approach to pleasure",
+          "Inspiring enthusiasm for life’s joys"
+        ],
+        "spiritual_lesson": "To expand your happiness by embracing creativity and love with optimism."
+      },
+      "Saturn": {
+        "keywords": [
+          "disciplined creativity",
+          "serious romance",
+          "responsible pleasure"
+        ],
+        "psychological_focus": [
+          "Building structure in creative pursuits",
+          "Taking responsibility in romantic relationships",
+          "Balancing fun with long-term goals"
+        ],
+        "challenges": [
+          "Fear of taking creative risks",
+          "Restricting joy due to self-discipline"
+        ],
+        "gifts": [
+          "Focused and persistent artist",
+          "Loyal and committed lover",
+          "Ability to create lasting joy through effort"
+        ],
+        "spiritual_lesson": "To develop maturity in expressing creativity and love responsibly."
+      },
+      "Uranus": {
+        "keywords": [
+          "innovative creativity",
+          "unconventional romance",
+          "spontaneous play"
+        ],
+        "psychological_focus": [
+          "Seeking freedom through unique self-expression",
+          "Embracing sudden changes in love and pleasure",
+          "Breaking traditional boundaries in creative projects"
+        ],
+        "challenges": [
+          "Instability in relationships",
+          "Impulsive risk-taking in play"
+        ],
+        "gifts": [
+          "Original and inventive creator",
+          "Exciting and unpredictable lover",
+          "Ability to inspire change through playful innovation"
+        ],
+        "spiritual_lesson": "To embrace freedom and innovation in your creative and romantic life."
+      },
+      "Neptune": {
+        "keywords": [
+          "dreamy creativity",
+          "romantic idealism",
+          "spiritual play"
+        ],
+        "psychological_focus": [
+          "Exploring imagination in art and romance",
+          "Idealizing love and pleasure",
+          "Connecting to spiritual dimensions through creativity"
+        ],
+        "challenges": [
+          "Escaping reality through fantasy",
+          "Disillusionment in romance"
+        ],
+        "gifts": [
+          "Highly imaginative artist",
+          "Romantic and compassionate lover",
+          "Ability to inspire spiritual joy"
+        ],
+        "spiritual_lesson": "To find spiritual truth through creative dreams and loving ideals."
+      },
+      "Pluto": {
+        "keywords": [
+          "transformational creativity",
+          "intense romance",
+          "deep passion"
+        ],
+        "psychological_focus": [
+          "Harnessing deep emotional power in creative acts",
+          "Experiencing transformative love",
+          "Confronting fears through play and self-expression"
+        ],
+        "challenges": [
+          "Obsessiveness in relationships",
+          "Emotional power struggles"
+        ],
+        "gifts": [
+          "Profoundly transformative artist",
+          "Passionate and magnetic lover",
+          "Ability to heal through creative intensity"
+        ],
+        "spiritual_lesson": "To transform yourself through passionate creation and love."
+      },
+      "Chiron": {
+        "keywords": [
+          "wounded creativity",
+          "healing through play",
+          "vulnerable romance"
+        ],
+        "psychological_focus": [
+          "Healing creative blocks",
+          "Overcoming fear of rejection in love",
+          "Embracing vulnerability in self-expression"
+        ],
+        "challenges": [
+          "Fear of being judged",
+          "Difficulty trusting romantic partners"
+        ],
+        "gifts": [
+          "Healing presence in creative circles",
+          "Authentic and empathetic lover",
+          "Inspiring courage through vulnerability"
+        ],
+        "spiritual_lesson": "Healing grows through honest and playful self-expression."
+      },
+      "North Node": {
+        "keywords": [
+          "karmic creativity lessons",
+          "growth through joy",
+          "embracing self-expression"
+        ],
+        "psychological_focus": [
+          "Learning to express yourself freely",
+          "Finding joy in personal creativity",
+          "Overcoming fear of being seen"
+        ],
+        "challenges": [
+          "Avoidance of risk-taking",
+          "Holding back true passions"
+        ],
+        "gifts": [
+          "Brave self-expression",
+          "Joyful creative spirit",
+          "Growth through playful exploration"
+        ],
+        "spiritual_lesson": "Your soul’s path involves embracing joy and authentic creativity."
+      }
+    }
+  },
+  "6th House": {
+    "theme": "Work, daily routine, health, service, discipline, self-improvement",
+    "planets": {
+      "Sun": {
+        "keywords": [
+          "purpose in service",
+          "vitality in work",
+          "leadership in routine"
+        ],
+        "psychological_focus": [
+          "Finding identity through meaningful daily work",
+          "Seeking recognition for contributions",
+          "Developing a strong work ethic"
+        ],
+        "challenges": [
+          "Workaholism",
+          "Over-identification with career role"
+        ],
+        "gifts": [
+          "Leadership in service",
+          "Reliability and diligence",
+          "Vitality through routine"
+        ],
+        "spiritual_lesson": "To express your true self through dedicated service and disciplined effort."
+      },
+      "Moon": {
+        "keywords": [
+          "emotional well-being",
+          "nurturing routine",
+          "health sensitivity"
+        ],
+        "psychological_focus": [
+          "Maintaining emotional balance in daily habits",
+          "Nurturing health through routine",
+          "Responding sensitively to work environment"
+        ],
+        "challenges": [
+          "Emotional stress impacting health",
+          "Fluctuating motivation"
+        ],
+        "gifts": [
+          "Empathy in service",
+          "Intuitive health awareness",
+          "Adaptability in work"
+        ],
+        "spiritual_lesson": "To nurture yourself emotionally while serving others with compassion."
+      },
+      "Mercury": {
+        "keywords": [
+          "efficient communication",
+          "mental organization",
+          "problem-solving"
+        ],
+        "psychological_focus": [
+          "Organizing thoughts for productive work",
+          "Communicating clearly in daily tasks",
+          "Analyzing and solving routine problems"
+        ],
+        "challenges": [
+          "Mental overwork",
+          "Worry about health or work"
+        ],
+        "gifts": [
+          "Sharp intellect",
+          "Effective multitasking",
+          "Clear communication"
+        ],
+        "spiritual_lesson": "To use your mind to serve and improve your environment with clarity."
+      },
+      "Venus": {
+        "keywords": [
+          "harmony at work",
+          "pleasant routines",
+          "service with grace"
+        ],
+        "psychological_focus": [
+          "Creating beauty and harmony in daily life",
+          "Enjoying work and service",
+          "Seeking balance between duty and pleasure"
+        ],
+        "challenges": [
+          "Avoidance of hard work",
+          "Dependence on approval at work"
+        ],
+        "gifts": [
+          "Graceful service",
+          "Ability to create pleasant work environments",
+          "Social charm in routine"
+        ],
+        "spiritual_lesson": "To find joy and balance through serving with love and grace."
+      },
+      "Mars": {
+        "keywords": [
+          "energy in work",
+          "assertive service",
+          "productive action"
+        ],
+        "psychological_focus": [
+          "Taking initiative in daily tasks",
+          "Asserting oneself in the workplace",
+          "Channeling energy into health and service"
+        ],
+        "challenges": [
+          "Work-related impatience",
+          "Burnout from overexertion"
+        ],
+        "gifts": [
+          "Dynamic work ethic",
+          "Motivated and focused action",
+          "Physical vitality"
+        ],
+        "spiritual_lesson": "To use your energy constructively in service and self-care."
+      },
+      "Jupiter": {
+        "keywords": [
+          "growth through work",
+          "optimism in service",
+          "expansion of skills"
+        ],
+        "psychological_focus": [
+          "Expanding knowledge and skills through daily work",
+          "Maintaining optimism in routine",
+          "Seeking purpose in service"
+        ],
+        "challenges": [
+          "Overextension",
+          "Taking on too many responsibilities"
+        ],
+        "gifts": [
+          "Enthusiastic learner",
+          "Generous service",
+          "Expansive work opportunities"
+        ],
+        "spiritual_lesson": "To grow spiritually by serving with wisdom and optimism."
+      },
+      "Saturn": {
+        "keywords": [
+          "discipline",
+          "responsibility",
+          "structured routine"
+        ],
+        "psychological_focus": [
+          "Building discipline in daily habits",
+          "Accepting responsibility in work",
+          "Overcoming fears around health or duty"
+        ],
+        "challenges": [
+          "Perfectionism",
+          "Work-related anxiety"
+        ],
+        "gifts": [
+          "Strong self-discipline",
+          "Dependability",
+          "Ability to create lasting systems"
+        ],
+        "spiritual_lesson": "To master yourself through responsible, structured effort."
+      },
+      "Uranus": {
+        "keywords": [
+          "innovation in routine",
+          "unconventional work",
+          "freedom in service"
+        ],
+        "psychological_focus": [
+          "Seeking originality in daily tasks",
+          "Embracing change and unpredictability",
+          "Desiring freedom within work constraints"
+        ],
+        "challenges": [
+          "Restlessness",
+          "Difficulty with routine"
+        ],
+        "gifts": [
+          "Inventive problem-solving",
+          "Progressive ideas",
+          "Flexible approach to service"
+        ],
+        "spiritual_lesson": "To innovate and liberate yourself through your work and health routines."
+      },
+      "Neptune": {
+        "keywords": [
+          "spiritual service",
+          "compassionate work",
+          "health intuition"
+        ],
+        "psychological_focus": [
+          "Seeking meaning through service",
+          "Using intuition in health and work",
+          "Helping others with compassion"
+        ],
+        "challenges": [
+          "Escapism",
+          "Lack of boundaries in service"
+        ],
+        "gifts": [
+          "Healing presence",
+          "Creative imagination in work",
+          "Spiritual sensitivity"
+        ],
+        "spiritual_lesson": "To serve others selflessly with spiritual awareness and compassion."
+      },
+      "Pluto": {
+        "keywords": [
+          "transformative work",
+          "power in service",
+          "deep healing"
+        ],
+        "psychological_focus": [
+          "Harnessing personal power through work",
+          "Facing deep fears related to health or duty",
+          "Transforming daily habits"
+        ],
+        "challenges": [
+          "Control issues",
+          "Work-related power struggles"
+        ],
+        "gifts": [
+          "Ability to regenerate through service",
+          "Intense focus and resilience",
+          "Empowering others"
+        ],
+        "spiritual_lesson": "To transform yourself and others through dedicated service and healing."
+      },
+      "Chiron": {
+        "keywords": [
+          "wounded service",
+          "healing through work",
+          "vulnerability in routine"
+        ],
+        "psychological_focus": [
+          "Healing wounds related to work or health",
+          "Overcoming feelings of inadequacy in service",
+          "Building strength through vulnerability"
+        ],
+        "challenges": [
+          "Fear of failure in daily tasks",
+          "Health anxieties"
+        ],
+        "gifts": [
+          "Healing ability through service",
+          "Authentic approach to work",
+          "Empathy for those struggling with routines"
+        ],
+        "spiritual_lesson": "To embrace healing and growth through dedicated, vulnerable service."
+      },
+      "North Node": {
+        "keywords": [
+          "karmic work",
+          "growth through service",
+          "learning discipline"
+        ],
+        "psychological_focus": [
+          "Embracing responsibility and routine",
+          "Developing healthy habits",
+          "Learning the value of consistent service"
+        ],
+        "challenges": [
+          "Resistance to discipline",
+          "Avoiding accountability"
+        ],
+        "gifts": [
+          "Spiritual growth through work",
+          "Reliable service",
+          "Ability to create meaningful daily structures"
+        ],
+        "spiritual_lesson": "Your soul grows by embracing disciplined service and daily responsibility."
+      }
+    }
+  },
+  "7th House": {
+    "theme": "Partnerships, marriage, one-on-one relationships, open enemies, contracts, balance",
+    "planets": {
+      "Sun": {
+        "keywords": [
+          "identity through partnership",
+          "leadership in relationships",
+          "focus on others"
+        ],
+        "psychological_focus": [
+          "Finding self-expression in close relationships",
+          "Balancing personal needs with partner’s",
+          "Seeking recognition through partnership"
+        ],
+        "challenges": [
+          "Overdependence on others for identity",
+          "Conflict between individuality and union"
+        ],
+        "gifts": [
+          "Strong relational leadership",
+          "Ability to harmonize personal and shared goals",
+          "Confidence in partnership roles"
+        ],
+        "spiritual_lesson": "To shine authentically while honoring the union with others."
+      },
+      "Moon": {
+        "keywords": [
+          "emotional bonds",
+          "nurturing partnerships",
+          "intuitive connection"
+        ],
+        "psychological_focus": [
+          "Responding sensitively in relationships",
+          "Nurturing emotional safety",
+          "Understanding emotional needs of partner"
+        ],
+        "challenges": [
+          "Mood swings affecting partnerships",
+          "Emotional dependency"
+        ],
+        "gifts": [
+          "Empathy in relationships",
+          "Emotional intelligence",
+          "Ability to nurture bonds"
+        ],
+        "spiritual_lesson": "To cultivate emotional harmony and security within partnerships."
+      },
+      "Mercury": {
+        "keywords": [
+          "communication in relationships",
+          "intellectual connection",
+          "negotiation"
+        ],
+        "psychological_focus": [
+          "Expressing ideas clearly with partners",
+          "Negotiating and resolving conflicts",
+          "Building mental rapport"
+        ],
+        "challenges": [
+          "Overthinking relational issues",
+          "Miscommunication"
+        ],
+        "gifts": [
+          "Sharp relational intellect",
+          "Effective communication skills",
+          "Adaptability in partnerships"
+        ],
+        "spiritual_lesson": "To use clear communication to build strong, balanced relationships."
+      },
+      "Venus": {
+        "keywords": [
+          "love",
+          "harmony",
+          "attraction",
+          "balance"
+        ],
+        "psychological_focus": [
+          "Seeking beauty and harmony in partnerships",
+          "Expressing affection and charm",
+          "Desiring mutual pleasure and peace"
+        ],
+        "challenges": [
+          "Idealizing partners",
+          "Avoiding conflict"
+        ],
+        "gifts": [
+          "Diplomatic and charming nature",
+          "Ability to attract and maintain harmony",
+          "Genuine love and affection"
+        ],
+        "spiritual_lesson": "To love and create balance without losing yourself."
+      },
+      "Mars": {
+        "keywords": [
+          "assertiveness",
+          "passion",
+          "conflict"
+        ],
+        "psychological_focus": [
+          "Standing up for self in relationships",
+          "Expressing passion and desire",
+          "Handling conflict constructively"
+        ],
+        "challenges": [
+          "Arguments and power struggles",
+          "Impulsiveness"
+        ],
+        "gifts": [
+          "Passionate and energetic partnership",
+          "Courage in asserting needs",
+          "Resilience through conflict"
+        ],
+        "spiritual_lesson": "To balance passion with cooperation and mutual respect."
+      },
+      "Jupiter": {
+        "keywords": [
+          "growth",
+          "expansion",
+          "optimism in partnerships"
+        ],
+        "psychological_focus": [
+          "Expanding through relationships",
+          "Seeking higher meaning in unions",
+          "Optimism and generosity with partners"
+        ],
+        "challenges": [
+          "Overindulgence",
+          "Excessive idealism"
+        ],
+        "gifts": [
+          "Supportive and inspiring partnerships",
+          "Generosity and wisdom in union",
+          "Growth through relational experiences"
+        ],
+        "spiritual_lesson": "To grow spiritually by embracing partnerships as teachers and guides."
+      },
+      "Saturn": {
+        "keywords": [
+          "commitment",
+          "responsibility",
+          "structure in relationships"
+        ],
+        "psychological_focus": [
+          "Building lasting and serious partnerships",
+          "Accepting responsibility in unions",
+          "Overcoming fear of intimacy or commitment"
+        ],
+        "challenges": [
+          "Loneliness",
+          "Fear of rejection"
+        ],
+        "gifts": [
+          "Dependable and mature partnerships",
+          "Endurance through hardships",
+          "Wisdom from relational challenges"
+        ],
+        "spiritual_lesson": "To mature through responsibility and dedication in relationships."
+      },
+      "Uranus": {
+        "keywords": [
+          "freedom",
+          "innovation",
+          "unconventional relationships"
+        ],
+        "psychological_focus": [
+          "Desire for independence within partnerships",
+          "Embracing uniqueness in relationships",
+          "Breaking traditional relational patterns"
+        ],
+        "challenges": [
+          "Instability",
+          "Fear of commitment"
+        ],
+        "gifts": [
+          "Innovative and exciting partnerships",
+          "Freedom to express individuality",
+          "Ability to transform relationships"
+        ],
+        "spiritual_lesson": "To balance freedom with intimacy in authentic relationships."
+      },
+      "Neptune": {
+        "keywords": [
+          "idealism",
+          "spiritual connection",
+          "sacrifice"
+        ],
+        "psychological_focus": [
+          "Seeking soul connection in partnerships",
+          "Embracing compassion and forgiveness",
+          "Tendency to idealize or escape through relationships"
+        ],
+        "challenges": [
+          "Illusions and deception",
+          "Loss of boundaries"
+        ],
+        "gifts": [
+          "Deep spiritual bond",
+          "Compassionate and selfless love",
+          "Creative and dreamy connection"
+        ],
+        "spiritual_lesson": "To love with clarity and spiritual awareness."
+      },
+      "Pluto": {
+        "keywords": [
+          "transformation",
+          "power dynamics",
+          "intensity"
+        ],
+        "psychological_focus": [
+          "Experiencing deep transformation through partnerships",
+          "Navigating power and control issues",
+          "Facing unconscious fears in union"
+        ],
+        "challenges": [
+          "Manipulation",
+          "Obsession"
+        ],
+        "gifts": [
+          "Intense and transformative relationships",
+          "Emotional depth and resilience",
+          "Empowerment through partnership"
+        ],
+        "spiritual_lesson": "To transform through trust and shared power."
+      },
+      "Chiron": {
+        "keywords": [
+          "wounded partnerships",
+          "healing through relationships",
+          "vulnerability"
+        ],
+        "psychological_focus": [
+          "Healing wounds related to trust and intimacy",
+          "Overcoming fear of rejection or abandonment",
+          "Developing authentic vulnerability"
+        ],
+        "challenges": [
+          "Fear of being hurt",
+          "Difficulty opening up"
+        ],
+        "gifts": [
+          "Healing presence in partnerships",
+          "Authenticity and courage to be vulnerable",
+          "Empathy for relational struggles"
+        ],
+        "spiritual_lesson": "To find wholeness by embracing vulnerability in relationships."
+      },
+      "North Node": {
+        "keywords": [
+          "karmic relationships",
+          "growth through union",
+          "learning balance"
+        ],
+        "psychological_focus": [
+          "Learning to share and cooperate",
+          "Embracing partnership as a path to growth",
+          "Balancing self-interest with others"
+        ],
+        "challenges": [
+          "Resistance to partnership",
+          "Self-centeredness"
+        ],
+        "gifts": [
+          "Spiritual growth through healthy partnerships",
+          "Ability to build lasting bonds",
+          "Increased empathy and cooperation"
+        ],
+        "spiritual_lesson": "Your soul’s path advances through harmonious union and cooperation."
+      }
+    }
+  },
+  "8th House": {
+    "theme": "Transformation, shared resources, intimacy, death and rebirth, power, secrets, regeneration",
+    "planets": {
+      "Sun": {
+        "keywords": [
+          "personal transformation",
+          "power within",
+          "focus on deep change"
+        ],
+        "psychological_focus": [
+          "Exploring core identity through transformation",
+          "Embracing change and rebirth",
+          "Seeking empowerment through intimate connections"
+        ],
+        "challenges": [
+          "Fear of loss or vulnerability",
+          "Control issues"
+        ],
+        "gifts": [
+          "Resilience through deep personal growth",
+          "Ability to regenerate after crisis",
+          "Magnetic intensity"
+        ],
+        "spiritual_lesson": "To shine by embracing the cycles of death and rebirth within."
+      },
+      "Moon": {
+        "keywords": [
+          "emotional depth",
+          "intuitive insight",
+          "bonding through shared feelings"
+        ],
+        "psychological_focus": [
+          "Connecting emotionally at a profound level",
+          "Understanding subconscious influences",
+          "Navigating intense emotional experiences"
+        ],
+        "challenges": [
+          "Emotional turbulence",
+          "Fear of intimacy"
+        ],
+        "gifts": [
+          "Deep emotional intuition",
+          "Capacity for profound empathy",
+          "Healing through emotional sharing"
+        ],
+        "spiritual_lesson": "To nurture emotional rebirth and healing through intimacy."
+      },
+      "Mercury": {
+        "keywords": [
+          "investigation",
+          "research",
+          "communication about taboo topics"
+        ],
+        "psychological_focus": [
+          "Delving into mysteries and secrets",
+          "Communicating about transformation and power",
+          "Analytical thinking about shared resources"
+        ],
+        "challenges": [
+          "Obsession with details",
+          "Distrust in communication"
+        ],
+        "gifts": [
+          "Keen investigative mind",
+          "Ability to articulate deep truths",
+          "Strategic thinking in crises"
+        ],
+        "spiritual_lesson": "To seek and communicate hidden knowledge with clarity."
+      },
+      "Venus": {
+        "keywords": [
+          "intense love",
+          "shared values",
+          "bonding through resources"
+        ],
+        "psychological_focus": [
+          "Valuing emotional and financial intimacy",
+          "Deep attachment and loyalty",
+          "Understanding power dynamics in relationships"
+        ],
+        "challenges": [
+          "Possessiveness",
+          "Fear of loss"
+        ],
+        "gifts": [
+          "Capacity for profound love and loyalty",
+          "Ability to attract transformative partnerships",
+          "Understanding of shared wealth and power"
+        ],
+        "spiritual_lesson": "To love deeply while releasing attachment and control."
+      },
+      "Mars": {
+        "keywords": [
+          "assertive transformation",
+          "power struggles",
+          "passion"
+        ],
+        "psychological_focus": [
+          "Channeling energy into renewal and regeneration",
+          "Facing conflict and power issues directly",
+          "Harnessing passion for transformation"
+        ],
+        "challenges": [
+          "Aggression in intimate contexts",
+          "Manipulation"
+        ],
+        "gifts": [
+          "Courageous and determined transformation",
+          "Passion that fuels renewal",
+          "Ability to confront and overcome power struggles"
+        ],
+        "spiritual_lesson": "To transform through courageous and controlled action."
+      },
+      "Jupiter": {
+        "keywords": [
+          "growth through transformation",
+          "spiritual rebirth",
+          "expansion of awareness"
+        ],
+        "psychological_focus": [
+          "Seeking meaning in crisis and renewal",
+          "Expanding consciousness through deep change",
+          "Generosity in shared resources"
+        ],
+        "challenges": [
+          "Excessive risk-taking",
+          "Avoidance of painful truths"
+        ],
+        "gifts": [
+          "Optimism in transformation",
+          "Spiritual growth through deep experience",
+          "Ability to inspire others in crisis"
+        ],
+        "spiritual_lesson": "To expand through embracing life’s cycles of death and rebirth."
+      },
+      "Saturn": {
+        "keywords": [
+          "discipline in transformation",
+          "responsibility for shared resources",
+          "endurance"
+        ],
+        "psychological_focus": [
+          "Facing limitations and boundaries in intimacy",
+          "Accepting responsibility in shared finances",
+          "Building stability through deep change"
+        ],
+        "challenges": [
+          "Fear of loss or abandonment",
+          "Emotional repression"
+        ],
+        "gifts": [
+          "Maturity in handling crisis",
+          "Endurance through difficult transformations",
+          "Wisdom about power and control"
+        ],
+        "spiritual_lesson": "To grow through disciplined acceptance of change and shared responsibility."
+      },
+      "Uranus": {
+        "keywords": [
+          "sudden change",
+          "innovation in intimacy",
+          "breaking taboos"
+        ],
+        "psychological_focus": [
+          "Seeking freedom within close bonds",
+          "Revolutionizing traditional views on intimacy",
+          "Embracing unpredictability in shared resources"
+        ],
+        "challenges": [
+          "Instability",
+          "Fear of emotional entrapment"
+        ],
+        "gifts": [
+          "Innovative approaches to intimacy and power",
+          "Ability to break free from limiting patterns",
+          "Freedom within shared connections"
+        ],
+        "spiritual_lesson": "To embrace liberation through transformative connections."
+      },
+      "Neptune": {
+        "keywords": [
+          "spiritual merging",
+          "illusion in intimacy",
+          "sacrifice"
+        ],
+        "psychological_focus": [
+          "Seeking spiritual unity in partnerships",
+          "Tendency to idealize shared bonds",
+          "Navigating confusion or deception"
+        ],
+        "challenges": [
+          "Loss of boundaries",
+          "Escapism"
+        ],
+        "gifts": [
+          "Ability to transcend ego in intimacy",
+          "Compassionate and healing connections",
+          "Creative spiritual bonds"
+        ],
+        "spiritual_lesson": "To love with clarity and compassion beyond illusion."
+      },
+      "Pluto": {
+        "keywords": [
+          "powerful transformation",
+          "death and rebirth",
+          "deep psychological insight"
+        ],
+        "psychological_focus": [
+          "Transforming through intense emotional experiences",
+          "Exploring unconscious motivations",
+          "Confronting fears of control and loss"
+        ],
+        "challenges": [
+          "Obsession",
+          "Manipulation"
+        ],
+        "gifts": [
+          "Profound capacity for regeneration",
+          "Psychological depth and resilience",
+          "Empowerment through transformation"
+        ],
+        "spiritual_lesson": "To evolve by embracing the depths of change and power."
+      },
+      "Chiron": {
+        "keywords": [
+          "wounded transformation",
+          "healing power",
+          "vulnerability in intimacy"
+        ],
+        "psychological_focus": [
+          "Healing wounds around trust and loss",
+          "Embracing vulnerability as strength",
+          "Transforming pain into growth"
+        ],
+        "challenges": [
+          "Fear of being emotionally exposed",
+          "Difficulty trusting others deeply"
+        ],
+        "gifts": [
+          "Healing presence in transformative relationships",
+          "Authentic vulnerability",
+          "Empathy for others’ pain"
+        ],
+        "spiritual_lesson": "To heal through embracing vulnerability and transformation."
+      },
+      "North Node": {
+        "keywords": [
+          "karmic transformation",
+          "growth through shared resources",
+          "embracing change"
+        ],
+        "psychological_focus": [
+          "Learning to share and transform together",
+          "Letting go of old attachments",
+          "Growing through joint experiences of power and loss"
+        ],
+        "challenges": [
+          "Resistance to intimacy",
+          "Fear of vulnerability"
+        ],
+        "gifts": [
+          "Spiritual growth through joint transformation",
+          "Ability to handle shared crises",
+          "Increased emotional resilience"
+        ],
+        "spiritual_lesson": "To evolve by embracing shared power and deep connection."
+      }
+    }
+  },
+  "9th House": {
+    "theme": "Philosophy, higher education, travel, spirituality, beliefs, expansion of mind",
+    "planets": {
+      "Sun": {
+        "keywords": [
+          "personal growth",
+          "search for truth",
+          "higher purpose"
+        ],
+        "psychological_focus": [
+          "Developing a personal philosophy",
+          "Seeking meaning and purpose beyond self",
+          "Embracing optimism and vision"
+        ],
+        "challenges": [
+          "Dogmatism",
+          "Overconfidence in beliefs"
+        ],
+        "gifts": [
+          "Leadership in spiritual or educational pursuits",
+          "Inspiring others with vision",
+          "Enthusiasm for learning"
+        ],
+        "spiritual_lesson": "To shine through expanding consciousness and living your truth."
+      },
+      "Moon": {
+        "keywords": [
+          "emotional need for exploration",
+          "intuitive faith",
+          "connection to culture"
+        ],
+        "psychological_focus": [
+          "Emotional connection to beliefs and cultures",
+          "Developing faith and hope",
+          "Nurturing intellectual curiosity"
+        ],
+        "challenges": [
+          "Restlessness",
+          "Emotional idealism"
+        ],
+        "gifts": [
+          "Empathy for different cultures and philosophies",
+          "Emotional support for others’ growth",
+          "Intuitive insight in learning"
+        ],
+        "spiritual_lesson": "To nurture your soul by exploring new horizons."
+      },
+      "Mercury": {
+        "keywords": [
+          "intellectual exploration",
+          "communication of ideas",
+          "curiosity"
+        ],
+        "psychological_focus": [
+          "Seeking knowledge through study and travel",
+          "Communicating complex ideas",
+          "Adapting beliefs based on experience"
+        ],
+        "challenges": [
+          "Scattered thinking",
+          "Superficial understanding"
+        ],
+        "gifts": [
+          "Strong analytical mind",
+          "Ability to teach and write effectively",
+          "Quick adaptability in learning"
+        ],
+        "spiritual_lesson": "To explore and communicate truth with clarity."
+      },
+      "Venus": {
+        "keywords": [
+          "love of culture",
+          "appreciation of beauty in ideas",
+          "harmonious beliefs"
+        ],
+        "psychological_focus": [
+          "Valuing diverse philosophies",
+          "Finding joy in learning and travel",
+          "Creating harmony through shared ideals"
+        ],
+        "challenges": [
+          "Overidealizing beliefs",
+          "Avoiding challenging ideas"
+        ],
+        "gifts": [
+          "Diplomacy in cultural exchanges",
+          "Charm in intellectual discussions",
+          "Ability to find beauty in diverse perspectives"
+        ],
+        "spiritual_lesson": "To love wisdom and beauty in all its forms."
+      },
+      "Mars": {
+        "keywords": [
+          "assertive pursuit of knowledge",
+          "passion for adventure",
+          "courage in beliefs"
+        ],
+        "psychological_focus": [
+          "Energetic exploration of new ideas",
+          "Courage to challenge existing beliefs",
+          "Drive for physical or intellectual adventure"
+        ],
+        "challenges": [
+          "Impulsiveness in judgment",
+          "Argumentative behavior"
+        ],
+        "gifts": [
+          "Boldness in seeking truth",
+          "Energy in travel and learning",
+          "Leadership in philosophical debates"
+        ],
+        "spiritual_lesson": "To pursue growth with fearless enthusiasm."
+      },
+      "Jupiter": {
+        "keywords": [
+          "expansion",
+          "optimism",
+          "higher learning",
+          "spiritual growth"
+        ],
+        "psychological_focus": [
+          "Desire for meaning and purpose",
+          "Growth through education and travel",
+          "Faith in the bigger picture"
+        ],
+        "challenges": [
+          "Excessive optimism",
+          "Dogmatism"
+        ],
+        "gifts": [
+          "Inspiration and teaching ability",
+          "Broad-mindedness",
+          "Spiritual leadership"
+        ],
+        "spiritual_lesson": "To expand your horizons and share your wisdom."
+      },
+      "Saturn": {
+        "keywords": [
+          "discipline in learning",
+          "responsibility in beliefs",
+          "realism"
+        ],
+        "psychological_focus": [
+          "Structured approach to education and spirituality",
+          "Facing limitations in belief systems",
+          "Building solid philosophical foundations"
+        ],
+        "challenges": [
+          "Rigidity",
+          "Fear of change"
+        ],
+        "gifts": [
+          "Wisdom through experience",
+          "Patience in study",
+          "Integrity in beliefs"
+        ],
+        "spiritual_lesson": "To build your spiritual house with discipline and integrity."
+      },
+      "Uranus": {
+        "keywords": [
+          "innovation in thought",
+          "unconventional beliefs",
+          "intellectual freedom"
+        ],
+        "psychological_focus": [
+          "Breaking free from traditional ideas",
+          "Seeking revolutionary knowledge",
+          "Embracing unpredictability in beliefs"
+        ],
+        "challenges": [
+          "Restlessness",
+          "Rebellion for its own sake"
+        ],
+        "gifts": [
+          "Original thinker",
+          "Inventiveness in philosophy",
+          "Advocate for freedom of thought"
+        ],
+        "spiritual_lesson": "To liberate your mind and inspire change."
+      },
+      "Neptune": {
+        "keywords": [
+          "spiritual idealism",
+          "mysticism",
+          "dreams of transcendence"
+        ],
+        "psychological_focus": [
+          "Seeking unity with the divine",
+          "Idealizing beliefs and philosophies",
+          "Exploring mystical or artistic paths"
+        ],
+        "challenges": [
+          "Confusion",
+          "Escapism"
+        ],
+        "gifts": [
+          "Visionary imagination",
+          "Compassionate spirituality",
+          "Creative inspiration"
+        ],
+        "spiritual_lesson": "To dream and inspire through spiritual vision."
+      },
+      "Pluto": {
+        "keywords": [
+          "transformative beliefs",
+          "powerful convictions",
+          "depth of understanding"
+        ],
+        "psychological_focus": [
+          "Intense pursuit of truth",
+          "Transforming worldview through crises",
+          "Harnessing power through knowledge"
+        ],
+        "challenges": [
+          "Obsession",
+          "Dogmatic intensity"
+        ],
+        "gifts": [
+          "Deep insight",
+          "Resilience in changing beliefs",
+          "Leadership through profound wisdom"
+        ],
+        "spiritual_lesson": "To evolve through transformative understanding."
+      },
+      "Chiron": {
+        "keywords": [
+          "wounded beliefs",
+          "healing through wisdom",
+          "vulnerability in faith"
+        ],
+        "psychological_focus": [
+          "Healing doubts and fears about faith",
+          "Overcoming wounds in belief systems",
+          "Finding strength in spiritual vulnerability"
+        ],
+        "challenges": [
+          "Spiritual insecurity",
+          "Fear of being judged for beliefs"
+        ],
+        "gifts": [
+          "Healing presence in spiritual communities",
+          "Authentic sharing of spiritual struggles",
+          "Empathy for seekers"
+        ],
+        "spiritual_lesson": "To heal through embracing your spiritual wounds."
+      },
+      "North Node": {
+        "keywords": [
+          "karmic learning",
+          "growth through belief expansion",
+          "embracing new philosophies"
+        ],
+        "psychological_focus": [
+          "Moving beyond old belief limitations",
+          "Seeking growth through higher knowledge",
+          "Courage to explore unfamiliar spiritual paths"
+        ],
+        "challenges": [
+          "Attachment to old dogmas",
+          "Fear of new ideas"
+        ],
+        "gifts": [
+          "Spiritual growth and awakening",
+          "Open-mindedness",
+          "Ability to inspire others on their paths"
+        ],
+        "spiritual_lesson": "To evolve by embracing expansive and transformative beliefs."
+      }
+    }
+  },
+  "10th House": {
+    "theme": "Career, public reputation, authority, ambition, life goals, social status",
+    "planets": {
+      "Sun": {
+        "keywords": [
+          "leadership",
+          "recognition",
+          "authority"
+        ],
+        "psychological_focus": [
+          "Developing a strong public identity",
+          "Seeking respect and recognition",
+          "Expressing personal ambition"
+        ],
+        "challenges": [
+          "Ego struggles with authority",
+          "Workaholism"
+        ],
+        "gifts": [
+          "Natural leadership skills",
+          "Ability to inspire others",
+          "Determination to achieve goals"
+        ],
+        "spiritual_lesson": "To lead with integrity and serve the greater good."
+      },
+      "Moon": {
+        "keywords": [
+          "emotional connection to career",
+          "nurturing reputation",
+          "public sensitivity"
+        ],
+        "psychological_focus": [
+          "Balancing personal and professional life",
+          "Developing emotional resilience in public roles",
+          "Seeking emotional satisfaction through achievements"
+        ],
+        "challenges": [
+          "Moodiness affecting career",
+          "Fear of public scrutiny"
+        ],
+        "gifts": [
+          "Empathy in leadership",
+          "Ability to nurture team morale",
+          "Intuition about public needs"
+        ],
+        "spiritual_lesson": "To nurture your public life with emotional honesty."
+      },
+      "Mercury": {
+        "keywords": [
+          "communication in career",
+          "strategic thinking",
+          "networking"
+        ],
+        "psychological_focus": [
+          "Clear expression of ideas in professional settings",
+          "Using intellect to advance career",
+          "Building connections and influence"
+        ],
+        "challenges": [
+          "Overthinking",
+          "Miscommunication"
+        ],
+        "gifts": [
+          "Effective communication skills",
+          "Quick decision-making",
+          "Strategic networking"
+        ],
+        "spiritual_lesson": "To communicate your ambitions with clarity and wisdom."
+      },
+      "Venus": {
+        "keywords": [
+          "harmony in work",
+          "diplomacy",
+          "career attractiveness"
+        ],
+        "psychological_focus": [
+          "Creating beauty and balance in professional life",
+          "Building harmonious work relationships",
+          "Valuing social status"
+        ],
+        "challenges": [
+          "Avoiding confrontation",
+          "Dependency on approval"
+        ],
+        "gifts": [
+          "Charm in professional settings",
+          "Talent for negotiation",
+          "Attracting beneficial opportunities"
+        ],
+        "spiritual_lesson": "To lead with grace and cultivate positive connections."
+      },
+      "Mars": {
+        "keywords": [
+          "drive",
+          "ambition",
+          "assertiveness"
+        ],
+        "psychological_focus": [
+          "Taking initiative in career",
+          "Pursuing goals energetically",
+          "Overcoming obstacles"
+        ],
+        "challenges": [
+          "Aggressiveness",
+          "Burnout"
+        ],
+        "gifts": [
+          "Courage to lead",
+          "Strong work ethic",
+          "Competitive spirit"
+        ],
+        "spiritual_lesson": "To channel your energy towards meaningful achievements."
+      },
+      "Jupiter": {
+        "keywords": [
+          "expansion",
+          "luck",
+          "growth in career"
+        ],
+        "psychological_focus": [
+          "Seeking growth and opportunities",
+          "Optimism about professional future",
+          "Desire for recognition and success"
+        ],
+        "challenges": [
+          "Overconfidence",
+          "Overextension"
+        ],
+        "gifts": [
+          "Visionary leadership",
+          "Ability to inspire and motivate",
+          "Attracting good fortune"
+        ],
+        "spiritual_lesson": "To grow by serving others through your career."
+      },
+      "Saturn": {
+        "keywords": [
+          "discipline",
+          "responsibility",
+          "structure"
+        ],
+        "psychological_focus": [
+          "Building a solid career foundation",
+          "Handling responsibilities maturely",
+          "Overcoming delays and obstacles"
+        ],
+        "challenges": [
+          "Fear of failure",
+          "Work-related stress"
+        ],
+        "gifts": [
+          "Patience and persistence",
+          "Strong organizational skills",
+          "Respect for authority"
+        ],
+        "spiritual_lesson": "To master your ambitions through discipline and perseverance."
+      },
+      "Uranus": {
+        "keywords": [
+          "innovation",
+          "change",
+          "unconventional career paths"
+        ],
+        "psychological_focus": [
+          "Seeking freedom in work",
+          "Embracing new technologies and ideas",
+          "Breaking traditional career molds"
+        ],
+        "challenges": [
+          "Impulsiveness",
+          "Instability"
+        ],
+        "gifts": [
+          "Original thinking",
+          "Ability to innovate",
+          "Attracting sudden opportunities"
+        ],
+        "spiritual_lesson": "To create your unique path with courage and originality."
+      },
+      "Neptune": {
+        "keywords": [
+          "idealism",
+          "creativity",
+          "dreams"
+        ],
+        "psychological_focus": [
+          "Pursuing creative or spiritual career goals",
+          "Balancing realism and dreams",
+          "Developing compassion through work"
+        ],
+        "challenges": [
+          "Confusion",
+          "Escapism"
+        ],
+        "gifts": [
+          "Imaginative vision",
+          "Inspiration for others",
+          "Sensitivity to collective needs"
+        ],
+        "spiritual_lesson": "To serve others through inspired and compassionate work."
+      },
+      "Pluto": {
+        "keywords": [
+          "transformation",
+          "power",
+          "intensity"
+        ],
+        "psychological_focus": [
+          "Transforming career and public image",
+          "Harnessing personal power",
+          "Facing professional crises"
+        ],
+        "challenges": [
+          "Control issues",
+          "Obsessiveness"
+        ],
+        "gifts": [
+          "Resilience",
+          "Ability to lead through change",
+          "Deep insight into power dynamics"
+        ],
+        "spiritual_lesson": "To grow through transformation and empower others."
+      },
+      "Chiron": {
+        "keywords": [
+          "wounds in career",
+          "healing professional identity",
+          "vulnerability"
+        ],
+        "psychological_focus": [
+          "Healing insecurities about success",
+          "Overcoming fear of public failure",
+          "Building confidence in professional roles"
+        ],
+        "challenges": [
+          "Self-doubt",
+          "Fear of judgment"
+        ],
+        "gifts": [
+          "Healing presence in professional settings",
+          "Authenticity in leadership",
+          "Empathy for others’ struggles"
+        ],
+        "spiritual_lesson": "To heal through embracing your career wounds and fears."
+      },
+      "North Node": {
+        "keywords": [
+          "karmic career path",
+          "growth through ambition",
+          "embracing responsibility"
+        ],
+        "psychological_focus": [
+          "Moving toward fulfilling life goals",
+          "Developing leadership skills",
+          "Learning to balance ambition with integrity"
+        ],
+        "challenges": [
+          "Fear of success",
+          "Avoidance of responsibility"
+        ],
+        "gifts": [
+          "Strong career focus",
+          "Ability to inspire and lead",
+          "Growth through embracing life purpose"
+        ],
+        "spiritual_lesson": "To evolve by fulfilling your true calling with courage."
+      }
+    }
+  },
+  "11th House": {
+    "theme": "Friendships, groups, social causes, hopes and dreams, community",
+    "planets": {
+      "Sun": {
+        "keywords": [
+          "self-expression in groups",
+          "leadership among friends",
+          "personal ideals"
+        ],
+        "psychological_focus": [
+          "Developing identity through social networks",
+          "Expressing your unique role within communities",
+          "Seeking recognition in groups"
+        ],
+        "challenges": [
+          "Dominating friendships",
+          "Difficulty balancing individuality with group needs"
+        ],
+        "gifts": [
+          "Natural leader in social causes",
+          "Inspiring others toward shared goals",
+          "Strong sense of purpose within communities"
+        ],
+        "spiritual_lesson": "To shine authentically while uplifting the group."
+      },
+      "Moon": {
+        "keywords": [
+          "emotional bonds with friends",
+          "nurturing group dynamics",
+          "intuitive social awareness"
+        ],
+        "psychological_focus": [
+          "Seeking emotional security through friendships",
+          "Caring for and nurturing social connections",
+          "Understanding group emotional dynamics"
+        ],
+        "challenges": [
+          "Mood swings affecting group harmony",
+          "Over-dependence on social approval"
+        ],
+        "gifts": [
+          "Empathy within social circles",
+          "Ability to create a supportive community",
+          "Intuition about group needs"
+        ],
+        "spiritual_lesson": "To nurture your social world with emotional honesty and care."
+      },
+      "Mercury": {
+        "keywords": [
+          "communication in groups",
+          "ideas exchange",
+          "networking"
+        ],
+        "psychological_focus": [
+          "Sharing ideas within communities",
+          "Using intellect to advance group goals",
+          "Connecting diverse social circles"
+        ],
+        "challenges": [
+          "Over-talkativeness",
+          "Miscommunication in group settings"
+        ],
+        "gifts": [
+          "Excellent networking skills",
+          "Innovative ideas for social causes",
+          "Bridging diverse perspectives"
+        ],
+        "spiritual_lesson": "To communicate thoughtfully and contribute ideas that unite."
+      },
+      "Venus": {
+        "keywords": [
+          "harmony in friendships",
+          "social charm",
+          "love for groups"
+        ],
+        "psychological_focus": [
+          "Creating beauty and balance in social relationships",
+          "Building pleasant and cooperative friendships",
+          "Valuing shared ideals and goals"
+        ],
+        "challenges": [
+          "Avoiding conflicts at the expense of honesty",
+          "Dependency on social popularity"
+        ],
+        "gifts": [
+          "Charm and diplomacy in social settings",
+          "Attracting like-minded friends",
+          "Ability to cultivate harmonious groups"
+        ],
+        "spiritual_lesson": "To foster love and cooperation within your communities."
+      },
+      "Mars": {
+        "keywords": [
+          "assertiveness in groups",
+          "driving social causes",
+          "energetic activism"
+        ],
+        "psychological_focus": [
+          "Taking initiative in social movements",
+          "Expressing passion through group activities",
+          "Defending group ideals"
+        ],
+        "challenges": [
+          "Impulsiveness",
+          "Conflict within friendships"
+        ],
+        "gifts": [
+          "Energetic leadership in causes",
+          "Courage to stand up for group values",
+          "Drive to mobilize others"
+        ],
+        "spiritual_lesson": "To channel your energy constructively in social efforts."
+      },
+      "Jupiter": {
+        "keywords": [
+          "expansion through groups",
+          "optimism in social vision",
+          "growth with friends"
+        ],
+        "psychological_focus": [
+          "Seeking growth and opportunities through friendships",
+          "Sharing hopeful ideals",
+          "Building optimistic social networks"
+        ],
+        "challenges": [
+          "Over-idealism",
+          "Taking friends for granted"
+        ],
+        "gifts": [
+          "Inspiring social vision",
+          "Attracting supportive communities",
+          "Generosity within groups"
+        ],
+        "spiritual_lesson": "To grow through shared dreams and social contribution."
+      },
+      "Saturn": {
+        "keywords": [
+          "responsibility in groups",
+          "discipline in social roles",
+          "social boundaries"
+        ],
+        "psychological_focus": [
+          "Taking accountability in friendships",
+          "Learning lessons through social challenges",
+          "Establishing healthy social limits"
+        ],
+        "challenges": [
+          "Social isolation",
+          "Fear of rejection"
+        ],
+        "gifts": [
+          "Reliable and committed friend",
+          "Ability to build lasting social structures",
+          "Wisdom in social leadership"
+        ],
+        "spiritual_lesson": "To mature through social responsibility and integrity."
+      },
+      "Uranus": {
+        "keywords": [
+          "innovation in groups",
+          "unconventional friendships",
+          "social revolution"
+        ],
+        "psychological_focus": [
+          "Seeking freedom within social circles",
+          "Attracting unique and eccentric friends",
+          "Leading change in communities"
+        ],
+        "challenges": [
+          "Instability in friendships",
+          "Sudden social disruptions"
+        ],
+        "gifts": [
+          "Original social ideas",
+          "Ability to inspire innovation",
+          "Attracting progressive groups"
+        ],
+        "spiritual_lesson": "To embrace uniqueness and inspire social transformation."
+      },
+      "Neptune": {
+        "keywords": [
+          "idealism in friendships",
+          "spiritual social connections",
+          "dreamy hopes"
+        ],
+        "psychological_focus": [
+          "Pursuing ideal friendships",
+          "Experiencing spiritual unity in groups",
+          "Balancing dreams with reality"
+        ],
+        "challenges": [
+          "Disillusionment",
+          "Escaping social realities"
+        ],
+        "gifts": [
+          "Inspiring compassion in social causes",
+          "Creativity in group activities",
+          "Spiritual connection with friends"
+        ],
+        "spiritual_lesson": "To serve others through compassionate and inspired friendships."
+      },
+      "Pluto": {
+        "keywords": [
+          "transformative friendships",
+          "power dynamics in groups",
+          "deep social bonds"
+        ],
+        "psychological_focus": [
+          "Transforming through social relationships",
+          "Understanding hidden social dynamics",
+          "Facing power struggles in groups"
+        ],
+        "challenges": [
+          "Manipulation",
+          "Control issues"
+        ],
+        "gifts": [
+          "Powerful social influence",
+          "Ability to heal group conflicts",
+          "Deep insight into social transformation"
+        ],
+        "spiritual_lesson": "To evolve by transforming social connections and empowering others."
+      },
+      "Chiron": {
+        "keywords": [
+          "wounds in social life",
+          "healing friendships",
+          "vulnerability in groups"
+        ],
+        "psychological_focus": [
+          "Healing feelings of social rejection",
+          "Overcoming fear of not belonging",
+          "Building authentic community ties"
+        ],
+        "challenges": [
+          "Social insecurity",
+          "Fear of vulnerability"
+        ],
+        "gifts": [
+          "Healing presence in groups",
+          "Authenticity in friendships",
+          "Empathy for social struggles"
+        ],
+        "spiritual_lesson": "To heal through embracing your social wounds and finding true community."
+      },
+      "North Node": {
+        "keywords": [
+          "karmic social growth",
+          "new friendships",
+          "community involvement"
+        ],
+        "psychological_focus": [
+          "Moving toward fulfilling social roles",
+          "Developing group leadership",
+          "Engaging actively in communities"
+        ],
+        "challenges": [
+          "Fear of social exposure",
+          "Avoidance of group responsibilities"
+        ],
+        "gifts": [
+          "Strong social focus",
+          "Ability to inspire collective action",
+          "Growth through community service"
+        ],
+        "spiritual_lesson": "To evolve by embracing your role within the social collective."
+      }
+    }
+  },
+  "12th House": {
+    "theme": "Subconscious, hidden matters, spirituality, solitude, endings, karma, hidden strengths and weaknesses",
+    "planets": {
+      "Sun": {
+        "keywords": [
+          "inner self",
+          "spiritual identity",
+          "hidden vitality"
+        ],
+        "psychological_focus": [
+          "Exploring the unconscious mind",
+          "Developing spiritual self-awareness",
+          "Understanding hidden aspects of identity"
+        ],
+        "challenges": [
+          "Feeling lost or isolated",
+          "Struggles with self-expression",
+          "Tendency to self-sacrifice or escapism"
+        ],
+        "gifts": [
+          "Deep intuition",
+          "Compassion for the suffering of others",
+          "Ability to heal through inner work"
+        ],
+        "spiritual_lesson": "To shine from within and embrace your spiritual nature."
+      },
+      "Moon": {
+        "keywords": [
+          "emotional depth",
+          "hidden feelings",
+          "intuitive empathy"
+        ],
+        "psychological_focus": [
+          "Understanding deep emotional undercurrents",
+          "Navigating subconscious fears and desires",
+          "Developing empathy for hidden pain"
+        ],
+        "challenges": [
+          "Emotional confusion or repression",
+          "Mood swings linked to subconscious influences"
+        ],
+        "gifts": [
+          "Heightened intuition",
+          "Strong healing abilities",
+          "Emotional resilience through self-awareness"
+        ],
+        "spiritual_lesson": "To nurture yourself by honoring your hidden emotions."
+      },
+      "Mercury": {
+        "keywords": [
+          "intuitive communication",
+          "hidden thoughts",
+          "dream logic"
+        ],
+        "psychological_focus": [
+          "Connecting conscious mind with subconscious",
+          "Expressing subtle or spiritual ideas",
+          "Developing psychic or intuitive communication"
+        ],
+        "challenges": [
+          "Difficulty articulating inner experiences",
+          "Tendency to confuse reality with fantasy"
+        ],
+        "gifts": [
+          "Creative imagination",
+          "Ability to interpret dreams and symbols",
+          "Insight into unconscious patterns"
+        ],
+        "spiritual_lesson": "To communicate with clarity what lies beneath the surface."
+      },
+      "Venus": {
+        "keywords": [
+          "hidden love",
+          "spiritual beauty",
+          "compassionate relationships"
+        ],
+        "psychological_focus": [
+          "Expressing love through service",
+          "Attraction to spiritual or unconditional love",
+          "Valuing inner beauty over outer appearance"
+        ],
+        "challenges": [
+          "Sacrificing self in relationships",
+          "Escaping reality through idealization"
+        ],
+        "gifts": [
+          "Deep compassion",
+          "Ability to love selflessly",
+          "Attracting healing relationships"
+        ],
+        "spiritual_lesson": "To love with an open heart beyond conditions."
+      },
+      "Mars": {
+        "keywords": [
+          "inner drive",
+          "spiritual courage",
+          "hidden energy"
+        ],
+        "psychological_focus": [
+          "Channeling energy into spiritual growth",
+          "Overcoming fears through inner strength",
+          "Fighting subconscious limitations"
+        ],
+        "challenges": [
+          "Repressed anger or frustration",
+          "Self-sabotage or hidden conflicts"
+        ],
+        "gifts": [
+          "Quiet determination",
+          "Spiritual warrior energy",
+          "Ability to transform inner challenges"
+        ],
+        "spiritual_lesson": "To harness your hidden power for personal and spiritual transformation."
+      },
+      "Jupiter": {
+        "keywords": [
+          "spiritual expansion",
+          "faith in unseen",
+          "inner wisdom"
+        ],
+        "psychological_focus": [
+          "Seeking meaning beyond the material world",
+          "Expanding consciousness through solitude",
+          "Trusting spiritual processes"
+        ],
+        "challenges": [
+          "Escaping into fantasy or denial",
+          "Overestimating intuition without grounding"
+        ],
+        "gifts": [
+          "Profound spiritual insight",
+          "Ability to inspire others quietly",
+          "Wisdom through introspection"
+        ],
+        "spiritual_lesson": "To grow through trust in the unseen and inner faith."
+      },
+      "Saturn": {
+        "keywords": [
+          "spiritual discipline",
+          "karma",
+          "inner structure"
+        ],
+        "psychological_focus": [
+          "Facing subconscious fears and limitations",
+          "Building inner resilience through solitude",
+          "Accepting karmic lessons"
+        ],
+        "challenges": [
+          "Fear of loneliness",
+          "Inner criticism and self-doubt"
+        ],
+        "gifts": [
+          "Spiritual maturity",
+          "Strong inner foundation",
+          "Ability to work through karmic debts"
+        ],
+        "spiritual_lesson": "To build wisdom through facing your shadows and limitations."
+      },
+      "Uranus": {
+        "keywords": [
+          "spiritual awakening",
+          "sudden insights",
+          "breaking free from illusions"
+        ],
+        "psychological_focus": [
+          "Experiencing flashes of inner genius",
+          "Seeking freedom from unconscious patterns",
+          "Innovating spiritually"
+        ],
+        "challenges": [
+          "Restlessness in solitude",
+          "Sudden breakdowns of old belief systems"
+        ],
+        "gifts": [
+          "Unique spiritual perspective",
+          "Ability to inspire awakening in others",
+          "Innovative inner freedom"
+        ],
+        "spiritual_lesson": "To embrace sudden change as a path to liberation."
+      },
+      "Neptune": {
+        "keywords": [
+          "spiritual dreams",
+          "mysticism",
+          "illusion and clarity"
+        ],
+        "psychological_focus": [
+          "Connecting with the divine",
+          "Balancing spiritual idealism and reality",
+          "Exploring the collective unconscious"
+        ],
+        "challenges": [
+          "Escapism or addiction",
+          "Confusion about boundaries"
+        ],
+        "gifts": [
+          "Spiritual sensitivity",
+          "Creative imagination",
+          "Healing through compassion"
+        ],
+        "spiritual_lesson": "To dissolve illusions and awaken to divine truth."
+      },
+      "Pluto": {
+        "keywords": [
+          "deep transformation",
+          "spiritual rebirth",
+          "hidden power"
+        ],
+        "psychological_focus": [
+          "Confronting the shadow self",
+          "Transforming subconscious patterns",
+          "Accessing inner power through vulnerability"
+        ],
+        "challenges": [
+          "Fear of losing control",
+          "Obsessive inner struggles"
+        ],
+        "gifts": [
+          "Profound personal transformation",
+          "Resilience through rebirth",
+          "Ability to empower self and others"
+        ],
+        "spiritual_lesson": "To embrace death and rebirth as keys to spiritual evolution."
+      },
+      "Chiron": {
+        "keywords": [
+          "wounded healer",
+          "spiritual pain",
+          "healing through suffering"
+        ],
+        "psychological_focus": [
+          "Facing deep spiritual wounds",
+          "Transforming pain into healing",
+          "Developing empathy through suffering"
+        ],
+        "challenges": [
+          "Fear of vulnerability",
+          "Avoiding inner wounds"
+        ],
+        "gifts": [
+          "Healing gifts through personal experience",
+          "Authentic compassion",
+          "Teaching others through example"
+        ],
+        "spiritual_lesson": "To heal yourself by embracing and sharing your wounds."
+      },
+      "North Node": {
+        "keywords": [
+          "spiritual destiny",
+          "karma",
+          "growth through surrender"
+        ],
+        "psychological_focus": [
+          "Moving toward spiritual awakening",
+          "Letting go of ego control",
+          "Learning to trust unseen forces"
+        ],
+        "challenges": [
+          "Fear of surrender",
+          "Attachment to material security"
+        ],
+        "gifts": [
+          "Spiritual growth through acceptance",
+          "Ability to inspire others spiritually",
+          "Alignment with soul purpose"
+        ],
+        "spiritual_lesson": "To evolve by surrendering to the flow of spiritual life."
+      }
+    }
+  }
+}
