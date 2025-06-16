@@ -2,9 +2,10 @@ from flask import Flask, request, jsonify, Blueprint
 from flask_cors import CORS
 import logging
 import os
+import sys
 
 # === Import Your Services ===
-from backend.services.cosmic_fusion import CosmicFusionService
+from services.cosmic_fusion import CosmicFusionService
 from backend.services.numerology_service import NumerologyService
 # from insights.daily_insight_engine import CosmicInsightGenerator
 
